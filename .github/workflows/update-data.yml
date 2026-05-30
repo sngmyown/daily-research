@@ -29,4 +29,4 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/market-data.json
           git diff --staged --quiet || git commit -m "auto update"
-          git push
+          git push --force
