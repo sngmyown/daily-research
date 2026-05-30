@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Market Intel Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans+KR:wght@300;400;500&display=swap" rel="stylesheet" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="scanline"></div>
+
+  <header>
+    <div class="header-left">
+      <span class="logo-mark">▲</span>
+      <span class="logo-text">MARKET INTEL</span>
+    </div>
+    <div class="header-right">
+      <span class="date-display" id="date-display">—</span>
+      <span class="market-status" id="market-status">
+        <span class="status-dot"></span> LIVE
+      </span>
+    </div>
+  </header>
+
+  <main>
+    <!-- 핵심 지표 4종 -->
+    <section class="metrics-row">
+      <div class="metric-card" id="card-us10y">
+        <div class="metric-label">US 10Y YIELD</div>
+        <div class="metric-value" id="val-us10y">—</div>
+        <div class="metric-delta" id="delta-us10y"></div>
+        <div class="metric-note" id="note-us10y"></div>
+        <canvas class="sparkline" id="spark-us10y"></canvas>
+      </div>
+      <div class="metric-card" id="card-dxy">
+        <div class="metric-label">DXY</div>
+        <div class="metric-value" id="val-dxy">—</div>
+        <div class="metric-delta" id="delta-dxy"></div>
+        <div class="metric-note" id="note-dxy"></div>
+        <canvas class="sparkline" id="spark-dxy"></canvas>
+      </div>
+      <div class="metric-card" id="card-wti">
+        <div class="metric-label">WTI CRUDE</div>
+        <div class="metric-value" id="val-wti">—</div>
+        <div class="metric-delta" id="delta-wti"></div>
+        <div class="metric-note" id="note-wti"></div>
+        <canvas class="sparkline" id="spark-wti"></canvas>
+      </div>
+      <div class="metric-card" id="card-gold">
+        <div class="metric-label">GOLD XAU/USD</div>
+        <div class="metric-value" id="val-gold">—</div>
+        <div class="metric-delta" id="delta-gold"></div>
+        <div class="metric-note" id="note-gold"></div>
+        <canvas class="sparkline" id="spark-gold"></canvas>
+      </div>
+    </section>
+
+    <!-- 전기 대비 비교 테이블 -->
+    <section class="section">
+      <div class="section-header">
+        <span class="section-tag">01</span>
+        <span class="section-title">PERIOD COMPARISON</span>
+      </div>
+      <div class="compare-table-wrap">
+        <table class="compare-table" id="compare-table">
+          <thead>
+            <tr>
+              <th>지표</th>
+              <th>현재</th>
+              <th>전일</th>
+              <th>전주</th>
+              <th>전월</th>
+              <th>전년</th>
+            </tr>
+          </thead>
+          <tbody id="compare-tbody">
+            <tr><td colspan="6" class="loading-cell">데이터 로딩 중...</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- 경제 지표 -->
+    <section class="section">
+      <div class="section-header">
+        <span class="section-tag">02</span>
+        <span class="section-title">ECONOMIC RELEASES</span>
+      </div>
+      <div class="econ-grid" id="econ-grid">
+        <div class="loading-cell">데이터 로딩 중...</div>
+      </div>
+    </section>
+
+    <!-- 핵심 뉴스 -->
+    <section class="section">
+      <div class="section-header">
+        <span class="section-tag">03</span>
+        <span class="section-title">STRUCTURE-CHANGING NEWS</span>
+      </div>
+      <div id="news-container">
+        <div class="loading-cell">데이터 로딩 중...</div>
+      </div>
+    </section>
+
+    <!-- 업데이트 시각 -->
+    <footer>
+      <span id="last-updated">마지막 업데이트: —</span>
+      <span class="footer-note">데이터 출처: Yahoo Finance · FRED · Alpha Vantage</span>
+    </footer>
+  </main>
+
+  <script src="dashboard.js"></script>
+</body>
+</html>
