@@ -24,7 +24,7 @@ jobs:
         env:
           FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
-        run: python fetch_data.py
+        run: fetch_data.py
 
       - name: 변경된 데이터 파일 커밋 & 푸시
         run: |
