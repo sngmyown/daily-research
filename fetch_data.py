@@ -1,13 +1,8 @@
 """
-fetch_data.py — FRED 없는 버전
-경제 캘린더: TradingView 공개 API (키 불필요)
-시세:        Yahoo Finance (키 불필요)
-뉴스:        NewsAPI (키 있으면 사용, 없으면 스킵)
+fetch_data.py
 """
-
-import json, os, sys, time, urllib.request, urllib.parse, urllib.error
+import json, os, time, urllib.request
 from datetime import datetime, timedelta, timezone
-from html.parser import HTMLParser
 
 KST   = timezone(timedelta(hours=9))
 NOW   = datetime.now(KST)
@@ -40,10 +35,10 @@ def fetch_yahoo(symbol, label):
             "prev_year":  round(get_ago(365), 4),
             "history":    [round(c, 4) for _, c in pairs[-12:]],
         }
-        print(f"  ✅ {label}: {result_data['value']}")
+        print(f"  OK {label}: {result_data['value']}")
         return result_data
     except Exception as e:
-        print(f"  ⚠  {label} 실패: {e}")
+        print(f"  FAIL {label}: {e}")
         return None
 
 def fetch_econ_calendar():
@@ -79,7 +74,7 @@ def fetch_econ_calendar():
             actual   = ev.get("actual",   "")
             forecast = ev.get("forecast", "")
             previous = ev.get("previous", "")
-            if actual in (None, "", "—"):
+            if actual in (None, "", "-"):
                 status = "upcoming"
                 actual = "미발표"
             else:
@@ -95,15 +90,15 @@ def fetch_econ_calendar():
                     status = "inline"
             items.append({
                 "name":     title[:40],
-                "actual":   str(actual)   if actual   else "—",
-                "forecast": str(forecast) if forecast else "—",
-                "previous": str(previous) if previous else "—",
+                "actual":   str(actual)   if actual   else "-",
+                "forecast": str(forecast) if forecast else "-",
+                "previous": str(previous) if previous else "-",
                 "status":   status,
             })
-        print(f"  ✅ 경제 캘린더: {len(items)}개 항목")
+        print(f"  OK 경제 캘린더: {len(items)}개")
         return items[:8]
     except Exception as e:
-        print(f"  ⚠  경제 캘린더 실패: {e}")
+        print(f"  FAIL 경제 캘린더: {e}")
         return []
 
 def fetch_news(api_key):
@@ -124,67 +119,67 @@ def fetch_news(api_key):
                 "tag":    "market",
                 "impact": "뉴스 원문을 확인하세요.",
             })
-        print(f"  ✅ 뉴스: {len(out)}개")
+        print(f"  OK 뉴스: {len(out)}개")
         return out
     except Exception as e:
-        print(f"  ⚠  뉴스 실패: {e}")
+        print(f"  FAIL 뉴스: {e}")
         return []
 
 def note_us10y(v):
-    if v >= 5.0: return f"{v:.2f}% — 고금리 / Gold 불리"
-    if v >= 4.5: return f"{v:.2f}% — 금리 부담 구간"
-    if v >= 4.0: return f"{v:.2f}% — 중립 구간"
-    return         f"{v:.2f}% — 금리 완화 / Gold 유리"
+    if v >= 5.0: return f"{v:.2f}% - 고금리 / Gold 불리"
+    if v >= 4.5: return f"{v:.2f}% - 금리 부담 구간"
+    if v >= 4.0: return f"{v:.2f}% - 중립 구간"
+    return f"{v:.2f}% - 금리 완화 / Gold 유리"
 
 def note_wti(v):
-    if v > 100: return f"${v:.2f} — 고유가 / 인플레 경계"
-    if v > 85:  return f"${v:.2f} — 정상 범위 상단"
-    if v > 70:  return f"${v:.2f} — 적정 범위 (70~85)"
-    return         f"${v:.2f} — 저유가 구간"
+    if v > 100: return f"${v:.2f} - 고유가 / 인플레 경계"
+    if v > 85:  return f"${v:.2f} - 정상 범위 상단"
+    if v > 70:  return f"${v:.2f} - 적정 범위 (70~85)"
+    return f"${v:.2f} - 저유가 구간"
 
 def note_dxy(v):
-    if v > 103: return f"{v:.2f} — 달러 강세 / 신흥국 부담"
-    if v > 100: return f"{v:.2f} — 달러 강세 구간"
-    if v > 97:  return f"{v:.2f} — 중립 구간"
-    return         f"{v:.2f} — 달러 약세 / 원자재 유리"
+    if v > 103: return f"{v:.2f} - 달러 강세 / 신흥국 부담"
+    if v > 100: return f"{v:.2f} - 달러 강세 구간"
+    if v > 97:  return f"{v:.2f} - 중립 구간"
+    return f"{v:.2f} - 달러 약세 / 원자재 유리"
 
 def note_gold(v):
-    return f"${v:,.0f} — US10Y·DXY 하락 시 강세"
+    return f"${v:,.0f} - US10Y/DXY 하락 시 강세"
 
 data_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data", "market-data.json")
-existing  = {}
+existing = {}
 try:
     with open(data_path, encoding="utf-8") as f:
         existing = json.load(f)
-    print("  📂 기존 데이터 로드\n")
+    print("  기존 데이터 로드\n")
 except:
-    print("  📂 기존 데이터 없음 — 새로 생성\n")
+    print("  기존 데이터 없음 - 새로 생성\n")
 
-print("── 시세 수집 ──")
+print("-- 시세 수집 --")
 us10y = fetch_yahoo("^TNX",     "US10Y") ; time.sleep(1)
 dxy   = fetch_yahoo("DX-Y.NYB", "DXY")  ; time.sleep(1)
 wti   = fetch_yahoo("CL=F",     "WTI")  ; time.sleep(1)
 gold  = fetch_yahoo("GC=F",     "Gold") ; time.sleep(1)
 
-print("\n── 경제 캘린더 수집 ──")
+print("\n-- 경제 캘린더 수집 --")
 econ = fetch_econ_calendar()
 if not econ:
     econ = existing.get("economic_announcements", [])
-    print("  → 기존 경제 캘린더 유지")
+    print("  기존 경제 캘린더 유지")
 
-print("\n── 뉴스 수집 ──")
+print("\n-- 뉴스 수집 --")
 NEWS_API_KEY = os.environ.get("NEWS_API_KEY", "")
 news = fetch_news(NEWS_API_KEY)
 if not news:
     news = existing.get("key_news", [])
-    print("  → 기존 뉴스 유지")
+    print("  기존 뉴스 유지")
 
 def keep(new, key):
     if new:
         return new
     old = existing.get("metrics", {}).get(key)
     if old:
-        print(f"  → {key} 기존 데이터 유지")
+        print(f"  {key} 기존 데이터 유지")
         return old
     return {"value": 0, "prev_day": 0, "prev_week": 0,
             "prev_month": 0, "prev_year": 0, "history": [], "note": ""}
@@ -210,12 +205,10 @@ os.makedirs(os.path.dirname(data_path), exist_ok=True)
 with open(data_path, "w", encoding="utf-8") as f:
     json.dump(output, f, ensure_ascii=False, indent=2)
 
-print(f"\n{'='*40}")
-print(f"✅ market-data.json 업데이트 완료")
-print(f"   US10Y : {us10y.get('value','—')}")
-print(f"   DXY   : {dxy.get('value','—')}")
-print(f"   WTI   : {wti.get('value','—')}")
-print(f"   Gold  : {gold.get('value','—')}")
-print(f"   경제지표: {len(econ)}개")
-print(f"   뉴스  : {len(news)}개")
-print(f"{'='*40}")
+print(f"\n== 완료 ==")
+print(f"US10Y : {us10y.get('value','-')}")
+print(f"DXY   : {dxy.get('value','-')}")
+print(f"WTI   : {wti.get('value','-')}")
+print(f"Gold  : {gold.get('value','-')}")
+print(f"경제지표: {len(econ)}개")
+print(f"뉴스  : {len(news)}개")
