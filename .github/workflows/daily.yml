@@ -10,11 +10,15 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    defaults:
+      run:
+        working-directory: ${{ github.workspace }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+      - run: ls -la
       - run: python fetch_data.py
         env:
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
