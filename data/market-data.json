@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30 23:37 KST",
+  "updated_at": "2026-05-31 17:30 KST",
   "metrics": {
     "us10y": {
       "value": 4.453,
@@ -68,7 +68,7 @@
       "note": "$87.36 — 정상 범위 상단"
     },
     "gold": {
-      "value": 4560.5,
+      "value": 4593.0,
       "prev_day": 4499.2998,
       "prev_week": 4521.0,
       "prev_month": 4545.2002,
@@ -85,9 +85,9 @@
         4500.3999,
         4447.5,
         4499.2998,
-        4560.5
+        4593.0
       ],
-      "note": "$4,560 — US10Y·DXY 하락 시 강세"
+      "note": "$4,593 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
@@ -148,5 +148,24 @@
       "status": "upcoming"
     }
   ],
-  "key_news": []
+  "key_news": [
+    {
+      "title": "GLJ Research Upgrades First Solar (FSLR) to Buy",
+      "body": "First Solar, Inc. (NASDAQ:FSLR) is one of the 10 Best Debt-Free S&P 500 Stocks to Buy Now. On May 27, 2026, GLJ Research analyst Gordon Johnson upgraded First Solar, Inc. (NASDAQ:FSLR) to Buy from Hol",
+      "tag": "market",
+      "impact": "뉴스 원문을 확인하세요."
+    },
+    {
+      "title": "Is Sandisk (SNDK) the Best Debt-Free S&P 500 Stock to Buy Now?",
+      "body": "Sandisk Corporation (NASDAQ:SNDK) is one of the 10 Best Debt-Free S&P 500 Stocks to Buy Now. On May 26, 2026, Barclays analyst Tom O’Malley upgraded Sandisk Corporation (NASDAQ:SNDK) to Overweight fro",
+      "tag": "market",
+      "impact": "뉴스 원문을 확인하세요."
+    },
+    {
+      "title": "Tigress Financial Raises its Price Target on Garmin (GRMN)",
+      "body": "Garmin Ltd. (NYSE:GRMN) is one of the 10 Best Debt-Free S&P 500 Stocks to Buy Now. On May 20, 2026, Tigress Financial raised the firm’s price target on Garmin Ltd. (NYSE:GRMN) to $325 from $320 and ma",
+      "tag": "market",
+      "impact": "뉴스 원문을 확인하세요."
+    }
+  ]
 }
