@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-05-31 17:30 KST",
+  "updated_at": "2026-06-02 04:14 KST",
   "metrics": {
     "us10y": {
-      "value": 4.453,
-      "prev_day": 4.455,
-      "prev_week": 4.558,
-      "prev_month": 4.418,
-      "prev_year": 4.424,
+      "value": 4.475,
+      "prev_day": 4.453,
+      "prev_week": 4.493,
+      "prev_month": 4.378,
+      "prev_year": 4.462,
       "history": [
-        4.481,
         4.461,
         4.595,
         4.623,
@@ -19,18 +18,18 @@
         4.493,
         4.481,
         4.455,
-        4.453
+        4.453,
+        4.475
       ],
-      "note": "4.45% — 중립 구간"
+      "note": "4.47% — 중립 구간"
     },
     "dxy": {
-      "value": 98.91,
-      "prev_day": 99.02,
-      "prev_week": 99.32,
-      "prev_month": 98.92,
-      "prev_year": 99.28,
+      "value": 99.185,
+      "prev_day": 98.91,
+      "prev_week": 99.17,
+      "prev_month": 98.21,
+      "prev_year": 98.7,
       "history": [
-        98.48,
         98.88,
         99.27,
         98.97,
@@ -41,18 +40,18 @@
         99.17,
         99.21,
         99.02,
-        98.91
+        98.91,
+        99.185
       ],
-      "note": "98.91 — 중립 구간"
+      "note": "99.19 — 중립 구간"
     },
     "wti": {
-      "value": 87.36,
-      "prev_day": 88.9,
-      "prev_week": 96.6,
-      "prev_month": 106.88,
-      "prev_year": 60.94,
+      "value": 92.37,
+      "prev_day": 87.36,
+      "prev_week": 93.89,
+      "prev_month": 101.94,
+      "prev_year": 62.52,
       "history": [
-        101.02,
         101.17,
         105.42,
         108.66,
@@ -63,18 +62,18 @@
         93.89,
         88.68,
         88.9,
-        87.36
+        87.36,
+        92.37
       ],
-      "note": "$87.36 — 정상 범위 상단"
+      "note": "$92.37 — 정상 범위 상단"
     },
     "gold": {
-      "value": 4593.0,
-      "prev_day": 4499.2998,
-      "prev_week": 4521.0,
-      "prev_month": 4545.2002,
-      "prev_year": 3317.1001,
+      "value": 4517.5,
+      "prev_day": 4560.5,
+      "prev_week": 4500.3999,
+      "prev_month": 4629.8999,
+      "prev_year": 3370.6001,
       "history": [
-        4697.7002,
         4678.1001,
         4555.7998,
         4552.5,
@@ -85,85 +84,86 @@
         4500.3999,
         4447.5,
         4499.2998,
-        4593.0
+        4560.5,
+        4517.5
       ],
-      "note": "$4,593 — US10Y·DXY 하락 시 강세"
+      "note": "$4,518 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
-    {
-      "name": "Fed Powell Speech",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "—",
-      "status": "upcoming"
-    },
-    {
-      "name": "Fed Waller Speech",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "—",
-      "status": "upcoming"
-    },
-    {
-      "name": "S&P Global Manufacturing PMI Final",
-      "actual": "미발표",
-      "forecast": "55.3",
-      "previous": "54.5",
-      "status": "upcoming"
-    },
-    {
-      "name": "ISM Manufacturing Prices",
-      "actual": "미발표",
-      "forecast": "85.3",
-      "previous": "84.6",
-      "status": "upcoming"
-    },
-    {
-      "name": "ISM Manufacturing PMI",
-      "actual": "미발표",
-      "forecast": "52.6",
-      "previous": "52.7",
-      "status": "upcoming"
-    },
-    {
-      "name": "ISM Manufacturing New Orders",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "54.1",
-      "status": "upcoming"
-    },
-    {
-      "name": "ISM Manufacturing Employment",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "46.4",
-      "status": "upcoming"
-    },
     {
       "name": "Fed Kashkari Speech",
       "actual": "미발표",
       "forecast": "—",
       "previous": "—",
       "status": "upcoming"
+    },
+    {
+      "name": "Fed Hammack Speech",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "—",
+      "status": "upcoming"
+    },
+    {
+      "name": "RCM/TIPP Economic Optimism Index",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "42.6",
+      "status": "upcoming"
+    },
+    {
+      "name": "Fed Barr Speech",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "—",
+      "status": "upcoming"
+    },
+    {
+      "name": "S&P Global Composite PMI Final",
+      "actual": "미발표",
+      "forecast": "51.7",
+      "previous": "51.7",
+      "status": "upcoming"
+    },
+    {
+      "name": "S&P Global Services PMI Final",
+      "actual": "미발표",
+      "forecast": "50.9",
+      "previous": "51",
+      "status": "upcoming"
+    },
+    {
+      "name": "ISM Services New Orders",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "53.5",
+      "status": "upcoming"
+    },
+    {
+      "name": "ISM Services Employment",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "48",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "GLJ Research Upgrades First Solar (FSLR) to Buy",
-      "body": "First Solar, Inc. (NASDAQ:FSLR) is one of the 10 Best Debt-Free S&P 500 Stocks to Buy Now. On May 27, 2026, GLJ Research analyst Gordon Johnson upgraded First Solar, Inc. (NASDAQ:FSLR) to Buy from Hol",
+      "title": "The Hanover Insurance Group (THG): Buy, Sell, or Hold Post Q1 Earnings?",
+      "body": "The Hanover Insurance Group has been treading water for the past six months, holding steady at $186.29. The stock also fell short of the S&P 500’s 10.9% gain during that period.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Is Sandisk (SNDK) the Best Debt-Free S&P 500 Stock to Buy Now?",
-      "body": "Sandisk Corporation (NASDAQ:SNDK) is one of the 10 Best Debt-Free S&P 500 Stocks to Buy Now. On May 26, 2026, Barclays analyst Tom O’Malley upgraded Sandisk Corporation (NASDAQ:SNDK) to Overweight fro",
+      "title": "3 Reasons to Sell FLG and 1 Stock to Buy Instead",
+      "body": "Flagstar Financial has followed the market’s trajectory closely, rising in tandem with the S&P 500 over the past six months. The stock has climbed by 13.3% to $14.06 per share while the index has gain",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Tigress Financial Raises its Price Target on Garmin (GRMN)",
-      "body": "Garmin Ltd. (NYSE:GRMN) is one of the 10 Best Debt-Free S&P 500 Stocks to Buy Now. On May 20, 2026, Tigress Financial raised the firm’s price target on Garmin Ltd. (NYSE:GRMN) to $325 from $320 and ma",
+      "title": "3 Reasons GH is Risky and 1 Stock to Buy Instead",
+      "body": "Over the past six months, Guardant Health has been a great trade, beating the S&P 500 by 11.7%. Its stock price has climbed to $129.08, representing a healthy 22.7% increase. This was partly thanks to",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
