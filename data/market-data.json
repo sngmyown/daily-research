@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02 04:14 KST",
+  "updated_at": "2026-06-02 21:29 KST",
   "metrics": {
     "us10y": {
       "value": 4.475,
@@ -24,13 +24,12 @@
       "note": "4.47% — 중립 구간"
     },
     "dxy": {
-      "value": 99.185,
-      "prev_day": 98.91,
+      "value": 99.067,
+      "prev_day": 99.2,
       "prev_week": 99.17,
-      "prev_month": 98.21,
+      "prev_month": 98.47,
       "prev_year": 98.7,
       "history": [
-        98.88,
         99.27,
         98.97,
         99.3,
@@ -41,18 +40,18 @@
         99.21,
         99.02,
         98.91,
-        99.185
+        99.2,
+        99.067
       ],
-      "note": "99.19 — 중립 구간"
+      "note": "99.07 — 중립 구간"
     },
     "wti": {
-      "value": 92.37,
-      "prev_day": 87.36,
+      "value": 90.65,
+      "prev_day": 92.16,
       "prev_week": 93.89,
-      "prev_month": 101.94,
+      "prev_month": 106.42,
       "prev_year": 62.52,
       "history": [
-        101.17,
         105.42,
         108.66,
         107.77,
@@ -63,18 +62,18 @@
         88.68,
         88.9,
         87.36,
-        92.37
+        92.16,
+        90.65
       ],
-      "note": "$92.37 — 정상 범위 상단"
+      "note": "$90.65 — 정상 범위 상단"
     },
     "gold": {
-      "value": 4517.5,
-      "prev_day": 4560.5,
+      "value": 4556.6001,
+      "prev_day": 4475.2002,
       "prev_week": 4500.3999,
-      "prev_month": 4629.8999,
+      "prev_month": 4519.5,
       "prev_year": 3370.6001,
       "history": [
-        4678.1001,
         4555.7998,
         4552.5,
         4506.2998,
@@ -85,9 +84,10 @@
         4447.5,
         4499.2998,
         4560.5,
-        4517.5
+        4475.2002,
+        4556.6001
       ],
-      "note": "$4,518 — US10Y·DXY 하락 시 강세"
+      "note": "$4,557 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
@@ -108,7 +108,7 @@
     {
       "name": "RCM/TIPP Economic Optimism Index",
       "actual": "미발표",
-      "forecast": "—",
+      "forecast": "44.5",
       "previous": "42.6",
       "status": "upcoming"
     },
@@ -150,20 +150,20 @@
   ],
   "key_news": [
     {
-      "title": "The Hanover Insurance Group (THG): Buy, Sell, or Hold Post Q1 Earnings?",
-      "body": "The Hanover Insurance Group has been treading water for the past six months, holding steady at $186.29. The stock also fell short of the S&P 500’s 10.9% gain during that period.",
+      "title": "Stock Market Today: Dow Falls With U.S.-Iran Talks 'Continuing'; AI Name Marvell",
+      "body": "Stock Market Today: The Dow Jones index dropped Tuesday with U.S.-Iran talks ongoing. AI name Marvell stock soared 19%.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "3 Reasons to Sell FLG and 1 Stock to Buy Instead",
-      "body": "Flagstar Financial has followed the market’s trajectory closely, rising in tandem with the S&P 500 over the past six months. The stock has climbed by 13.3% to $14.06 per share while the index has gain",
+      "title": "Broadcom Stock Gets a Double Boost From Google and Marvell",
+      "body": "Two stories were moving markets on Tuesday—Google parent  Alphabet  unveiled a plan to issue $80 billion of equity, and  Nvidia  CEO Jensen Huang said  Marvell Technology  could top a $1 trillion valu",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "3 Reasons GH is Risky and 1 Stock to Buy Instead",
-      "body": "Over the past six months, Guardant Health has been a great trade, beating the S&P 500 by 11.7%. Its stock price has climbed to $129.08, representing a healthy 22.7% increase. This was partly thanks to",
+      "title": "Adding a Healthcare Stock to Your Portfolio? FHLC Offers Broad Coverage While PP",
+      "body": "Expense ratios, asset size, and portfolio strategy set these two healthcare ETFs apart, yet their risk and dividend profiles tell a different story.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
