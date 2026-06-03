@@ -1,15 +1,13 @@
 {
-  "updated_at": "2026-06-02 21:29 KST",
+  "updated_at": "2026-06-04 00:28 KST",
   "metrics": {
     "us10y": {
-      "value": 4.475,
-      "prev_day": 4.453,
-      "prev_week": 4.493,
-      "prev_month": 4.378,
-      "prev_year": 4.462,
+      "value": 4.489,
+      "prev_day": 4.455,
+      "prev_week": 4.481,
+      "prev_month": 4.446,
+      "prev_year": 4.46,
       "history": [
-        4.461,
-        4.595,
         4.623,
         4.667,
         4.572,
@@ -19,18 +17,19 @@
         4.481,
         4.455,
         4.453,
-        4.475
+        4.475,
+        4.455,
+        4.489
       ],
-      "note": "4.47% — 중립 구간"
+      "note": "4.49% — 중립 구간"
     },
     "dxy": {
-      "value": 99.067,
-      "prev_day": 99.2,
-      "prev_week": 99.17,
+      "value": 99.422,
+      "prev_day": 99.22,
+      "prev_week": 99.21,
       "prev_month": 98.47,
-      "prev_year": 98.7,
+      "prev_year": 99.25,
       "history": [
-        99.27,
         98.97,
         99.3,
         99.11,
@@ -41,18 +40,18 @@
         99.02,
         98.91,
         99.2,
-        99.067
+        99.22,
+        99.422
       ],
-      "note": "99.07 — 중립 구간"
+      "note": "99.42 — 중립 구간"
     },
     "wti": {
-      "value": 90.65,
-      "prev_day": 92.16,
-      "prev_week": 93.89,
+      "value": 95.28,
+      "prev_day": 93.76,
+      "prev_week": 88.68,
       "prev_month": 106.42,
-      "prev_year": 62.52,
+      "prev_year": 63.41,
       "history": [
-        105.42,
         108.66,
         107.77,
         98.26,
@@ -63,18 +62,18 @@
         88.9,
         87.36,
         92.16,
-        90.65
+        93.76,
+        95.28
       ],
-      "note": "$90.65 — 정상 범위 상단"
+      "note": "$95.28 — 정상 범위 상단"
     },
     "gold": {
-      "value": 4556.6001,
-      "prev_day": 4475.2002,
-      "prev_week": 4500.3999,
+      "value": 4476.7002,
+      "prev_day": 4489.1001,
+      "prev_week": 4447.5,
       "prev_month": 4519.5,
-      "prev_year": 3370.6001,
+      "prev_year": 3350.2,
       "history": [
-        4555.7998,
         4552.5,
         4506.2998,
         4531.2998,
@@ -85,85 +84,86 @@
         4499.2998,
         4560.5,
         4475.2002,
-        4556.6001
+        4489.1001,
+        4476.7002
       ],
-      "note": "$4,557 — US10Y·DXY 하락 시 강세"
+      "note": "$4,477 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
     {
-      "name": "Fed Kashkari Speech",
+      "name": "Initial Jobless Claims",
+      "actual": "미발표",
+      "forecast": "213",
+      "previous": "215",
+      "status": "upcoming"
+    },
+    {
+      "name": "Jobless Claims 4-week Average",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "209",
+      "status": "upcoming"
+    },
+    {
+      "name": "Continuing Jobless Claims",
+      "actual": "미발표",
+      "forecast": "1780",
+      "previous": "1786",
+      "status": "upcoming"
+    },
+    {
+      "name": "Nonfarm Productivity QoQ Final",
+      "actual": "미발표",
+      "forecast": "0.5",
+      "previous": "1.6",
+      "status": "upcoming"
+    },
+    {
+      "name": "Fed Barkin Speech",
       "actual": "미발표",
       "forecast": "—",
       "previous": "—",
       "status": "upcoming"
     },
     {
-      "name": "Fed Hammack Speech",
+      "name": "NY Fed Bill Purchases 1 to 4 months",
+      "actual": "미발표",
+      "forecast": "6.576",
+      "previous": "—",
+      "status": "upcoming"
+    },
+    {
+      "name": "Fed Daly Speech",
       "actual": "미발표",
       "forecast": "—",
       "previous": "—",
       "status": "upcoming"
     },
     {
-      "name": "RCM/TIPP Economic Optimism Index",
-      "actual": "미발표",
-      "forecast": "44.5",
-      "previous": "42.6",
-      "status": "upcoming"
-    },
-    {
-      "name": "Fed Barr Speech",
+      "name": "Fed Balance Sheet",
       "actual": "미발표",
       "forecast": "—",
-      "previous": "—",
-      "status": "upcoming"
-    },
-    {
-      "name": "S&P Global Composite PMI Final",
-      "actual": "미발표",
-      "forecast": "51.7",
-      "previous": "51.7",
-      "status": "upcoming"
-    },
-    {
-      "name": "S&P Global Services PMI Final",
-      "actual": "미발표",
-      "forecast": "50.9",
-      "previous": "51",
-      "status": "upcoming"
-    },
-    {
-      "name": "ISM Services New Orders",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "53.5",
-      "status": "upcoming"
-    },
-    {
-      "name": "ISM Services Employment",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "48",
+      "previous": "6.704",
       "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Stock Market Today: Dow Falls With U.S.-Iran Talks 'Continuing'; AI Name Marvell",
-      "body": "Stock Market Today: The Dow Jones index dropped Tuesday with U.S.-Iran talks ongoing. AI name Marvell stock soared 19%.",
+      "title": "2 S&P 500 Stocks with Solid Fundamentals and 1 We Find Risky",
+      "body": "While the S&P 500 (^GSPC) includes industry leaders, not every stock in the index is a winner. Some companies are past their prime, weighed down by poor execution, weak financials, or structural headw",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Broadcom Stock Gets a Double Boost From Google and Marvell",
-      "body": "Two stories were moving markets on Tuesday—Google parent  Alphabet  unveiled a plan to issue $80 billion of equity, and  Nvidia  CEO Jensen Huang said  Marvell Technology  could top a $1 trillion valu",
+      "title": "2 Reasons to Avoid EE and 1 Stock to Buy Instead",
+      "body": "Excelerate Energy has followed the market’s trajectory closely, rising in tandem with the S&P 500 over the past six months. The stock has climbed by 14.2% to $32.74 per share while the index has gaine",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Adding a Healthcare Stock to Your Portfolio? FHLC Offers Broad Coverage While PP",
-      "body": "Expense ratios, asset size, and portfolio strategy set these two healthcare ETFs apart, yet their risk and dividend profiles tell a different story.",
+      "title": "Why Palo Alto Networks Stock Is Sinking Today",
+      "body": "Palo Alto just published a strong quarterly report. So why is the stock falling?",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
