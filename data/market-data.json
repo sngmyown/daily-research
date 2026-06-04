@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-04 00:28 KST",
+  "updated_at": "2026-06-04 19:51 KST",
   "metrics": {
     "us10y": {
-      "value": 4.489,
+      "value": 4.491,
       "prev_day": 4.455,
       "prev_week": 4.481,
       "prev_month": 4.446,
@@ -19,18 +19,17 @@
         4.453,
         4.475,
         4.455,
-        4.489
+        4.491
       ],
       "note": "4.49% — 중립 구간"
     },
     "dxy": {
-      "value": 99.422,
-      "prev_day": 99.22,
-      "prev_week": 99.21,
-      "prev_month": 98.47,
-      "prev_year": 99.25,
+      "value": 99.301,
+      "prev_day": 99.53,
+      "prev_week": 99.02,
+      "prev_month": 98.48,
+      "prev_year": 98.79,
       "history": [
-        98.97,
         99.3,
         99.11,
         99.19,
@@ -41,18 +40,18 @@
         98.91,
         99.2,
         99.22,
-        99.422
+        99.53,
+        99.301
       ],
-      "note": "99.42 — 중립 구간"
+      "note": "99.30 — 중립 구간"
     },
     "wti": {
-      "value": 95.28,
-      "prev_day": 93.76,
-      "prev_week": 88.68,
-      "prev_month": 106.42,
-      "prev_year": 63.41,
+      "value": 95.24,
+      "prev_day": 96.02,
+      "prev_week": 88.9,
+      "prev_month": 102.27,
+      "prev_year": 62.85,
       "history": [
-        108.66,
         107.77,
         98.26,
         96.35,
@@ -63,18 +62,18 @@
         87.36,
         92.16,
         93.76,
-        95.28
+        96.02,
+        95.24
       ],
-      "note": "$95.28 — 정상 범위 상단"
+      "note": "$95.24 — 정상 범위 상단"
     },
     "gold": {
-      "value": 4476.7002,
-      "prev_day": 4489.1001,
-      "prev_week": 4447.5,
-      "prev_month": 4519.5,
-      "prev_year": 3350.2,
+      "value": 4496.2998,
+      "prev_day": 4436.7002,
+      "prev_week": 4499.2998,
+      "prev_month": 4555.7998,
+      "prev_year": 3373.5,
       "history": [
-        4552.5,
         4506.2998,
         4531.2998,
         4539.7998,
@@ -85,9 +84,10 @@
         4560.5,
         4475.2002,
         4489.1001,
-        4476.7002
+        4436.7002,
+        4496.2998
       ],
-      "note": "$4,477 — US10Y·DXY 하락 시 강세"
+      "note": "$4,496 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
@@ -150,20 +150,20 @@
   ],
   "key_news": [
     {
-      "title": "2 S&P 500 Stocks with Solid Fundamentals and 1 We Find Risky",
-      "body": "While the S&P 500 (^GSPC) includes industry leaders, not every stock in the index is a winner. Some companies are past their prime, weighed down by poor execution, weak financials, or structural headw",
+      "title": "3 Things to Know About Home Depot Stock Before You Buy",
+      "body": "With this retail stock trading 28% down from its peak, investors might be interested in this opportunity.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "2 Reasons to Avoid EE and 1 Stock to Buy Instead",
-      "body": "Excelerate Energy has followed the market’s trajectory closely, rising in tandem with the S&P 500 over the past six months. The stock has climbed by 14.2% to $32.74 per share while the index has gaine",
+      "title": "SpaceX plans record stock market debut that could make Elon Musk a trillionaire",
+      "body": "SpaceX says it plans to raise up to $75 billion when it goes public this month in what could be the largest stock market debut ever, and it would put Elon Musk on course to becoming the first trillion",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Why Palo Alto Networks Stock Is Sinking Today",
-      "body": "Palo Alto just published a strong quarterly report. So why is the stock falling?",
+      "title": "The Stock Market Sounds an Alarm as Investors Get a Grim Update on President Tru",
+      "body": "Inflation has accelerated and economic growth has slowed under President Trump.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
