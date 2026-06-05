@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-06-04 19:51 KST",
+  "updated_at": "2026-06-05 19:59 KST",
   "metrics": {
     "us10y": {
-      "value": 4.491,
-      "prev_day": 4.455,
-      "prev_week": 4.481,
-      "prev_month": 4.446,
-      "prev_year": 4.46,
+      "value": 4.477,
+      "prev_day": 4.491,
+      "prev_week": 4.455,
+      "prev_month": 4.416,
+      "prev_year": 4.365,
       "history": [
-        4.623,
         4.667,
         4.572,
         4.586,
@@ -19,18 +18,18 @@
         4.453,
         4.475,
         4.455,
-        4.491
+        4.491,
+        4.477
       ],
-      "note": "4.49% — 중립 구간"
+      "note": "4.48% — 중립 구간"
     },
     "dxy": {
-      "value": 99.301,
-      "prev_day": 99.53,
-      "prev_week": 99.02,
-      "prev_month": 98.48,
-      "prev_year": 98.79,
+      "value": 99.192,
+      "prev_day": 99.41,
+      "prev_week": 98.91,
+      "prev_month": 98.02,
+      "prev_year": 98.74,
       "history": [
-        99.3,
         99.11,
         99.19,
         99.32,
@@ -41,18 +40,18 @@
         99.2,
         99.22,
         99.53,
-        99.301
+        99.41,
+        99.192
       ],
-      "note": "99.30 — 중립 구간"
+      "note": "99.19 — 중립 구간"
     },
     "wti": {
-      "value": 95.24,
-      "prev_day": 96.02,
-      "prev_week": 88.9,
-      "prev_month": 102.27,
-      "prev_year": 62.85,
+      "value": 93.11,
+      "prev_day": 93.04,
+      "prev_week": 87.36,
+      "prev_month": 95.08,
+      "prev_year": 63.37,
       "history": [
-        107.77,
         98.26,
         96.35,
         96.6,
@@ -63,18 +62,18 @@
         92.16,
         93.76,
         96.02,
-        95.24
+        93.04,
+        93.11
       ],
-      "note": "$95.24 — 정상 범위 상단"
+      "note": "$93.11 — 정상 범위 상단"
     },
     "gold": {
-      "value": 4496.2998,
-      "prev_day": 4436.7002,
-      "prev_week": 4499.2998,
-      "prev_month": 4555.7998,
-      "prev_year": 3373.5,
+      "value": 4493.1001,
+      "prev_day": 4475.7998,
+      "prev_week": 4560.5,
+      "prev_month": 4681.8999,
+      "prev_year": 3350.7,
       "history": [
-        4506.2998,
         4531.2998,
         4539.7998,
         4521.0,
@@ -85,85 +84,65 @@
         4475.2002,
         4489.1001,
         4436.7002,
-        4496.2998
+        4475.7998,
+        4493.1001
       ],
-      "note": "$4,496 — US10Y·DXY 하락 시 강세"
+      "note": "$4,493 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
     {
-      "name": "Initial Jobless Claims",
-      "actual": "미발표",
-      "forecast": "213",
-      "previous": "215",
-      "status": "upcoming"
-    },
-    {
-      "name": "Jobless Claims 4-week Average",
+      "name": "U-6 Unemployment Rate",
       "actual": "미발표",
       "forecast": "—",
-      "previous": "209",
+      "previous": "8.2",
       "status": "upcoming"
     },
     {
-      "name": "Continuing Jobless Claims",
+      "name": "Nonfarm Payrolls Private",
       "actual": "미발표",
-      "forecast": "1780",
-      "previous": "1786",
+      "forecast": "85",
+      "previous": "123",
       "status": "upcoming"
     },
     {
-      "name": "Nonfarm Productivity QoQ Final",
+      "name": "Unemployment Rate",
       "actual": "미발표",
-      "forecast": "0.5",
-      "previous": "1.6",
+      "forecast": "4.3",
+      "previous": "4.3",
       "status": "upcoming"
     },
     {
-      "name": "Fed Barkin Speech",
+      "name": "Fed Barr Speech",
       "actual": "미발표",
       "forecast": "—",
       "previous": "—",
       "status": "upcoming"
     },
     {
-      "name": "NY Fed Bill Purchases 1 to 4 months",
-      "actual": "미발표",
-      "forecast": "6.576",
-      "previous": "—",
-      "status": "upcoming"
-    },
-    {
-      "name": "Fed Daly Speech",
+      "name": "Consumer Inflation Expectations",
       "actual": "미발표",
       "forecast": "—",
-      "previous": "—",
-      "status": "upcoming"
-    },
-    {
-      "name": "Fed Balance Sheet",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "6.704",
+      "previous": "3.6",
       "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "3 Things to Know About Home Depot Stock Before You Buy",
-      "body": "With this retail stock trading 28% down from its peak, investors might be interested in this opportunity.",
+      "title": "Dow Jones Futures Rise, Techs Fall After Shrugging Off Broadcom, Ciena; Jobs Rep",
+      "body": "Dow Jones futures rose slightly early Friday, while S&P 500 futures and Nasdaq futures fell modestly. The May jobs report is on tap before Friday's open. S&P Dow Jones Indices announced late Thursday ",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "SpaceX plans record stock market debut that could make Elon Musk a trillionaire",
-      "body": "SpaceX says it plans to raise up to $75 billion when it goes public this month in what could be the largest stock market debut ever, and it would put Elon Musk on course to becoming the first trillion",
+      "title": "New Fed Chairman Kevin Warsh Is Now in a Position Where Rate Cuts Are Virtually ",
+      "body": "Here's why higher interest rates could mean lower stock prices.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "The Stock Market Sounds an Alarm as Investors Get a Grim Update on President Tru",
-      "body": "Inflation has accelerated and economic growth has slowed under President Trump.",
+      "title": "3 Financials Stocks That Fall Short",
+      "body": "Financial institutions play a critical role, offering everything from consumer banking to wealth management and specialized financial solutions. Still, investors are uneasy as companies face challenge",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
