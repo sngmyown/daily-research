@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-06-05 19:59 KST",
+  "updated_at": "2026-06-06 17:06 KST",
   "metrics": {
     "us10y": {
-      "value": 4.477,
-      "prev_day": 4.491,
-      "prev_week": 4.455,
-      "prev_month": 4.416,
-      "prev_year": 4.365,
+      "value": 4.536,
+      "prev_day": 4.477,
+      "prev_week": 4.453,
+      "prev_month": 4.356,
+      "prev_year": 4.394,
       "history": [
-        4.667,
         4.572,
         4.586,
         4.558,
@@ -19,12 +18,13 @@
         4.475,
         4.455,
         4.491,
-        4.477
+        4.477,
+        4.536
       ],
-      "note": "4.48% — 중립 구간"
+      "note": "4.54% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 99.192,
+      "value": 100.07,
       "prev_day": 99.41,
       "prev_week": 98.91,
       "prev_month": 98.02,
@@ -41,12 +41,12 @@
         99.22,
         99.53,
         99.41,
-        99.192
+        100.07
       ],
-      "note": "99.19 — 중립 구간"
+      "note": "100.07 — 달러 강세 구간"
     },
     "wti": {
-      "value": 93.11,
+      "value": 90.54,
       "prev_day": 93.04,
       "prev_week": 87.36,
       "prev_month": 95.08,
@@ -63,12 +63,12 @@
         93.76,
         96.02,
         93.04,
-        93.11
+        90.54
       ],
-      "note": "$93.11 — 정상 범위 상단"
+      "note": "$90.54 — 정상 범위 상단"
     },
     "gold": {
-      "value": 4493.1001,
+      "value": 4337.1001,
       "prev_day": 4475.7998,
       "prev_week": 4560.5,
       "prev_month": 4681.8999,
@@ -85,33 +85,12 @@
         4489.1001,
         4436.7002,
         4475.7998,
-        4493.1001
+        4337.1001
       ],
-      "note": "$4,493 — US10Y·DXY 하락 시 강세"
+      "note": "$4,337 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
-    {
-      "name": "U-6 Unemployment Rate",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "8.2",
-      "status": "upcoming"
-    },
-    {
-      "name": "Nonfarm Payrolls Private",
-      "actual": "미발표",
-      "forecast": "85",
-      "previous": "123",
-      "status": "upcoming"
-    },
-    {
-      "name": "Unemployment Rate",
-      "actual": "미발표",
-      "forecast": "4.3",
-      "previous": "4.3",
-      "status": "upcoming"
-    },
     {
       "name": "Fed Barr Speech",
       "actual": "미발표",
@@ -125,24 +104,38 @@
       "forecast": "—",
       "previous": "3.6",
       "status": "upcoming"
+    },
+    {
+      "name": "NFIB Business Optimism Index",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "95.9",
+      "status": "upcoming"
+    },
+    {
+      "name": "NY Fed Bill Purchases 4 to 12 months",
+      "actual": "미발표",
+      "forecast": "3.288",
+      "previous": "—",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Dow Jones Futures Rise, Techs Fall After Shrugging Off Broadcom, Ciena; Jobs Rep",
-      "body": "Dow Jones futures rose slightly early Friday, while S&P 500 futures and Nasdaq futures fell modestly. The May jobs report is on tap before Friday's open. S&P Dow Jones Indices announced late Thursday ",
+      "title": "ETF Zoo: What Happens When Tech Eats the Entire Market?",
+      "body": "The imminent SpaceX IPO will have both immediate and longer-ranging impacts on markets. Find out why one ETF Zoo crew member cautions investors to “hold onto your butts”, the risks of such a tech-domi",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "New Fed Chairman Kevin Warsh Is Now in a Position Where Rate Cuts Are Virtually ",
-      "body": "Here's why higher interest rates could mean lower stock prices.",
+      "title": "The Market Has Only Done This 4 Times Since World War II. Here's What Comes Next",
+      "body": "Three of those times were after a recession. The other was before a huge market crash.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "3 Financials Stocks That Fall Short",
-      "body": "Financial institutions play a critical role, offering everything from consumer banking to wealth management and specialized financial solutions. Still, investors are uneasy as companies face challenge",
+      "title": "Earnings season takeaways: resilient, but for how long?",
+      "body": "Investing.com -- Goldman Sachs said strong corporate earnings and resilient consumer spending indicate the U.S. economy remains on a solid footing, although slowing household demand and rising cost pr",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
