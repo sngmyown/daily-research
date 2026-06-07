@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06 17:06 KST",
+  "updated_at": "2026-06-07 18:52 KST",
   "metrics": {
     "us10y": {
       "value": 4.536,
@@ -68,7 +68,7 @@
       "note": "$90.54 — 정상 범위 상단"
     },
     "gold": {
-      "value": 4337.1001,
+      "value": 4365.2998,
       "prev_day": 4475.7998,
       "prev_week": 4560.5,
       "prev_month": 4681.8999,
@@ -85,19 +85,12 @@
         4489.1001,
         4436.7002,
         4475.7998,
-        4337.1001
+        4365.2998
       ],
-      "note": "$4,337 — US10Y·DXY 하락 시 강세"
+      "note": "$4,365 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
-    {
-      "name": "Fed Barr Speech",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "—",
-      "status": "upcoming"
-    },
     {
       "name": "Consumer Inflation Expectations",
       "actual": "미발표",
@@ -108,7 +101,7 @@
     {
       "name": "NFIB Business Optimism Index",
       "actual": "미발표",
-      "forecast": "—",
+      "forecast": "96",
       "previous": "95.9",
       "status": "upcoming"
     },
@@ -118,24 +111,59 @@
       "forecast": "3.288",
       "previous": "—",
       "status": "upcoming"
+    },
+    {
+      "name": "Core Inflation Rate MoM",
+      "actual": "미발표",
+      "forecast": "0.3",
+      "previous": "0.4",
+      "status": "upcoming"
+    },
+    {
+      "name": "Inflation Rate MoM",
+      "actual": "미발표",
+      "forecast": "0.5",
+      "previous": "0.6",
+      "status": "upcoming"
+    },
+    {
+      "name": "CPI",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "333.02",
+      "status": "upcoming"
+    },
+    {
+      "name": "Core Inflation Rate YoY",
+      "actual": "미발표",
+      "forecast": "2.9",
+      "previous": "2.8",
+      "status": "upcoming"
+    },
+    {
+      "name": "Inflation Rate YoY",
+      "actual": "미발표",
+      "forecast": "4.2",
+      "previous": "3.8",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "ETF Zoo: What Happens When Tech Eats the Entire Market?",
-      "body": "The imminent SpaceX IPO will have both immediate and longer-ranging impacts on markets. Find out why one ETF Zoo crew member cautions investors to “hold onto your butts”, the risks of such a tech-domi",
+      "title": "Should You Follow the Crowd? Maybe With This Big-Picture Trade.",
+      "body": "Vanguard Total International Stock Index ETF is seeing material cash inflows, and there's a good reason.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "The Market Has Only Done This 4 Times Since World War II. Here's What Comes Next",
-      "body": "Three of those times were after a recession. The other was before a huge market crash.",
+      "title": "3 Dividend Stocks to Buy Hand Over Fist in June",
+      "body": "They sport recent dividend yields of 3.25%, 6.7%, and a whopping 7.7%.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Earnings season takeaways: resilient, but for how long?",
-      "body": "Investing.com -- Goldman Sachs said strong corporate earnings and resilient consumer spending indicate the U.S. economy remains on a solid footing, although slowing household demand and rising cost pr",
+      "title": "Bank of America resets Broadcom stock price target after earnings",
+      "body": "Broadcom (AVGO) stock closed the June 4 trading session down 12.59% at $418.91. The stock took a tumble following the release of the second-quarter (Q2) fiscal year 2026 (FY26) earnings report on June",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
