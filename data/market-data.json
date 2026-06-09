@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-08 22:55 KST",
+  "updated_at": "2026-06-09 19:45 KST",
   "metrics": {
     "us10y": {
-      "value": 4.52,
+      "value": 4.552,
       "prev_day": 4.536,
       "prev_week": 4.475,
       "prev_month": 4.364,
@@ -19,18 +19,17 @@
         4.491,
         4.477,
         4.536,
-        4.52
+        4.552
       ],
-      "note": "4.52% — 금리 부담 구간"
+      "note": "4.55% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 99.883,
-      "prev_day": 100.07,
-      "prev_week": 99.2,
-      "prev_month": 97.84,
+      "value": 99.766,
+      "prev_day": 100.05,
+      "prev_week": 99.22,
+      "prev_month": 97.94,
       "prev_year": 98.94,
       "history": [
-        99.19,
         99.32,
         99.17,
         99.21,
@@ -41,18 +40,18 @@
         99.53,
         99.41,
         100.07,
-        99.883
+        100.05,
+        99.766
       ],
-      "note": "99.88 — 중립 구간"
+      "note": "99.77 — 중립 구간"
     },
     "wti": {
-      "value": 90.79,
-      "prev_day": 90.54,
-      "prev_week": 92.16,
-      "prev_month": 95.42,
+      "value": 89.31,
+      "prev_day": 91.3,
+      "prev_week": 93.76,
+      "prev_month": 98.07,
       "prev_year": 65.29,
       "history": [
-        96.35,
         96.6,
         93.89,
         88.68,
@@ -63,18 +62,18 @@
         96.02,
         93.04,
         90.54,
-        90.79
+        91.3,
+        89.31
       ],
-      "note": "$90.79 — 정상 범위 상단"
+      "note": "$89.31 — 정상 범위 상단"
     },
     "gold": {
-      "value": 4358.6001,
-      "prev_day": 4337.1001,
-      "prev_week": 4475.2002,
-      "prev_month": 4720.3999,
+      "value": 4356.7998,
+      "prev_day": 4335.8999,
+      "prev_week": 4489.1001,
+      "prev_month": 4718.7002,
       "prev_year": 3332.1001,
       "history": [
-        4539.7998,
         4521.0,
         4500.3999,
         4447.5,
@@ -85,25 +84,19 @@
         4436.7002,
         4475.7998,
         4337.1001,
-        4358.6001
+        4335.8999,
+        4356.7998
       ],
-      "note": "$4,359 — US10Y·DXY 하락 시 강세"
+      "note": "$4,357 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
     {
-      "name": "Consumer Inflation Expectations",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "3.6",
-      "status": "upcoming"
-    },
-    {
       "name": "NFIB Business Optimism Index",
-      "actual": "미발표",
+      "actual": "95.3",
       "forecast": "96",
       "previous": "95.9",
-      "status": "upcoming"
+      "status": "miss"
     },
     {
       "name": "NY Fed Bill Purchases 4 to 12 months",
@@ -146,24 +139,31 @@
       "forecast": "4.2",
       "previous": "3.8",
       "status": "upcoming"
+    },
+    {
+      "name": "CPI s.a",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "332.407",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Stock Market Today: Dow Rallies On Trump, Iran Comments; Marvell Pops On S&P 500",
-      "body": "Stock Market Today: The Dow Jones index rose Monday on Trump's latest Iran comments. Marvell stock surged on news that it'll join the S&P 500.",
+      "title": "Are You a New Stock Market Investor in June 2026? Here's Warren Buffett's Advice",
+      "body": "After learning about the S&P 500 index's growth in the past, it makes sense why you'd want to start putting money to work.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Is the Countdown to $150 Oil On as the Iran War Drags?",
-      "body": "With a brutal semiconductor sell-off weighing heavily on the tech sector and the broader stock markets on Friday, as investors ponder the latest hotter-than-expected jobs print, perhaps a major risk i",
+      "title": "My Favorite S&P 500 Stock to Buy During the Dip",
+      "body": "Cyclical economic factors have hurt Home Depot's results.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Scared of a stock market bubble? These 3 charts will ease your darkest fears.",
-      "body": "There are reasons to believe there is no stock market bubble despite feverish trading activity.",
+      "title": "U.S. Futures Rise as Trump Signals Progress on Iran and AI Stocks Rebound: Dow J",
+      "body": "U. S. equity futures pointed higher on Tuesday as investors monitored developments surrounding the conflict with Iran and a recovery in artificial intelligence-related technology shares.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
