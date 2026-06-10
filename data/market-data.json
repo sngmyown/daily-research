@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-09 19:45 KST",
+  "updated_at": "2026-06-10 20:48 KST",
   "metrics": {
     "us10y": {
       "value": 4.552,
@@ -24,11 +24,11 @@
       "note": "4.55% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 99.766,
+      "value": 100.007,
       "prev_day": 100.05,
-      "prev_week": 99.22,
+      "prev_week": 99.53,
       "prev_month": 97.94,
-      "prev_year": 98.94,
+      "prev_year": 99.05,
       "history": [
         99.32,
         99.17,
@@ -41,18 +41,17 @@
         99.41,
         100.07,
         100.05,
-        99.766
+        100.007
       ],
-      "note": "99.77 — 중립 구간"
+      "note": "100.01 — 달러 강세 구간"
     },
     "wti": {
-      "value": 89.31,
-      "prev_day": 91.3,
-      "prev_week": 93.76,
+      "value": 90.05,
+      "prev_day": 88.2,
+      "prev_week": 96.02,
       "prev_month": 98.07,
-      "prev_year": 65.29,
+      "prev_year": 64.98,
       "history": [
-        96.6,
         93.89,
         88.68,
         88.9,
@@ -63,18 +62,18 @@
         93.04,
         90.54,
         91.3,
-        89.31
+        88.2,
+        90.05
       ],
-      "note": "$89.31 — 정상 범위 상단"
+      "note": "$90.05 — 정상 범위 상단"
     },
     "gold": {
-      "value": 4356.7998,
-      "prev_day": 4335.8999,
-      "prev_week": 4489.1001,
+      "value": 4181.6001,
+      "prev_day": 4260.0,
+      "prev_week": 4436.7002,
       "prev_month": 4718.7002,
-      "prev_year": 3332.1001,
+      "prev_year": 3320.8999,
       "history": [
-        4521.0,
         4500.3999,
         4447.5,
         4499.2998,
@@ -85,26 +84,13 @@
         4475.7998,
         4337.1001,
         4335.8999,
-        4356.7998
+        4260.0,
+        4181.6001
       ],
-      "note": "$4,357 — US10Y·DXY 하락 시 강세"
+      "note": "$4,182 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
-    {
-      "name": "NFIB Business Optimism Index",
-      "actual": "95.3",
-      "forecast": "96",
-      "previous": "95.9",
-      "status": "miss"
-    },
-    {
-      "name": "NY Fed Bill Purchases 4 to 12 months",
-      "actual": "미발표",
-      "forecast": "3.288",
-      "previous": "—",
-      "status": "upcoming"
-    },
     {
       "name": "Core Inflation Rate MoM",
       "actual": "미발표",
@@ -122,7 +108,7 @@
     {
       "name": "CPI",
       "actual": "미발표",
-      "forecast": "—",
+      "forecast": "335.11",
       "previous": "333.02",
       "status": "upcoming"
     },
@@ -146,24 +132,38 @@
       "forecast": "—",
       "previous": "332.407",
       "status": "upcoming"
+    },
+    {
+      "name": "Initial Jobless Claims",
+      "actual": "미발표",
+      "forecast": "219",
+      "previous": "225",
+      "status": "upcoming"
+    },
+    {
+      "name": "Jobless Claims 4-week Average",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "214.75",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Are You a New Stock Market Investor in June 2026? Here's Warren Buffett's Advice",
-      "body": "After learning about the S&P 500 index's growth in the past, it makes sense why you'd want to start putting money to work.",
+      "title": "Dow Jones Futures Tumble As Trump Says Iran Will 'Have To Pay The Price'; CPI In",
+      "body": "Futures fell as President Trump said Iran will \"have to pay the price\" for taking too long to reach a deal. The CPI inflation report is on tap.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "My Favorite S&P 500 Stock to Buy During the Dip",
-      "body": "Cyclical economic factors have hurt Home Depot's results.",
+      "title": "Is the Vanguard Total Stock Market ETF the Best Buy for Long-Term Investors?",
+      "body": "It's hard to argue with the extremely low 0.03% expense ratio that this investment vehicle charges.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "U.S. Futures Rise as Trump Signals Progress on Iran and AI Stocks Rebound: Dow J",
-      "body": "U. S. equity futures pointed higher on Tuesday as investors monitored developments surrounding the conflict with Iran and a recovery in artificial intelligence-related technology shares.",
+      "title": "U.S. stock futures fall on Iran strikes, CPI data June 2026",
+      "body": "Nasdaq futures dropped more than 1% as Trump threatened further action against Iran and economists expected inflation to cross a key threshold",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
