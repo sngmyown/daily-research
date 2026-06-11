@@ -1,15 +1,13 @@
 {
-  "updated_at": "2026-06-10 20:48 KST",
+  "updated_at": "2026-06-11 21:33 KST",
   "metrics": {
     "us10y": {
-      "value": 4.552,
-      "prev_day": 4.536,
-      "prev_week": 4.475,
-      "prev_month": 4.364,
-      "prev_year": 4.482,
+      "value": 4.542,
+      "prev_day": 4.528,
+      "prev_week": 4.491,
+      "prev_month": 4.41,
+      "prev_year": 4.474,
       "history": [
-        4.586,
-        4.558,
         4.493,
         4.481,
         4.455,
@@ -19,19 +17,19 @@
         4.491,
         4.477,
         4.536,
-        4.552
+        4.552,
+        4.528,
+        4.542
       ],
-      "note": "4.55% — 금리 부담 구간"
+      "note": "4.54% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 100.007,
-      "prev_day": 100.05,
-      "prev_week": 99.53,
-      "prev_month": 97.94,
-      "prev_year": 99.05,
+      "value": 100.188,
+      "prev_day": 99.95,
+      "prev_week": 99.41,
+      "prev_month": 98.29,
+      "prev_year": 98.63,
       "history": [
-        99.32,
-        99.17,
         99.21,
         99.02,
         98.91,
@@ -41,18 +39,19 @@
         99.41,
         100.07,
         100.05,
-        100.007
+        99.91,
+        99.95,
+        100.188
       ],
-      "note": "100.01 — 달러 강세 구간"
+      "note": "100.19 — 달러 강세 구간"
     },
     "wti": {
-      "value": 90.05,
-      "prev_day": 88.2,
-      "prev_week": 96.02,
-      "prev_month": 98.07,
-      "prev_year": 64.98,
+      "value": 91.01,
+      "prev_day": 90.03,
+      "prev_week": 93.04,
+      "prev_month": 102.18,
+      "prev_year": 68.15,
       "history": [
-        93.89,
         88.68,
         88.9,
         87.36,
@@ -63,18 +62,18 @@
         90.54,
         91.3,
         88.2,
-        90.05
+        90.03,
+        91.01
       ],
-      "note": "$90.05 — 정상 범위 상단"
+      "note": "$91.01 — 정상 범위 상단"
     },
     "gold": {
-      "value": 4181.6001,
-      "prev_day": 4260.0,
-      "prev_week": 4436.7002,
-      "prev_month": 4718.7002,
-      "prev_year": 3320.8999,
+      "value": 4083.1001,
+      "prev_day": 4108.2002,
+      "prev_week": 4475.7998,
+      "prev_month": 4677.6001,
+      "prev_year": 3321.3,
       "history": [
-        4500.3999,
         4447.5,
         4499.2998,
         4560.5,
@@ -85,85 +84,72 @@
         4337.1001,
         4335.8999,
         4260.0,
-        4181.6001
+        4108.2002,
+        4083.1001
       ],
-      "note": "$4,182 — US10Y·DXY 하락 시 강세"
+      "note": "$4,083 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
     {
-      "name": "Core Inflation Rate MoM",
-      "actual": "미발표",
-      "forecast": "0.3",
-      "previous": "0.4",
-      "status": "upcoming"
-    },
-    {
-      "name": "Inflation Rate MoM",
-      "actual": "미발표",
-      "forecast": "0.5",
-      "previous": "0.6",
-      "status": "upcoming"
-    },
-    {
-      "name": "CPI",
-      "actual": "미발표",
-      "forecast": "335.11",
-      "previous": "333.02",
-      "status": "upcoming"
-    },
-    {
-      "name": "Core Inflation Rate YoY",
-      "actual": "미발표",
-      "forecast": "2.9",
-      "previous": "2.8",
-      "status": "upcoming"
-    },
-    {
-      "name": "Inflation Rate YoY",
-      "actual": "미발표",
-      "forecast": "4.2",
-      "previous": "3.8",
-      "status": "upcoming"
-    },
-    {
-      "name": "CPI s.a",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "332.407",
-      "status": "upcoming"
-    },
-    {
       "name": "Initial Jobless Claims",
-      "actual": "미발표",
+      "actual": "229",
       "forecast": "219",
       "previous": "225",
-      "status": "upcoming"
+      "status": "miss"
     },
     {
       "name": "Jobless Claims 4-week Average",
-      "actual": "미발표",
+      "actual": "219",
       "forecast": "—",
       "previous": "214.75",
+      "status": "inline"
+    },
+    {
+      "name": "Continuing Jobless Claims",
+      "actual": "1795",
+      "forecast": "1780",
+      "previous": "1771",
+      "status": "miss"
+    },
+    {
+      "name": "Fed Balance Sheet",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "6.711",
+      "status": "upcoming"
+    },
+    {
+      "name": "Michigan Inflation Expectations Prel",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "4.8",
+      "status": "upcoming"
+    },
+    {
+      "name": "Michigan 5 Year Inflation Expectations P",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "3.9",
       "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Dow Jones Futures Tumble As Trump Says Iran Will 'Have To Pay The Price'; CPI In",
-      "body": "Futures fell as President Trump said Iran will \"have to pay the price\" for taking too long to reach a deal. The CPI inflation report is on tap.",
+      "title": "Why These 2 Analyst Say Oracle’s Post-Earnings  Stock Slump Is a Buying Opportun",
+      "body": "Oracle stuck was falling after earnings but Wall Street analysts think ther’s reason to back the cloud computing-and-software company.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Is the Vanguard Total Stock Market ETF the Best Buy for Long-Term Investors?",
-      "body": "It's hard to argue with the extremely low 0.03% expense ratio that this investment vehicle charges.",
+      "title": "Stock Market Today: Dow Rallies 400 Points Amid U.S. Strikes; Oracle Plunges On ",
+      "body": "Stock Market Today: The Dow Jones index rallied 400 points amid U.S. strikes on Iran. Oracle stock plunged on earnings.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "U.S. stock futures fall on Iran strikes, CPI data June 2026",
-      "body": "Nasdaq futures dropped more than 1% as Trump threatened further action against Iran and economists expected inflation to cross a key threshold",
+      "title": "Dow Jones Futures Signal Market Bounce, But Then What? Oracle Dives, SpaceX IPO ",
+      "body": "Futures signal a market rebound from key levels, even as Oracle tumbles. Here's what to watch for. The SpaceX IPO is on tap.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
