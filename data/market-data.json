@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-06-11 21:33 KST",
+  "updated_at": "2026-06-12 20:54 KST",
   "metrics": {
     "us10y": {
-      "value": 4.542,
-      "prev_day": 4.528,
-      "prev_week": 4.491,
-      "prev_month": 4.41,
-      "prev_year": 4.474,
+      "value": 4.463,
+      "prev_day": 4.542,
+      "prev_week": 4.477,
+      "prev_month": 4.463,
+      "prev_year": 4.412,
       "history": [
-        4.493,
         4.481,
         4.455,
         4.453,
@@ -19,18 +18,18 @@
         4.536,
         4.552,
         4.528,
-        4.542
+        4.542,
+        4.463
       ],
-      "note": "4.54% — 금리 부담 구간"
+      "note": "4.46% — 중립 구간"
     },
     "dxy": {
-      "value": 100.188,
-      "prev_day": 99.95,
-      "prev_week": 99.41,
-      "prev_month": 98.29,
-      "prev_year": 98.63,
+      "value": 99.719,
+      "prev_day": 99.86,
+      "prev_week": 100.07,
+      "prev_month": 98.48,
+      "prev_year": 97.92,
       "history": [
-        99.21,
         99.02,
         98.91,
         99.2,
@@ -41,18 +40,18 @@
         100.05,
         99.91,
         99.95,
-        100.188
+        99.86,
+        99.719
       ],
-      "note": "100.19 — 달러 강세 구간"
+      "note": "99.72 — 중립 구간"
     },
     "wti": {
-      "value": 91.01,
-      "prev_day": 90.03,
-      "prev_week": 93.04,
-      "prev_month": 102.18,
-      "prev_year": 68.15,
+      "value": 84.45,
+      "prev_day": 87.71,
+      "prev_week": 90.54,
+      "prev_month": 101.02,
+      "prev_year": 68.04,
       "history": [
-        88.68,
         88.9,
         87.36,
         92.16,
@@ -63,18 +62,18 @@
         91.3,
         88.2,
         90.03,
-        91.01
+        87.71,
+        84.45
       ],
-      "note": "$91.01 — 정상 범위 상단"
+      "note": "$84.45 — 적정 범위 (70~85)"
     },
     "gold": {
-      "value": 4083.1001,
-      "prev_day": 4108.2002,
-      "prev_week": 4475.7998,
-      "prev_month": 4677.6001,
-      "prev_year": 3321.3,
+      "value": 4230.5,
+      "prev_day": 4090.3,
+      "prev_week": 4337.1001,
+      "prev_month": 4697.7002,
+      "prev_year": 3380.8999,
       "history": [
-        4447.5,
         4499.2998,
         4560.5,
         4475.2002,
@@ -85,40 +84,13 @@
         4335.8999,
         4260.0,
         4108.2002,
-        4083.1001
+        4090.3,
+        4230.5
       ],
-      "note": "$4,083 — US10Y·DXY 하락 시 강세"
+      "note": "$4,230 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
-    {
-      "name": "Initial Jobless Claims",
-      "actual": "229",
-      "forecast": "219",
-      "previous": "225",
-      "status": "miss"
-    },
-    {
-      "name": "Jobless Claims 4-week Average",
-      "actual": "219",
-      "forecast": "—",
-      "previous": "214.75",
-      "status": "inline"
-    },
-    {
-      "name": "Continuing Jobless Claims",
-      "actual": "1795",
-      "forecast": "1780",
-      "previous": "1771",
-      "status": "miss"
-    },
-    {
-      "name": "Fed Balance Sheet",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "6.711",
-      "status": "upcoming"
-    },
     {
       "name": "Michigan Inflation Expectations Prel",
       "actual": "미발표",
@@ -132,24 +104,31 @@
       "forecast": "—",
       "previous": "3.9",
       "status": "upcoming"
+    },
+    {
+      "name": "NAHB Housing Market Index",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "37",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Why These 2 Analyst Say Oracle’s Post-Earnings  Stock Slump Is a Buying Opportun",
-      "body": "Oracle stuck was falling after earnings but Wall Street analysts think ther’s reason to back the cloud computing-and-software company.",
+      "title": "Dow Jones Futures Rise, Oil Dives On Iran Deal Hopes; SpaceX IPO Indicated Highe",
+      "body": "Futures rose and oil prices dived on Iran deal hopes, extending Thursday's big moves. The SpaceX IPO is set to begin trading.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Stock Market Today: Dow Rallies 400 Points Amid U.S. Strikes; Oracle Plunges On ",
-      "body": "Stock Market Today: The Dow Jones index rallied 400 points amid U.S. strikes on Iran. Oracle stock plunged on earnings.",
+      "title": "Down 37%, Is Nu Holdings Stock Finally a Bargain?",
+      "body": "Management is telling investors yes.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Dow Jones Futures Signal Market Bounce, But Then What? Oracle Dives, SpaceX IPO ",
-      "body": "Futures signal a market rebound from key levels, even as Oracle tumbles. Here's what to watch for. The SpaceX IPO is on tap.",
+      "title": "3 Industrials Stocks on Our Watchlist",
+      "body": "Industrials businesses quietly power the physical things we depend on, from cars and homes to e-commerce infrastructure. Their momentum is also rising as lower interest rates have incentivized higher ",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
