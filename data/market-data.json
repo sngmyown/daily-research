@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13 18:46 KST",
+  "updated_at": "2026-06-14 19:33 KST",
   "metrics": {
     "us10y": {
       "value": 4.487,
@@ -68,7 +68,7 @@
       "note": "$84.88 — 적정 범위 (70~85)"
     },
     "gold": {
-      "value": 4215.0,
+      "value": 4238.7998,
       "prev_day": 4090.3,
       "prev_week": 4337.1001,
       "prev_month": 4697.7002,
@@ -85,9 +85,9 @@
         4260.0,
         4108.2002,
         4090.3,
-        4215.0
+        4238.7998
       ],
-      "note": "$4,215 — US10Y·DXY 하락 시 강세"
+      "note": "$4,239 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
@@ -118,24 +118,52 @@
       "forecast": "—",
       "previous": "-2.8",
       "status": "upcoming"
+    },
+    {
+      "name": "Retail Sales Ex Gas/Autos MoM",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "0.5",
+      "status": "upcoming"
+    },
+    {
+      "name": "Retail Sales YoY",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "4.9",
+      "status": "upcoming"
+    },
+    {
+      "name": "Retail Sales MoM",
+      "actual": "미발표",
+      "forecast": "0.5",
+      "previous": "0.5",
+      "status": "upcoming"
+    },
+    {
+      "name": "Retail Sales Ex Autos MoM",
+      "actual": "미발표",
+      "forecast": "0.5",
+      "previous": "0.7",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "If Gas Prices Stay High, Costco Stock Could Be a Better Buy Than Walmart",
-      "body": "Costco members tend to spend more when they buy gas there.",
+      "title": "Have S&P 500 Index Funds, Often Touted as the Best Stock Investments, Become Dan",
+      "body": "The hard-earned dollars you park in a standard S&P 500 index fund may not be distributed the way you think they are.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "The Index Says Euphoria. But Don’t Panic.",
-      "body": "A Citigroup sentiment indicator hasn’t shown this much market euphoria since the post-Covid rally of 2021. How long can it last?",
+      "title": "The Stock Market Could Drop: 2 Urgent Warnings From Former Fed Chair Jerome Powe",
+      "body": "The stock market's expensive valuation is particularly concerning alongside the prospect of higher interest rates.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Which Is the Better Broad-Market ETF, Schwab's SCHB or State Street's SPTM?",
-      "body": "Compare portfolio depth, sector exposure, and historical risk to see which ETF aligns with your investment strategy. Key differences emerge beyond low costs.",
+      "title": "President Donald Trump's 7-Word Take on Interest Rates Is Due for a Reality Chec",
+      "body": "The probability of rate hikes is rapidly rising, whether the president or Wall Street likes it or not.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
