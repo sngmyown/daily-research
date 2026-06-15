@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-06-14 19:33 KST",
+  "updated_at": "2026-06-16 02:34 KST",
   "metrics": {
     "us10y": {
-      "value": 4.487,
-      "prev_day": 4.463,
-      "prev_week": 4.536,
-      "prev_month": 4.481,
-      "prev_year": 4.357,
+      "value": 4.469,
+      "prev_day": 4.487,
+      "prev_week": 4.552,
+      "prev_month": 4.595,
+      "prev_year": 4.452,
       "history": [
-        4.455,
         4.453,
         4.475,
         4.455,
@@ -19,18 +18,18 @@
         4.528,
         4.542,
         4.463,
-        4.487
+        4.487,
+        4.469
       ],
-      "note": "4.49% — 중립 구간"
+      "note": "4.47% — 중립 구간"
     },
     "dxy": {
-      "value": 99.75,
-      "prev_day": 99.86,
-      "prev_week": 100.07,
-      "prev_month": 98.48,
-      "prev_year": 97.92,
+      "value": 99.58,
+      "prev_day": 99.75,
+      "prev_week": 100.05,
+      "prev_month": 99.27,
+      "prev_year": 98.0,
       "history": [
-        99.02,
         98.91,
         99.2,
         99.22,
@@ -41,18 +40,18 @@
         99.91,
         99.95,
         99.86,
-        99.75
+        99.75,
+        99.58
       ],
-      "note": "99.75 — 중립 구간"
+      "note": "99.58 — 중립 구간"
     },
     "wti": {
-      "value": 84.88,
-      "prev_day": 87.71,
-      "prev_week": 90.54,
-      "prev_month": 101.02,
-      "prev_year": 68.04,
+      "value": 80.47,
+      "prev_day": 84.88,
+      "prev_week": 91.3,
+      "prev_month": 105.42,
+      "prev_year": 71.77,
       "history": [
-        88.9,
         87.36,
         92.16,
         93.76,
@@ -63,18 +62,18 @@
         88.2,
         90.03,
         87.71,
-        84.88
+        84.88,
+        80.47
       ],
-      "note": "$84.88 — 적정 범위 (70~85)"
+      "note": "$80.47 — 적정 범위 (70~85)"
     },
     "gold": {
-      "value": 4238.7998,
-      "prev_day": 4090.3,
-      "prev_week": 4337.1001,
-      "prev_month": 4697.7002,
-      "prev_year": 3380.8999,
+      "value": 4351.2002,
+      "prev_day": 4215.0,
+      "prev_week": 4335.8999,
+      "prev_month": 4555.7998,
+      "prev_year": 3396.3999,
       "history": [
-        4499.2998,
         4560.5,
         4475.2002,
         4489.1001,
@@ -85,19 +84,13 @@
         4260.0,
         4108.2002,
         4090.3,
-        4238.7998
+        4215.0,
+        4351.2002
       ],
-      "note": "$4,239 — US10Y·DXY 하락 시 강세"
+      "note": "$4,351 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
-    {
-      "name": "NAHB Housing Market Index",
-      "actual": "미발표",
-      "forecast": "37",
-      "previous": "37",
-      "status": "upcoming"
-    },
     {
       "name": "NY Fed Services Activity Index",
       "actual": "미발표",
@@ -108,7 +101,7 @@
     {
       "name": "Housing Starts",
       "actual": "미발표",
-      "forecast": "1.44",
+      "forecast": "1.43",
       "previous": "1.465",
       "status": "upcoming"
     },
@@ -146,24 +139,31 @@
       "forecast": "0.5",
       "previous": "0.7",
       "status": "upcoming"
+    },
+    {
+      "name": "Retail Sales Control Group MoM",
+      "actual": "미발표",
+      "forecast": "0.4",
+      "previous": "0.5",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Have S&P 500 Index Funds, Often Touted as the Best Stock Investments, Become Dan",
-      "body": "The hard-earned dollars you park in a standard S&P 500 index fund may not be distributed the way you think they are.",
+      "title": "Boeing Stock Jumps And Regains Key Support Levels",
+      "body": "Boeing stock rose almost 5% on Monday, as the broader market rallied following a ceasefire agreement between the U.S. and Iran.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "The Stock Market Could Drop: 2 Urgent Warnings From Former Fed Chair Jerome Powe",
-      "body": "The stock market's expensive valuation is particularly concerning alongside the prospect of higher interest rates.",
+      "title": "The Best Vanguard ETF for Your Next $1,000 Investment",
+      "body": "Even though U.S. stocks keep hitting new all-time highs, the broader macro picture suggests that a bit of a defensive tilt is warranted.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "President Donald Trump's 7-Word Take on Interest Rates Is Due for a Reality Chec",
-      "body": "The probability of rate hikes is rapidly rising, whether the president or Wall Street likes it or not.",
+      "title": "Stock Market Today, June 15: SpaceX Surges at Midday After Blockbuster IPO",
+      "body": "Today, June 15, 2026, a record-setting risk-on rally and a landmark SpaceX debut are reshaping sentiment across major U.S. benchmarks.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
