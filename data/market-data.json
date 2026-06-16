@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-16 02:34 KST",
+  "updated_at": "2026-06-17 01:11 KST",
   "metrics": {
     "us10y": {
-      "value": 4.469,
+      "value": 4.428,
       "prev_day": 4.487,
-      "prev_week": 4.552,
-      "prev_month": 4.595,
+      "prev_week": 4.528,
+      "prev_month": 4.623,
       "prev_year": 4.452,
       "history": [
         4.453,
@@ -19,15 +19,15 @@
         4.542,
         4.463,
         4.487,
-        4.469
+        4.428
       ],
-      "note": "4.47% — 중립 구간"
+      "note": "4.43% — 중립 구간"
     },
     "dxy": {
-      "value": 99.58,
+      "value": 99.496,
       "prev_day": 99.75,
-      "prev_week": 100.05,
-      "prev_month": 99.27,
+      "prev_week": 99.91,
+      "prev_month": 98.97,
       "prev_year": 98.0,
       "history": [
         98.91,
@@ -41,18 +41,17 @@
         99.95,
         99.86,
         99.75,
-        99.58
+        99.496
       ],
-      "note": "99.58 — 중립 구간"
+      "note": "99.50 — 중립 구간"
     },
     "wti": {
-      "value": 80.47,
-      "prev_day": 84.88,
-      "prev_week": 91.3,
-      "prev_month": 105.42,
+      "value": 75.06,
+      "prev_day": 80.75,
+      "prev_week": 88.2,
+      "prev_month": 108.66,
       "prev_year": 71.77,
       "history": [
-        87.36,
         92.16,
         93.76,
         96.02,
@@ -63,18 +62,18 @@
         90.03,
         87.71,
         84.88,
-        80.47
+        80.75,
+        75.06
       ],
-      "note": "$80.47 — 적정 범위 (70~85)"
+      "note": "$75.06 — 적정 범위 (70~85)"
     },
     "gold": {
-      "value": 4351.2002,
-      "prev_day": 4215.0,
-      "prev_week": 4335.8999,
-      "prev_month": 4555.7998,
+      "value": 4359.6001,
+      "prev_day": 4328.0,
+      "prev_week": 4260.0,
+      "prev_month": 4552.5,
       "prev_year": 3396.3999,
       "history": [
-        4560.5,
         4475.2002,
         4489.1001,
         4436.7002,
@@ -85,33 +84,13 @@
         4108.2002,
         4090.3,
         4215.0,
-        4351.2002
+        4328.0,
+        4359.6001
       ],
-      "note": "$4,351 — US10Y·DXY 하락 시 강세"
+      "note": "$4,360 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
-    {
-      "name": "NY Fed Services Activity Index",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "-5.8",
-      "status": "upcoming"
-    },
-    {
-      "name": "Housing Starts",
-      "actual": "미발표",
-      "forecast": "1.43",
-      "previous": "1.465",
-      "status": "upcoming"
-    },
-    {
-      "name": "Housing Starts MoM",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "-2.8",
-      "status": "upcoming"
-    },
     {
       "name": "Retail Sales Ex Gas/Autos MoM",
       "actual": "미발표",
@@ -146,24 +125,45 @@
       "forecast": "0.4",
       "previous": "0.5",
       "status": "upcoming"
+    },
+    {
+      "name": "Fed Interest Rate Decision",
+      "actual": "미발표",
+      "forecast": "3.75",
+      "previous": "3.75",
+      "status": "upcoming"
+    },
+    {
+      "name": "FOMC Economic Projections",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "—",
+      "status": "upcoming"
+    },
+    {
+      "name": "Interest Rate Projection - Longer",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "3.1",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Boeing Stock Jumps And Regains Key Support Levels",
-      "body": "Boeing stock rose almost 5% on Monday, as the broader market rallied following a ceasefire agreement between the U.S. and Iran.",
+      "title": "Which Long-Term Bond ETF Is the Better Buy: iShares' IGLB or Its Treasury Rival ",
+      "body": "Explore how credit quality and diversification set these two long-duration bond ETFs apart for income-focused investors.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "The Best Vanguard ETF for Your Next $1,000 Investment",
-      "body": "Even though U.S. stocks keep hitting new all-time highs, the broader macro picture suggests that a bit of a defensive tilt is warranted.",
+      "title": "Nasdaq gives shout out to Yahoo Finance's AlphaSpace",
+      "body": "Morning Brief host Julie Hyman demonstrates how to use Yahoo Finance's AlphaSpace by taking a look at S&P 500 (^GSPC) sectors that are on the move today. Yahoo Finance's AlphaSpace is a premium invest",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Stock Market Today, June 15: SpaceX Surges at Midday After Blockbuster IPO",
-      "body": "Today, June 15, 2026, a record-setting risk-on rally and a landmark SpaceX debut are reshaping sentiment across major U.S. benchmarks.",
+      "title": "Top Midday Stories: SpaceX Surpasses Amazon in Market Cap; Yum! Brands to Sell P",
+      "body": "The Dow Jones Industrial Average was up, while the S&P 500 Index and Nasdaq Composite were down in l",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
