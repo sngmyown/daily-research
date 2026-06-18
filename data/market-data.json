@@ -1,13 +1,14 @@
 {
-  "updated_at": "2026-06-17 21:56 KST",
+  "updated_at": "2026-06-18 21:02 KST",
   "metrics": {
     "us10y": {
-      "value": 4.438,
-      "prev_day": 4.487,
-      "prev_week": 4.542,
-      "prev_month": 4.623,
-      "prev_year": 4.393,
+      "value": 4.487,
+      "prev_day": 4.463,
+      "prev_week": 4.536,
+      "prev_month": 4.481,
+      "prev_year": 4.357,
       "history": [
+        4.455,
         4.453,
         4.475,
         4.455,
@@ -18,19 +19,17 @@
         4.528,
         4.542,
         4.463,
-        4.487,
-        4.438
+        4.487
       ],
-      "note": "4.44% — 중립 구간"
+      "note": "4.49% — 중립 구간"
     },
     "dxy": {
-      "value": 99.626,
-      "prev_day": 99.54,
-      "prev_week": 99.95,
-      "prev_month": 98.97,
-      "prev_year": 98.82,
+      "value": 100.784,
+      "prev_day": 100.09,
+      "prev_week": 99.86,
+      "prev_month": 99.3,
+      "prev_year": 98.91,
       "history": [
-        99.22,
         99.53,
         99.41,
         100.07,
@@ -41,18 +40,18 @@
         99.75,
         99.63,
         99.54,
-        99.626
+        100.09,
+        100.784
       ],
-      "note": "99.63 — 중립 구간"
+      "note": "100.78 — 달러 강세 구간"
     },
     "wti": {
-      "value": 75.86,
-      "prev_day": 76.05,
-      "prev_week": 90.03,
-      "prev_month": 108.66,
-      "prev_year": 74.84,
+      "value": 74.63,
+      "prev_day": 76.79,
+      "prev_week": 87.71,
+      "prev_month": 107.77,
+      "prev_year": 75.14,
       "history": [
-        93.76,
         96.02,
         93.04,
         90.54,
@@ -63,18 +62,18 @@
         84.88,
         80.75,
         76.05,
-        75.86
+        76.79,
+        74.63
       ],
-      "note": "$75.86 — 적정 범위 (70~85)"
+      "note": "$74.63 — 적정 범위 (70~85)"
     },
     "gold": {
-      "value": 4350.8999,
-      "prev_day": 4330.8999,
-      "prev_week": 4108.2002,
-      "prev_month": 4552.5,
-      "prev_year": 3386.6001,
+      "value": 4260.3999,
+      "prev_day": 4358.8999,
+      "prev_week": 4090.3,
+      "prev_month": 4506.2998,
+      "prev_year": 3389.8,
       "history": [
-        4489.1001,
         4436.7002,
         4475.7998,
         4337.1001,
@@ -85,85 +84,86 @@
         4215.0,
         4328.0,
         4330.8999,
-        4350.8999
+        4358.8999,
+        4260.3999
       ],
-      "note": "$4,351 — US10Y·DXY 하락 시 강세"
+      "note": "$4,260 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
     {
-      "name": "Retail Sales Ex Gas/Autos MoM",
-      "actual": "0.5",
-      "forecast": "—",
-      "previous": "0.5",
-      "status": "inline"
-    },
-    {
-      "name": "Retail Sales YoY",
-      "actual": "6.9",
-      "forecast": "—",
-      "previous": "4.9",
-      "status": "inline"
-    },
-    {
-      "name": "Retail Sales MoM",
-      "actual": "0.9",
-      "forecast": "0.5",
-      "previous": "0.5",
-      "status": "beat"
-    },
-    {
-      "name": "Retail Sales Ex Autos MoM",
-      "actual": "0.8",
-      "forecast": "0.5",
-      "previous": "0.7",
-      "status": "beat"
-    },
-    {
-      "name": "Retail Sales Control Group MoM",
-      "actual": "0.7",
-      "forecast": "0.4",
-      "previous": "0.5",
-      "status": "beat"
-    },
-    {
-      "name": "Fed Interest Rate Decision",
+      "name": "Continuing Jobless Claims",
       "actual": "미발표",
-      "forecast": "3.75",
-      "previous": "3.75",
+      "forecast": "1800",
+      "previous": "1795",
       "status": "upcoming"
     },
     {
-      "name": "FOMC Economic Projections",
+      "name": "Jobless Claims 4-week Average",
       "actual": "미발표",
       "forecast": "—",
-      "previous": "—",
+      "previous": "219",
       "status": "upcoming"
     },
     {
-      "name": "Interest Rate Projection - Longer",
+      "name": "Initial Jobless Claims",
+      "actual": "미발표",
+      "forecast": "225",
+      "previous": "229",
+      "status": "upcoming"
+    },
+    {
+      "name": "Philadelphia Fed Manufacturing Index",
+      "actual": "미발표",
+      "forecast": "10",
+      "previous": "-0.4",
+      "status": "upcoming"
+    },
+    {
+      "name": "Philly Fed Employment",
       "actual": "미발표",
       "forecast": "—",
-      "previous": "3.1",
+      "previous": "-2.8",
+      "status": "upcoming"
+    },
+    {
+      "name": "Philly Fed New Orders",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "-1.7",
+      "status": "upcoming"
+    },
+    {
+      "name": "Philly Fed Business Conditions",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "53.2",
+      "status": "upcoming"
+    },
+    {
+      "name": "Philly Fed Prices Paid",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "47.9",
       "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Stock Market Today: Dow Waffles Ahead Of Fed Decision, Warsh Remarks; SpaceX Ral",
-      "body": "Stock Market Today: The Dow Jones index wavered Wednesday ahead of the Fed's decision and Fed Chair Warsh's comments. SpaceX stock rallied.",
+      "title": "3 Software Stocks That Fall Short",
+      "body": "Software is rapidly reducing operating expenses for businesses. This secular theme makes SaaS companies attractive investment candidates but also comes with higher valuations that cause volatility. Un",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "3 Reasons to Sell DIS and 1 Stock to Buy Instead",
-      "body": "Over the past six months, Disney’s stock price fell to $101.22. Shareholders have lost 8.5% of their capital, which is disappointing considering the S&P 500 has climbed by 12.4%. This might have inves",
+      "title": "Renaissance Investment Management Expects Positive Upward Revision for Lam Resea",
+      "body": "Renaissance Investment Management, an investment management company, released its Q1 2026 “Large Cap Growth Strategy.” A copy of the letter can be downloaded here. Stocks fell sharply in the first qua",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Netflix's stock slide is getting worse",
-      "body": "Netflix shares are sliding as investors eye acquisition deal letdowns and slowing growth.",
+      "title": "Dow Jones Futures Rise After Warsh's Fed Hits Stocks; SpaceX Falls As Robinhood ",
+      "body": "Futures rose after stocks tumbled Wednesday on Fed rate-hike bets. SpaceX fell while Robinhood and several AI stocks made bullish moves.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
