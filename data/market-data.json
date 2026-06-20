@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19 21:37 KST",
+  "updated_at": "2026-06-20 17:35 KST",
   "metrics": {
     "us10y": {
       "value": 4.487,
@@ -24,10 +24,10 @@
       "note": "4.49% — 중립 구간"
     },
     "dxy": {
-      "value": 100.764,
+      "value": 100.849,
       "prev_day": 100.85,
       "prev_week": 99.75,
-      "prev_month": 99.11,
+      "prev_month": 99.19,
       "prev_year": 98.71,
       "history": [
         99.41,
@@ -41,15 +41,15 @@
         99.54,
         100.09,
         100.85,
-        100.764
+        100.849
       ],
-      "note": "100.76 — 달러 강세 구간"
+      "note": "100.85 — 달러 강세 구간"
     },
     "wti": {
-      "value": 76.19,
+      "value": 76.54,
       "prev_day": 76.6,
       "prev_week": 84.88,
-      "prev_month": 98.26,
+      "prev_month": 96.35,
       "prev_year": 74.93,
       "history": [
         93.04,
@@ -63,15 +63,15 @@
         76.05,
         76.79,
         76.6,
-        76.19
+        76.54
       ],
-      "note": "$76.19 — 적정 범위 (70~85)"
+      "note": "$76.54 — 적정 범위 (70~85)"
     },
     "gold": {
-      "value": 4171.7002,
+      "value": 4172.8999,
       "prev_day": 4224.1001,
       "prev_week": 4215.0,
-      "prev_month": 4531.2998,
+      "prev_month": 4539.7998,
       "prev_year": 3368.1001,
       "history": [
         4475.7998,
@@ -85,85 +85,78 @@
         4330.8999,
         4358.8999,
         4224.1001,
-        4171.7002
+        4172.8999
       ],
-      "note": "$4,172 — US10Y·DXY 하락 시 강세"
+      "note": "$4,173 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
     {
-      "name": "Continuing Jobless Claims",
-      "actual": "미발표",
-      "forecast": "1800",
-      "previous": "1795",
-      "status": "upcoming"
-    },
-    {
-      "name": "Jobless Claims 4-week Average",
+      "name": "Fed Waller Speech",
       "actual": "미발표",
       "forecast": "—",
-      "previous": "219",
+      "previous": "—",
       "status": "upcoming"
     },
     {
-      "name": "Initial Jobless Claims",
+      "name": "S&P Global Manufacturing PMI Flash",
       "actual": "미발표",
-      "forecast": "225",
-      "previous": "229",
+      "forecast": "54.7",
+      "previous": "55.1",
       "status": "upcoming"
     },
     {
-      "name": "Philadelphia Fed Manufacturing Index",
-      "actual": "미발표",
-      "forecast": "10",
-      "previous": "-0.4",
-      "status": "upcoming"
-    },
-    {
-      "name": "Philly Fed Employment",
+      "name": "S&P Global Composite PMI Flash",
       "actual": "미발표",
       "forecast": "—",
-      "previous": "-2.8",
+      "previous": "51.5",
       "status": "upcoming"
     },
     {
-      "name": "Philly Fed New Orders",
+      "name": "S&P Global Services PMI Flash",
       "actual": "미발표",
-      "forecast": "—",
-      "previous": "-1.7",
+      "forecast": "51",
+      "previous": "50.7",
       "status": "upcoming"
     },
     {
-      "name": "Philly Fed Business Conditions",
+      "name": "Richmond Fed Manufacturing Shipments Ind",
       "actual": "미발표",
       "forecast": "—",
-      "previous": "53.2",
+      "previous": "16",
       "status": "upcoming"
     },
     {
-      "name": "Philly Fed Prices Paid",
+      "name": "Richmond Fed Manufacturing Index",
+      "actual": "미발표",
+      "forecast": "9",
+      "previous": "13",
+      "status": "upcoming"
+    },
+    {
+      "name": "Richmond Fed Services Revenues Index",
       "actual": "미발표",
       "forecast": "—",
-      "previous": "47.9",
+      "previous": "14",
       "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "3 Restaurant Stocks We Think Twice About",
-      "body": "From fast food to fine dining, restaurants play a vital societal role. Still, their demand can ebb and flow with the broader economy because consumers can always cook meals at home when times are toug",
+      "title": "Dow Jones Futures Fall; Nvidia Leads 5 Stocks Near Buy Points, SpaceX Needs This",
+      "body": "Dow Jones futures fell slightly Friday, along with S&P 500 futures and Nasdaq futures. Futures will reopen Sunday evening The stock market rebounded this past week, though the gains were concentrated ",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Dow Jones Futures Fall With U.S. Markets Shut; Nvidia Leads 5 Stocks Near Buy Po",
-      "body": "Dow Jones futures fell slightly Friday, along with S&P 500 futures and Nasdaq futures. U.S. stock markets will be closed for the Juneteenth holiday. The stock market rebounded this past week, though t",
+      "title": "Is Robinhood Markets Stock Outperforming the S&P 500?",
+      "body": "While Robinhood Markets has outpaced the S&P 500 Index over the past year, analysts are cautiously optimistic about the stock’s prospects.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "1 Industrials Stock for Long-Term Investors and 2 We Turn Down",
-      "body": "Whether you see them or not, industrials businesses play a crucial part in our daily activities. But their prominence also brings high exposure to the ups and downs of economic cycles. Luckily, the ti",
+      "title": "Schwab Plans S&P 500 Prediction Markets as Event Trading Moves Mainstream",
+      "body": "Charles Schwab (NYSE: $SCHW) is preparing to enter the prediction-markets race with a product built around the S&am...",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
