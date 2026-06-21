@@ -1,17 +1,13 @@
 {
-  "updated_at": "2026-06-20 17:35 KST",
+  "updated_at": "2026-06-21 19:54 KST",
   "metrics": {
     "us10y": {
-      "value": 4.487,
+      "value": 4.451,
       "prev_day": 4.463,
-      "prev_week": 4.536,
-      "prev_month": 4.481,
-      "prev_year": 4.357,
+      "prev_week": 4.463,
+      "prev_month": 4.667,
+      "prev_year": 4.397,
       "history": [
-        4.455,
-        4.453,
-        4.475,
-        4.455,
         4.491,
         4.477,
         4.536,
@@ -19,17 +15,22 @@
         4.528,
         4.542,
         4.463,
-        4.487
+        4.487,
+        4.469,
+        4.428,
+        4.463,
+        4.451
       ],
-      "note": "4.49% — 중립 구간"
+      "note": "4.45% — 중립 구간"
     },
     "dxy": {
-      "value": 100.849,
-      "prev_day": 100.85,
-      "prev_week": 99.75,
-      "prev_month": 99.19,
-      "prev_year": 98.71,
+      "value": 100.85,
+      "prev_day": 100.09,
+      "prev_week": 99.86,
+      "prev_month": 99.3,
+      "prev_year": 98.91,
       "history": [
+        99.53,
         99.41,
         100.07,
         100.05,
@@ -40,8 +41,7 @@
         99.63,
         99.54,
         100.09,
-        100.85,
-        100.849
+        100.85
       ],
       "note": "100.85 — 달러 강세 구간"
     },
@@ -139,24 +139,31 @@
       "forecast": "—",
       "previous": "14",
       "status": "upcoming"
+    },
+    {
+      "name": "NY Fed Bill Purchases 4 to 12 months",
+      "actual": "미발표",
+      "forecast": "3.319",
+      "previous": "—",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Dow Jones Futures Fall; Nvidia Leads 5 Stocks Near Buy Points, SpaceX Needs This",
-      "body": "Dow Jones futures fell slightly Friday, along with S&P 500 futures and Nasdaq futures. Futures will reopen Sunday evening The stock market rebounded this past week, though the gains were concentrated ",
+      "title": "Better S&P 500 ETF: VOO vs. SPY",
+      "body": "The margins between these two iconic stock market funds are razor-thin, but one does make more sense for most investors.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Is Robinhood Markets Stock Outperforming the S&P 500?",
-      "body": "While Robinhood Markets has outpaced the S&P 500 Index over the past year, analysts are cautiously optimistic about the stock’s prospects.",
+      "title": "The Pullback Created Bargains: Dirt Cheap Consumer Stocks Worth Buying With $5,0",
+      "body": "While Wall Street chases AI headlines, these three food stocks offer a compelling mix of growth, dividends, and stability.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Schwab Plans S&P 500 Prediction Markets as Event Trading Moves Mainstream",
-      "body": "Charles Schwab (NYSE: $SCHW) is preparing to enter the prediction-markets race with a product built around the S&am...",
+      "title": "Is Snap-On Stock Underperforming the S&P 500?",
+      "body": "Snap-on has underperformed the S&P 500 recently, yet analysts remain moderately optimistic about the stock’s prospects.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
