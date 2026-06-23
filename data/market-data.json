@@ -1,13 +1,14 @@
 {
-  "updated_at": "2026-06-23 01:13 KST",
+  "updated_at": "2026-06-23 19:46 KST",
   "metrics": {
     "us10y": {
-      "value": 4.507,
-      "prev_day": 4.451,
-      "prev_week": 4.469,
-      "prev_month": 4.558,
-      "prev_year": 4.32,
+      "value": 4.451,
+      "prev_day": 4.463,
+      "prev_week": 4.463,
+      "prev_month": 4.667,
+      "prev_year": 4.397,
       "history": [
+        4.491,
         4.477,
         4.536,
         4.552,
@@ -18,19 +19,17 @@
         4.469,
         4.428,
         4.463,
-        4.451,
-        4.507
+        4.451
       ],
-      "note": "4.51% — 금리 부담 구간"
+      "note": "4.45% — 중립 구간"
     },
     "dxy": {
-      "value": 101.011,
-      "prev_day": 100.85,
-      "prev_week": 99.63,
+      "value": 101.169,
+      "prev_day": 101.02,
+      "prev_week": 99.54,
       "prev_month": 99.32,
       "prev_year": 98.42,
       "history": [
-        99.41,
         100.07,
         100.05,
         99.91,
@@ -41,18 +40,18 @@
         99.54,
         100.09,
         100.85,
-        101.011
+        101.02,
+        101.169
       ],
-      "note": "101.01 — 달러 강세 구간"
+      "note": "101.17 — 달러 강세 구간"
     },
     "wti": {
-      "value": 73.47,
-      "prev_day": 76.6,
-      "prev_week": 80.75,
+      "value": 73.68,
+      "prev_day": 74.82,
+      "prev_week": 76.05,
       "prev_month": 96.6,
       "prev_year": 68.51,
       "history": [
-        93.04,
         90.54,
         91.3,
         88.2,
@@ -63,18 +62,18 @@
         76.05,
         76.79,
         76.6,
-        73.47
+        74.82,
+        73.68
       ],
-      "note": "$73.47 — 적정 범위 (70~85)"
+      "note": "$73.68 — 적정 범위 (70~85)"
     },
     "gold": {
-      "value": 4196.7998,
-      "prev_day": 4224.1001,
-      "prev_week": 4328.0,
+      "value": 4147.0,
+      "prev_day": 4181.8999,
+      "prev_week": 4330.8999,
       "prev_month": 4521.0,
       "prev_year": 3377.7,
       "history": [
-        4475.7998,
         4337.1001,
         4335.8999,
         4260.0,
@@ -85,9 +84,10 @@
         4330.8999,
         4358.8999,
         4224.1001,
-        4196.7998
+        4181.8999,
+        4147.0
       ],
-      "note": "$4,197 — US10Y·DXY 하락 시 강세"
+      "note": "$4,147 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
@@ -150,20 +150,20 @@
   ],
   "key_news": [
     {
-      "title": "3 Reasons to Sell NSIT and 1 Stock to Buy Instead",
-      "body": "Insight Enterprises’s 38.6% return over the past six months has outpaced the S&P 500 by 29.6%, and its stock price has climbed to $110.60 per share. This was partly due to its solid quarterly results,",
+      "title": "3 S&P 500 Stocks with Exciting Potential",
+      "body": "The S&P 500 (^GSPC) is packed with companies that have built dominant market positions, making it a core index for investors. A select few continue to innovate and expand, setting themselves up for lo",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "3 Big Reasons to Love JFrog (FROG)",
-      "body": "JFrog has had an impressive run over the past six months as its shares have beaten the S&P 500 by 14.5%. The stock now trades at $84.13, marking a 23.5% gain. This was partly thanks to its solid quart",
+      "title": "SpaceX slides, tech stocks dip — what’s moving markets",
+      "body": "Investing.com - Wall Street looks set for a weaker open as investors pull back from technology stocks amid growing concerns about higher interest rates and the massive spending required to sustain the",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Should You Buy AMD Stock Now or Wait for a Dip?",
-      "body": "AMD's stock has already more than doubled this year.",
+      "title": "Stock Futures Dive as Tech Selloff Rages On",
+      "body": "Stock futures were tumbling on Tuesday as investors continued to ditch technology stocks, which took a battering the previous session after a Nobel Prize-winning scientist left Google parent Alphabet ",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
