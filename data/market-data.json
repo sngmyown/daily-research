@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-06-24 19:27 KST",
+  "updated_at": "2026-06-25 08:02 KST",
   "metrics": {
     "us10y": {
-      "value": 4.451,
-      "prev_day": 4.463,
+      "value": 4.402,
+      "prev_day": 4.451,
       "prev_week": 4.463,
-      "prev_month": 4.667,
-      "prev_year": 4.397,
+      "prev_month": 4.493,
+      "prev_year": 4.293,
       "history": [
-        4.491,
         4.477,
         4.536,
         4.552,
@@ -19,12 +18,13 @@
         4.469,
         4.428,
         4.463,
-        4.451
+        4.451,
+        4.402
       ],
-      "note": "4.45% — 중립 구간"
+      "note": "4.40% — 중립 구간"
     },
     "dxy": {
-      "value": 101.675,
+      "value": 101.584,
       "prev_day": 101.41,
       "prev_week": 100.09,
       "prev_month": 99.17,
@@ -41,12 +41,12 @@
         100.85,
         101.02,
         101.41,
-        101.675
+        101.584
       ],
-      "note": "101.67 — 달러 강세 구간"
+      "note": "101.58 — 달러 강세 구간"
     },
     "wti": {
-      "value": 71.92,
+      "value": 69.84,
       "prev_day": 73.21,
       "prev_week": 76.79,
       "prev_month": 93.89,
@@ -63,12 +63,12 @@
         76.6,
         74.82,
         73.21,
-        71.92
+        69.84
       ],
-      "note": "$71.92 — 적정 범위 (70~85)"
+      "note": "$69.84 — 저유가 구간"
     },
     "gold": {
-      "value": 4074.1001,
+      "value": 4014.1001,
       "prev_day": 4129.8999,
       "prev_week": 4358.8999,
       "prev_month": 4500.3999,
@@ -85,26 +85,12 @@
         4224.1001,
         4181.8999,
         4129.8999,
-        4074.1001
+        4014.1001
       ],
-      "note": "$4,074 — US10Y·DXY 하락 시 강세"
+      "note": "$4,014 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
-    {
-      "name": "NY Fed Bill Purchases 4 to 12 months",
-      "actual": "미발표",
-      "forecast": "3.319",
-      "previous": "—",
-      "status": "upcoming"
-    },
-    {
-      "name": "Fed Bank Stress Test Results",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "—",
-      "status": "upcoming"
-    },
     {
       "name": "Continuing Jobless Claims",
       "actual": "미발표",
@@ -136,7 +122,7 @@
     {
       "name": "Durable Goods Orders Ex Transp MoM",
       "actual": "미발표",
-      "forecast": "0.7",
+      "forecast": "0.6",
       "previous": "1.1",
       "status": "upcoming"
     },
@@ -146,24 +132,38 @@
       "forecast": "0.5",
       "previous": "0.4",
       "status": "upcoming"
+    },
+    {
+      "name": "GDP Sales QoQ Final",
+      "actual": "미발표",
+      "forecast": "1.5",
+      "previous": "0.3",
+      "status": "upcoming"
+    },
+    {
+      "name": "GDP Growth Rate QoQ Final",
+      "actual": "미발표",
+      "forecast": "1.6",
+      "previous": "0.5",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Markets Look for Stability After Tech Sell-Off as AI Focus Remains Front and Cen",
-      "body": "U. S. equity futures moved modestly higher on Wednesday, with investors attempting to regain confidence after a sharp decline in technology and semiconductor stocks.",
+      "title": "Liberty Energy and Seadrill Stocks Trade Down, What You Need To Know",
+      "body": "A number of stocks fell in the afternoon session after crude oil dropped to its lowest level since the start of the Iran war, as tankers resumed transit through the Strait of Hormuz and the U.S. and I",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "The S&P 500 Is Up 9% in 2026. Wall Street Says the Stock Market Will Do This Nex",
-      "body": "Wall Street analysts anticipate more upside for U.S. stocks in the second half of 2026.",
+      "title": "Dow Jones Futures Rise As Micron Jumps On Earnings, Lifting Sandisk, AI Stocks; ",
+      "body": "Micron surged overnight on strong earnings and guidance, lifting other memory and chip plays. The Fed's favorite inflation gauge is on tap.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "1 Services Stock to Target This Week and 2 We Find Risky",
-      "body": "Business services providers use their specialized expertise to help enterprises streamline operations and cut costs. Furthermore, the demand for their offerings is rising as more clients outsource non",
+      "title": "Peabody Energy and Crescent Energy Shares Are Falling, What You Need To Know",
+      "body": "A number of stocks fell in the afternoon session after crude oil dropped to its lowest level since the start of the Iran war, as tankers resumed transit through the Strait of Hormuz and the U.S. and I",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
