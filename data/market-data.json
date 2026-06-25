@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-25 08:02 KST",
+  "updated_at": "2026-06-26 08:17 KST",
   "metrics": {
     "us10y": {
-      "value": 4.402,
+      "value": 4.392,
       "prev_day": 4.451,
-      "prev_week": 4.463,
+      "prev_week": 4.451,
       "prev_month": 4.493,
       "prev_year": 4.293,
       "history": [
@@ -19,12 +19,12 @@
         4.428,
         4.463,
         4.451,
-        4.402
+        4.392
       ],
-      "note": "4.40% — 중립 구간"
+      "note": "4.39% — 중립 구간"
     },
     "dxy": {
-      "value": 101.584,
+      "value": 101.61,
       "prev_day": 101.41,
       "prev_week": 100.09,
       "prev_month": 99.17,
@@ -41,18 +41,17 @@
         100.85,
         101.02,
         101.41,
-        101.584
+        101.61
       ],
-      "note": "101.58 — 달러 강세 구간"
+      "note": "101.61 — 달러 강세 구간"
     },
     "wti": {
-      "value": 69.84,
-      "prev_day": 73.21,
-      "prev_week": 76.79,
+      "value": 71.47,
+      "prev_day": 70.34,
+      "prev_week": 76.6,
       "prev_month": 93.89,
-      "prev_year": 64.37,
+      "prev_year": 64.92,
       "history": [
-        91.3,
         88.2,
         90.03,
         87.71,
@@ -63,18 +62,18 @@
         76.6,
         74.82,
         73.21,
-        69.84
+        70.34,
+        71.47
       ],
-      "note": "$69.84 — 저유가 구간"
+      "note": "$71.47 — 적정 범위 (70~85)"
     },
     "gold": {
-      "value": 4014.1001,
-      "prev_day": 4129.8999,
-      "prev_week": 4358.8999,
+      "value": 4038.7,
+      "prev_day": 3990.3,
+      "prev_week": 4224.1001,
       "prev_month": 4500.3999,
-      "prev_year": 3317.3999,
+      "prev_year": 3327.1001,
       "history": [
-        4335.8999,
         4260.0,
         4108.2002,
         4090.3,
@@ -85,85 +84,72 @@
         4224.1001,
         4181.8999,
         4129.8999,
-        4014.1001
+        3990.3,
+        4038.7
       ],
-      "note": "$4,014 — US10Y·DXY 하락 시 강세"
+      "note": "$4,039 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
     {
-      "name": "Continuing Jobless Claims",
+      "name": "Michigan Inflation Expectations Final",
       "actual": "미발표",
-      "forecast": "1800",
-      "previous": "1810",
+      "forecast": "4.6",
+      "previous": "4.8",
       "status": "upcoming"
     },
     {
-      "name": "Jobless Claims 4-week Average",
+      "name": "Michigan 5 Year Inflation Expectations F",
+      "actual": "미발표",
+      "forecast": "3.4",
+      "previous": "3.9",
+      "status": "upcoming"
+    },
+    {
+      "name": "Fed Williams Speech",
       "actual": "미발표",
       "forecast": "—",
-      "previous": "223.25",
+      "previous": "—",
       "status": "upcoming"
     },
     {
-      "name": "Initial Jobless Claims",
-      "actual": "미발표",
-      "forecast": "225",
-      "previous": "226",
-      "status": "upcoming"
-    },
-    {
-      "name": "Chicago Fed National Activity Index",
+      "name": "Fed Kashkari Speech",
       "actual": "미발표",
       "forecast": "—",
-      "previous": "0.14",
+      "previous": "—",
       "status": "upcoming"
     },
     {
-      "name": "Durable Goods Orders Ex Transp MoM",
+      "name": "Fed Barkin Speech",
       "actual": "미발표",
-      "forecast": "0.6",
-      "previous": "1.1",
+      "forecast": "—",
+      "previous": "—",
       "status": "upcoming"
     },
     {
-      "name": "PCE Price Index MoM",
+      "name": "Dallas Fed Manufacturing Index",
       "actual": "미발표",
-      "forecast": "0.5",
+      "forecast": "—",
       "previous": "0.4",
-      "status": "upcoming"
-    },
-    {
-      "name": "GDP Sales QoQ Final",
-      "actual": "미발표",
-      "forecast": "1.5",
-      "previous": "0.3",
-      "status": "upcoming"
-    },
-    {
-      "name": "GDP Growth Rate QoQ Final",
-      "actual": "미발표",
-      "forecast": "1.6",
-      "previous": "0.5",
       "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Liberty Energy and Seadrill Stocks Trade Down, What You Need To Know",
-      "body": "A number of stocks fell in the afternoon session after crude oil dropped to its lowest level since the start of the Iran war, as tankers resumed transit through the Strait of Hormuz and the U.S. and I",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures waver as tech struggles to find",
+      "body": "US stock futures wavered as Wall Street digested a downbeat week for tech stocks.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Dow Jones Futures Rise As Micron Jumps On Earnings, Lifting Sandisk, AI Stocks; ",
-      "body": "Micron surged overnight on strong earnings and guidance, lifting other memory and chip plays. The Fed's favorite inflation gauge is on tap.",
+      "title": "Wall St ends mixed as tech megacap losses outweigh upbeat chip outlook",
+      "body": "STORY: U.S. stocks ended mixed on Thursday, with the Dow ticking up more than a tenth of a percent, while the S&P 500 closed flat and the Nasdaq dropped nearly half a percent.Technology shares reverse",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Peabody Energy and Crescent Energy Shares Are Falling, What You Need To Know",
-      "body": "A number of stocks fell in the afternoon session after crude oil dropped to its lowest level since the start of the Iran war, as tankers resumed transit through the Strait of Hormuz and the U.S. and I",
+      "title": "Dow Jones Futures: Mixed Market Signals As Micron's Gain Is Apple's Pain",
+      "body": "The Nasdaq reversed lower again while the Dow came off record highs. Micron soared but Apple led other tech titans lower.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
