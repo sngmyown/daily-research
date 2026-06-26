@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-26 08:17 KST",
+  "updated_at": "2026-06-27 08:05 KST",
   "metrics": {
     "us10y": {
-      "value": 4.392,
+      "value": 4.372,
       "prev_day": 4.451,
       "prev_week": 4.451,
-      "prev_month": 4.493,
-      "prev_year": 4.293,
+      "prev_month": 4.481,
+      "prev_year": 4.253,
       "history": [
         4.477,
         4.536,
@@ -19,19 +19,17 @@
         4.428,
         4.463,
         4.451,
-        4.392
+        4.372
       ],
-      "note": "4.39% — 중립 구간"
+      "note": "4.37% — 중립 구간"
     },
     "dxy": {
-      "value": 101.61,
-      "prev_day": 101.41,
-      "prev_week": 100.09,
-      "prev_month": 99.17,
-      "prev_year": 97.86,
+      "value": 101.366,
+      "prev_day": 101.43,
+      "prev_week": 100.85,
+      "prev_month": 99.21,
+      "prev_year": 97.15,
       "history": [
-        100.05,
-        99.91,
         99.95,
         99.86,
         99.75,
@@ -41,18 +39,19 @@
         100.85,
         101.02,
         101.41,
-        101.61
+        101.61,
+        101.43,
+        101.366
       ],
-      "note": "101.61 — 달러 강세 구간"
+      "note": "101.37 — 달러 강세 구간"
     },
     "wti": {
-      "value": 71.47,
-      "prev_day": 70.34,
+      "value": 70.24,
+      "prev_day": 71.92,
       "prev_week": 76.6,
-      "prev_month": 93.89,
-      "prev_year": 64.92,
+      "prev_month": 88.68,
+      "prev_year": 65.24,
       "history": [
-        88.2,
         90.03,
         87.71,
         84.88,
@@ -63,18 +62,18 @@
         74.82,
         73.21,
         70.34,
-        71.47
+        71.92,
+        70.24
       ],
-      "note": "$71.47 — 적정 범위 (70~85)"
+      "note": "$70.24 — 적정 범위 (70~85)"
     },
     "gold": {
-      "value": 4038.7,
-      "prev_day": 3990.3,
+      "value": 4103.0,
+      "prev_day": 4030.5,
       "prev_week": 4224.1001,
-      "prev_month": 4500.3999,
-      "prev_year": 3327.1001,
+      "prev_month": 4447.5,
+      "prev_year": 3333.5,
       "history": [
-        4260.0,
         4108.2002,
         4090.3,
         4215.0,
@@ -85,40 +84,13 @@
         4181.8999,
         4129.8999,
         3990.3,
-        4038.7
+        4030.5,
+        4103.0
       ],
-      "note": "$4,039 — US10Y·DXY 하락 시 강세"
+      "note": "$4,103 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
-    {
-      "name": "Michigan Inflation Expectations Final",
-      "actual": "미발표",
-      "forecast": "4.6",
-      "previous": "4.8",
-      "status": "upcoming"
-    },
-    {
-      "name": "Michigan 5 Year Inflation Expectations F",
-      "actual": "미발표",
-      "forecast": "3.4",
-      "previous": "3.9",
-      "status": "upcoming"
-    },
-    {
-      "name": "Fed Williams Speech",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "—",
-      "status": "upcoming"
-    },
-    {
-      "name": "Fed Kashkari Speech",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "—",
-      "status": "upcoming"
-    },
     {
       "name": "Fed Barkin Speech",
       "actual": "미발표",
@@ -132,24 +104,45 @@
       "forecast": "—",
       "previous": "0.4",
       "status": "upcoming"
+    },
+    {
+      "name": "Chicago PMI",
+      "actual": "미발표",
+      "forecast": "60",
+      "previous": "62.7",
+      "status": "upcoming"
+    },
+    {
+      "name": "Dallas Fed Services Index",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "-7.7",
+      "status": "upcoming"
+    },
+    {
+      "name": "Dallas Fed Services Revenues Index",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "5",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures waver as tech struggles to find",
-      "body": "US stock futures wavered as Wall Street digested a downbeat week for tech stocks.",
+      "title": "Why ServiceNow Stock Gained 9.9%on Friday",
+      "body": "ServiceNow jumped nearly 10% on Friday while the broader market fell. Here's why.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Wall St ends mixed as tech megacap losses outweigh upbeat chip outlook",
-      "body": "STORY: U.S. stocks ended mixed on Thursday, with the Dow ticking up more than a tenth of a percent, while the S&P 500 closed flat and the Nasdaq dropped nearly half a percent.Technology shares reverse",
+      "title": "Does Constellation Energy Stock Add A Different Kind of Risk?",
+      "body": "The nuclear power giant is surging, but its real value for your portfolio lies in a return stream that marches to its own beat.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Dow Jones Futures: Mixed Market Signals As Micron's Gain Is Apple's Pain",
-      "body": "The Nasdaq reversed lower again while the Dow came off record highs. Micron soared but Apple led other tech titans lower.",
+      "title": "Upstart Holdings, Inc. (UPST) Gains As Market Dips: What You Should Know",
+      "body": "Upstart Holdings, Inc. (UPST) concluded the recent trading session at $33.66, signifying a +2.09% move from its prior day's close.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
