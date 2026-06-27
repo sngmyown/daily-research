@@ -1,13 +1,14 @@
 {
-  "updated_at": "2026-06-27 08:05 KST",
+  "updated_at": "2026-06-28 08:01 KST",
   "metrics": {
     "us10y": {
-      "value": 4.372,
-      "prev_day": 4.451,
-      "prev_week": 4.451,
-      "prev_month": 4.481,
-      "prev_year": 4.253,
+      "value": 4.451,
+      "prev_day": 4.463,
+      "prev_week": 4.463,
+      "prev_month": 4.667,
+      "prev_year": 4.397,
       "history": [
+        4.491,
         4.477,
         4.536,
         4.552,
@@ -18,13 +19,12 @@
         4.469,
         4.428,
         4.463,
-        4.451,
-        4.372
+        4.451
       ],
-      "note": "4.37% — 중립 구간"
+      "note": "4.45% — 중립 구간"
     },
     "dxy": {
-      "value": 101.366,
+      "value": 101.36,
       "prev_day": 101.43,
       "prev_week": 100.85,
       "prev_month": 99.21,
@@ -41,12 +41,12 @@
         101.41,
         101.61,
         101.43,
-        101.366
+        101.36
       ],
-      "note": "101.37 — 달러 강세 구간"
+      "note": "101.36 — 달러 강세 구간"
     },
     "wti": {
-      "value": 70.24,
+      "value": 69.23,
       "prev_day": 71.92,
       "prev_week": 76.6,
       "prev_month": 88.68,
@@ -63,12 +63,12 @@
         73.21,
         70.34,
         71.92,
-        70.24
+        69.23
       ],
-      "note": "$70.24 — 적정 범위 (70~85)"
+      "note": "$69.23 — 저유가 구간"
     },
     "gold": {
-      "value": 4103.0,
+      "value": 4078.7,
       "prev_day": 4030.5,
       "prev_week": 4224.1001,
       "prev_month": 4447.5,
@@ -85,9 +85,9 @@
         4129.8999,
         3990.3,
         4030.5,
-        4103.0
+        4078.7
       ],
-      "note": "$4,103 — US10Y·DXY 하락 시 강세"
+      "note": "$4,079 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
@@ -125,24 +125,45 @@
       "forecast": "—",
       "previous": "5",
       "status": "upcoming"
+    },
+    {
+      "name": "Fed Chair Warsh Speech",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "—",
+      "status": "upcoming"
+    },
+    {
+      "name": "NY Fed Bill Purchases 1 to 4 months",
+      "actual": "미발표",
+      "forecast": "6.637",
+      "previous": "—",
+      "status": "upcoming"
+    },
+    {
+      "name": "S&P Global Manufacturing PMI Final",
+      "actual": "미발표",
+      "forecast": "55.7",
+      "previous": "55.1",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Why ServiceNow Stock Gained 9.9%on Friday",
-      "body": "ServiceNow jumped nearly 10% on Friday while the broader market fell. Here's why.",
+      "title": "Cathie Wood buys $11.5 million of battered tech stock",
+      "body": "Cathie Wood, chief of Ark Investment Management, likes to double down on her favorite tech stocks when the prices are falling, hoping for a bargain. That’s what Wood just did, adding shares of Coinbas",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Does Constellation Energy Stock Add A Different Kind of Risk?",
-      "body": "The nuclear power giant is surging, but its real value for your portfolio lies in a return stream that marches to its own beat.",
+      "title": "Is Airbnb (ABNB) the Most Profitable S&P 500 Stocks to Invest In?",
+      "body": "Airbnb, Inc. (NASDAQ:ABNB) is one of the 12 Most Profitable S&P 500 Stocks to Invest In. On June 24, 2026, Chicago Mayor Brandon Johnson, Business Affairs and Consumer Protection Commissioner Ivan Cap",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Upstart Holdings, Inc. (UPST) Gains As Market Dips: What You Should Know",
-      "body": "Upstart Holdings, Inc. (UPST) concluded the recent trading session at $33.66, signifying a +2.09% move from its prior day's close.",
+      "title": "Opinion: Pfizer Is a Fantastic Dividend Stock for Income Investors to Buy Right ",
+      "body": "Pfizer is deeply out of favor on Wall Street, which could be a huge opportunity for long-term dividend investors.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
