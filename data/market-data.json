@@ -1,36 +1,35 @@
 {
-  "updated_at": "2026-06-28 08:01 KST",
+  "updated_at": "2026-06-29 08:01 KST",
   "metrics": {
     "us10y": {
-      "value": 4.451,
-      "prev_day": 4.463,
-      "prev_week": 4.463,
-      "prev_month": 4.667,
-      "prev_year": 4.397,
+      "value": 4.372,
+      "prev_day": 4.392,
+      "prev_week": 4.451,
+      "prev_month": 4.481,
+      "prev_year": 4.253,
       "history": [
-        4.491,
-        4.477,
-        4.536,
-        4.552,
-        4.528,
         4.542,
         4.463,
         4.487,
         4.469,
         4.428,
         4.463,
-        4.451
+        4.451,
+        4.509,
+        4.493,
+        4.402,
+        4.392,
+        4.372
       ],
-      "note": "4.45% — 중립 구간"
+      "note": "4.37% — 중립 구간"
     },
     "dxy": {
-      "value": 101.36,
-      "prev_day": 101.43,
-      "prev_week": 100.85,
-      "prev_month": 99.21,
-      "prev_year": 97.15,
+      "value": 101.361,
+      "prev_day": 101.36,
+      "prev_week": 101.02,
+      "prev_month": 98.91,
+      "prev_year": 97.4,
       "history": [
-        99.95,
         99.86,
         99.75,
         99.63,
@@ -41,18 +40,18 @@
         101.41,
         101.61,
         101.43,
-        101.36
+        101.36,
+        101.361
       ],
       "note": "101.36 — 달러 강세 구간"
     },
     "wti": {
-      "value": 69.23,
-      "prev_day": 71.92,
-      "prev_week": 76.6,
-      "prev_month": 88.68,
-      "prev_year": 65.24,
+      "value": 70.12,
+      "prev_day": 69.23,
+      "prev_week": 74.82,
+      "prev_month": 87.36,
+      "prev_year": 65.11,
       "history": [
-        90.03,
         87.71,
         84.88,
         80.75,
@@ -63,18 +62,18 @@
         73.21,
         70.34,
         71.92,
-        69.23
+        69.23,
+        70.12
       ],
-      "note": "$69.23 — 저유가 구간"
+      "note": "$70.12 — 적정 범위 (70~85)"
     },
     "gold": {
-      "value": 4078.7,
-      "prev_day": 4030.5,
-      "prev_week": 4224.1001,
-      "prev_month": 4447.5,
-      "prev_year": 3333.5,
+      "value": 4078.8,
+      "prev_day": 4078.7,
+      "prev_week": 4181.8999,
+      "prev_month": 4560.5,
+      "prev_year": 3294.3999,
       "history": [
-        4108.2002,
         4090.3,
         4215.0,
         4328.0,
@@ -85,19 +84,13 @@
         4129.8999,
         3990.3,
         4030.5,
-        4078.7
+        4078.7,
+        4078.8
       ],
       "note": "$4,079 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
-    {
-      "name": "Fed Barkin Speech",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "—",
-      "status": "upcoming"
-    },
     {
       "name": "Dallas Fed Manufacturing Index",
       "actual": "미발표",
@@ -146,24 +139,31 @@
       "forecast": "55.7",
       "previous": "55.1",
       "status": "upcoming"
+    },
+    {
+      "name": "ISM Manufacturing New Orders",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "56.8",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Cathie Wood buys $11.5 million of battered tech stock",
-      "body": "Cathie Wood, chief of Ark Investment Management, likes to double down on her favorite tech stocks when the prices are falling, hoping for a bargain. That’s what Wood just did, adding shares of Coinbas",
+      "title": "Stock market today: S&P 500, Nasdaq, Dow futures climb as a halt to US-Iranian a",
+      "body": "The major gauges advanced as peace talks between Iran and the US were broached.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Is Airbnb (ABNB) the Most Profitable S&P 500 Stocks to Invest In?",
-      "body": "Airbnb, Inc. (NASDAQ:ABNB) is one of the 12 Most Profitable S&P 500 Stocks to Invest In. On June 24, 2026, Chicago Mayor Brandon Johnson, Business Affairs and Consumer Protection Commissioner Ivan Cap",
+      "title": "Dow Jones Futures Rise On U.S.-Iran News; Market At Tipping Point",
+      "body": "The U.S. and Iran reportedly have agreed to halt tit-for-tat attacks. Tesla sales and the June jobs report on are on tap.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Opinion: Pfizer Is a Fantastic Dividend Stock for Income Investors to Buy Right ",
-      "body": "Pfizer is deeply out of favor on Wall Street, which could be a huge opportunity for long-term dividend investors.",
+      "title": "60% of S&P 500 Stocks Carry Buy Ratings as US, Iran Halt Strikes",
+      "body": "Nearly 60% of S&P 500 stocks carry Buy ratings, a record high, as a US-Iran truce eases tensions and lifts risk assets.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
