@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-06-29 08:01 KST",
+  "updated_at": "2026-06-30 07:57 KST",
   "metrics": {
     "us10y": {
-      "value": 4.372,
-      "prev_day": 4.392,
-      "prev_week": 4.451,
-      "prev_month": 4.481,
-      "prev_year": 4.253,
+      "value": 4.374,
+      "prev_day": 4.372,
+      "prev_week": 4.509,
+      "prev_month": 4.453,
+      "prev_year": 4.23,
       "history": [
-        4.542,
         4.463,
         4.487,
         4.469,
@@ -19,16 +18,17 @@
         4.493,
         4.402,
         4.392,
-        4.372
+        4.372,
+        4.374
       ],
       "note": "4.37% — 중립 구간"
     },
     "dxy": {
-      "value": 101.361,
+      "value": 101.111,
       "prev_day": 101.36,
       "prev_week": 101.02,
       "prev_month": 98.91,
-      "prev_year": 97.4,
+      "prev_year": 96.88,
       "history": [
         99.86,
         99.75,
@@ -41,12 +41,12 @@
         101.61,
         101.43,
         101.36,
-        101.361
+        101.111
       ],
-      "note": "101.36 — 달러 강세 구간"
+      "note": "101.11 — 달러 강세 구간"
     },
     "wti": {
-      "value": 70.12,
+      "value": 70.29,
       "prev_day": 69.23,
       "prev_week": 74.82,
       "prev_month": 87.36,
@@ -63,12 +63,12 @@
         70.34,
         71.92,
         69.23,
-        70.12
+        70.29
       ],
-      "note": "$70.12 — 적정 범위 (70~85)"
+      "note": "$70.29 — 적정 범위 (70~85)"
     },
     "gold": {
-      "value": 4078.8,
+      "value": 4027.0,
       "prev_day": 4078.7,
       "prev_week": 4181.8999,
       "prev_month": 4560.5,
@@ -85,23 +85,16 @@
         3990.3,
         4030.5,
         4078.7,
-        4078.8
+        4027.0
       ],
-      "note": "$4,079 — US10Y·DXY 하락 시 강세"
+      "note": "$4,027 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
     {
-      "name": "Dallas Fed Manufacturing Index",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "0.4",
-      "status": "upcoming"
-    },
-    {
       "name": "Chicago PMI",
       "actual": "미발표",
-      "forecast": "60",
+      "forecast": "58.1",
       "previous": "62.7",
       "status": "upcoming"
     },
@@ -146,24 +139,31 @@
       "forecast": "—",
       "previous": "56.8",
       "status": "upcoming"
+    },
+    {
+      "name": "ISM Manufacturing PMI",
+      "actual": "미발표",
+      "forecast": "54",
+      "previous": "54",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Stock market today: S&P 500, Nasdaq, Dow futures climb as a halt to US-Iranian a",
-      "body": "The major gauges advanced as peace talks between Iran and the US were broached.",
+      "title": "Stock Market Today, June 29: AST SpaceMobile Rises on BlueBird Satellite Momentu",
+      "body": "AST SpaceMobile gave investors another constellation milestone, keeping attention on launch cadence and the path toward commercial service.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Dow Jones Futures Rise On U.S.-Iran News; Market At Tipping Point",
-      "body": "The U.S. and Iran reportedly have agreed to halt tit-for-tat attacks. Tesla sales and the June jobs report on are on tap.",
+      "title": "Here Are Tuesday’s Best Wall Street Analyst Research Calls:",
+      "body": "Pre-Market Stock Futures: Futures are trading flat after a big start to the holiday-shortened trading week, which saw every index trade higher. The small-cap Russell 2000 eked out a tiny gain on the c",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "60% of S&P 500 Stocks Carry Buy Ratings as US, Iran Halt Strikes",
-      "body": "Nearly 60% of S&P 500 stocks carry Buy ratings, a record high, as a US-Iran truce eases tensions and lifts risk assets.",
+      "title": "Stock Market Today, June 29: Nasdaq Composite Outperforms as Tech Stocks Gain on",
+      "body": "Today, June 29, 2026, investors welcomed relief in risk assets as U.S.-Iran tensions cooled ahead of a key summit.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
