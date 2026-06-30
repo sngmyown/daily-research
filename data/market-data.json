@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-30 07:57 KST",
+  "updated_at": "2026-07-01 08:11 KST",
   "metrics": {
     "us10y": {
-      "value": 4.374,
+      "value": 4.418,
       "prev_day": 4.372,
-      "prev_week": 4.509,
-      "prev_month": 4.453,
+      "prev_week": 4.493,
+      "prev_month": 4.475,
       "prev_year": 4.23,
       "history": [
         4.463,
@@ -19,18 +19,17 @@
         4.402,
         4.392,
         4.372,
-        4.374
+        4.418
       ],
-      "note": "4.37% — 중립 구간"
+      "note": "4.42% — 중립 구간"
     },
     "dxy": {
-      "value": 101.111,
-      "prev_day": 101.36,
-      "prev_week": 101.02,
-      "prev_month": 98.91,
+      "value": 101.172,
+      "prev_day": 101.11,
+      "prev_week": 101.41,
+      "prev_month": 99.2,
       "prev_year": 96.88,
       "history": [
-        99.86,
         99.75,
         99.63,
         99.54,
@@ -41,18 +40,18 @@
         101.61,
         101.43,
         101.36,
-        101.111
+        101.11,
+        101.172
       ],
-      "note": "101.11 — 달러 강세 구간"
+      "note": "101.17 — 달러 강세 구간"
     },
     "wti": {
-      "value": 70.29,
-      "prev_day": 69.23,
-      "prev_week": 74.82,
-      "prev_month": 87.36,
+      "value": 69.96,
+      "prev_day": 70.75,
+      "prev_week": 73.21,
+      "prev_month": 92.16,
       "prev_year": 65.11,
       "history": [
-        87.71,
         84.88,
         80.75,
         76.05,
@@ -63,18 +62,18 @@
         70.34,
         71.92,
         69.23,
-        70.29
+        70.75,
+        69.96
       ],
-      "note": "$70.29 — 적정 범위 (70~85)"
+      "note": "$69.96 — 저유가 구간"
     },
     "gold": {
-      "value": 4027.0,
-      "prev_day": 4078.7,
-      "prev_week": 4181.8999,
-      "prev_month": 4560.5,
+      "value": 4025.0,
+      "prev_day": 4022.3,
+      "prev_week": 4129.8999,
+      "prev_month": 4475.2002,
       "prev_year": 3294.3999,
       "history": [
-        4090.3,
         4215.0,
         4328.0,
         4330.8999,
@@ -85,33 +84,13 @@
         3990.3,
         4030.5,
         4078.7,
-        4027.0
+        4022.3,
+        4025.0
       ],
-      "note": "$4,027 — US10Y·DXY 하락 시 강세"
+      "note": "$4,025 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
-    {
-      "name": "Chicago PMI",
-      "actual": "미발표",
-      "forecast": "58.1",
-      "previous": "62.7",
-      "status": "upcoming"
-    },
-    {
-      "name": "Dallas Fed Services Index",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "-7.7",
-      "status": "upcoming"
-    },
-    {
-      "name": "Dallas Fed Services Revenues Index",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "5",
-      "status": "upcoming"
-    },
     {
       "name": "Fed Chair Warsh Speech",
       "actual": "미발표",
@@ -146,24 +125,45 @@
       "forecast": "54",
       "previous": "54",
       "status": "upcoming"
+    },
+    {
+      "name": "ISM Manufacturing Prices",
+      "actual": "미발표",
+      "forecast": "79",
+      "previous": "82.1",
+      "status": "upcoming"
+    },
+    {
+      "name": "ISM Manufacturing Employment",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "48.6",
+      "status": "upcoming"
+    },
+    {
+      "name": "Continuing Jobless Claims",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "1821",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Stock Market Today, June 29: AST SpaceMobile Rises on BlueBird Satellite Momentu",
-      "body": "AST SpaceMobile gave investors another constellation milestone, keeping attention on launch cadence and the path toward commercial service.",
+      "title": "Dow Jones Futures: Market Extends Rebound, Bloom Energy Soars Late. SpaceX's Fir",
+      "body": ": Techs continued to bounce Tuesday, with bullish moves for the Nasdaq and many AI stocks. SpaceX flashed a first buy signal.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Here Are Tuesday’s Best Wall Street Analyst Research Calls:",
-      "body": "Pre-Market Stock Futures: Futures are trading flat after a big start to the holiday-shortened trading week, which saw every index trade higher. The small-cap Russell 2000 eked out a tiny gain on the c",
+      "title": "S&P 500, Nasdaq post best quarter since 2020 despite Iran war",
+      "body": "STORY: U.S. stocks ended the second quarter on a high note...with the Dow on Tuesday adding about a quarter of a percent to notch another record high close. The blue-chip index also registered its big",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Stock Market Today, June 29: Nasdaq Composite Outperforms as Tech Stocks Gain on",
-      "body": "Today, June 29, 2026, investors welcomed relief in risk assets as U.S.-Iran tensions cooled ahead of a key summit.",
+      "title": "RTX (RTX) Outperforms Broader Market: What You Need to Know",
+      "body": "RTX (RTX) closed the most recent trading day at $189.73, moving +1.28% from the previous trading session.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
