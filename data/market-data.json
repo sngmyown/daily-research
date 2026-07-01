@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-01 08:11 KST",
+  "updated_at": "2026-07-02 08:14 KST",
   "metrics": {
     "us10y": {
-      "value": 4.418,
+      "value": 4.475,
       "prev_day": 4.372,
-      "prev_week": 4.493,
+      "prev_week": 4.402,
       "prev_month": 4.475,
-      "prev_year": 4.23,
+      "prev_year": 4.251,
       "history": [
         4.463,
         4.487,
@@ -19,18 +19,17 @@
         4.402,
         4.392,
         4.372,
-        4.418
+        4.475
       ],
-      "note": "4.42% — 중립 구간"
+      "note": "4.47% — 중립 구간"
     },
     "dxy": {
-      "value": 101.172,
-      "prev_day": 101.11,
-      "prev_week": 101.41,
+      "value": 101.413,
+      "prev_day": 101.19,
+      "prev_week": 101.61,
       "prev_month": 99.2,
-      "prev_year": 96.88,
+      "prev_year": 96.82,
       "history": [
-        99.75,
         99.63,
         99.54,
         100.09,
@@ -41,18 +40,18 @@
         101.43,
         101.36,
         101.11,
-        101.172
+        101.19,
+        101.413
       ],
-      "note": "101.17 — 달러 강세 구간"
+      "note": "101.41 — 달러 강세 구간"
     },
     "wti": {
-      "value": 69.96,
-      "prev_day": 70.75,
-      "prev_week": 73.21,
+      "value": 68.01,
+      "prev_day": 69.5,
+      "prev_week": 70.34,
       "prev_month": 92.16,
-      "prev_year": 65.11,
+      "prev_year": 65.45,
       "history": [
-        84.88,
         80.75,
         76.05,
         76.79,
@@ -63,18 +62,18 @@
         71.92,
         69.23,
         70.75,
-        69.96
+        69.5,
+        68.01
       ],
-      "note": "$69.96 — 저유가 구간"
+      "note": "$68.01 — 저유가 구간"
     },
     "gold": {
-      "value": 4025.0,
-      "prev_day": 4022.3,
-      "prev_week": 4129.8999,
+      "value": 4055.5,
+      "prev_day": 4022.8999,
+      "prev_week": 3990.3,
       "prev_month": 4475.2002,
-      "prev_year": 3294.3999,
+      "prev_year": 3336.7,
       "history": [
-        4215.0,
         4328.0,
         4330.8999,
         4358.8999,
@@ -85,85 +84,79 @@
         4030.5,
         4078.7,
         4022.3,
-        4025.0
+        4022.8999,
+        4055.5
       ],
-      "note": "$4,025 — US10Y·DXY 하락 시 강세"
+      "note": "$4,056 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
     {
-      "name": "Fed Chair Warsh Speech",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "—",
-      "status": "upcoming"
-    },
-    {
-      "name": "NY Fed Bill Purchases 1 to 4 months",
-      "actual": "미발표",
-      "forecast": "6.637",
-      "previous": "—",
-      "status": "upcoming"
-    },
-    {
-      "name": "S&P Global Manufacturing PMI Final",
-      "actual": "미발표",
-      "forecast": "55.7",
-      "previous": "55.1",
-      "status": "upcoming"
-    },
-    {
-      "name": "ISM Manufacturing New Orders",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "56.8",
-      "status": "upcoming"
-    },
-    {
-      "name": "ISM Manufacturing PMI",
-      "actual": "미발표",
-      "forecast": "54",
-      "previous": "54",
-      "status": "upcoming"
-    },
-    {
-      "name": "ISM Manufacturing Prices",
-      "actual": "미발표",
-      "forecast": "79",
-      "previous": "82.1",
-      "status": "upcoming"
-    },
-    {
-      "name": "ISM Manufacturing Employment",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "48.6",
-      "status": "upcoming"
-    },
-    {
       "name": "Continuing Jobless Claims",
       "actual": "미발표",
-      "forecast": "—",
+      "forecast": "1810",
       "previous": "1821",
+      "status": "upcoming"
+    },
+    {
+      "name": "Jobless Claims 4-week Average",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "224.25",
+      "status": "upcoming"
+    },
+    {
+      "name": "Initial Jobless Claims",
+      "actual": "미발표",
+      "forecast": "220",
+      "previous": "215",
+      "status": "upcoming"
+    },
+    {
+      "name": "U-6 Unemployment Rate",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "8.1",
+      "status": "upcoming"
+    },
+    {
+      "name": "Unemployment Rate",
+      "actual": "미발표",
+      "forecast": "4.3",
+      "previous": "4.3",
+      "status": "upcoming"
+    },
+    {
+      "name": "Nonfarm Payrolls Private",
+      "actual": "미발표",
+      "forecast": "110",
+      "previous": "120",
+      "status": "upcoming"
+    },
+    {
+      "name": "Fed Balance Sheet",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "6.736",
       "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Dow Jones Futures: Market Extends Rebound, Bloom Energy Soars Late. SpaceX's Fir",
-      "body": ": Techs continued to bounce Tuesday, with bullish moves for the Nasdaq and many AI stocks. SpaceX flashed a first buy signal.",
+      "title": "Dow Jones Futures: Meta Jumps But Hits SpaceX, Micron; Tesla, Jobs Report Ahead",
+      "body": "Stocks fell as Meta buzz hit SpaceX, Micron and many AI stocks. Tesla is near a buy point with deliveries due. The June jobs report also is on tap.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "S&P 500, Nasdaq post best quarter since 2020 despite Iran war",
-      "body": "STORY: U.S. stocks ended the second quarter on a high note...with the Dow on Tuesday adding about a quarter of a percent to notch another record high close. The blue-chip index also registered its big",
+      "title": "Wall Street ends lower as tech shares slip",
+      "body": "STORY: U.S. stocks finished flat to slightly lower on Wednesday, with the Dow little changed, the S&P 500 down more than two-tenths of a percent and the Nasdaq sliding two-thirds of a percent.Speaking",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "RTX (RTX) Outperforms Broader Market: What You Need to Know",
-      "body": "RTX (RTX) closed the most recent trading day at $189.73, moving +1.28% from the previous trading session.",
+      "title": "This Vanguard ETF Tops Schwab in Returns and Cost for Global Investors",
+      "body": "Compare risk and returns for the Vanguard FTSE Developed Markets ETF and the Schwab Emerging Markets Equity ETF.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
