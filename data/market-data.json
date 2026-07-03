@@ -1,13 +1,14 @@
 {
-  "updated_at": "2026-07-03 08:05 KST",
+  "updated_at": "2026-07-04 08:02 KST",
   "metrics": {
     "us10y": {
-      "value": 4.485,
-      "prev_day": 4.372,
-      "prev_week": 4.392,
-      "prev_month": 4.455,
-      "prev_year": 4.293,
+      "value": 4.372,
+      "prev_day": 4.392,
+      "prev_week": 4.451,
+      "prev_month": 4.481,
+      "prev_year": 4.253,
       "history": [
+        4.542,
         4.463,
         4.487,
         4.469,
@@ -18,19 +19,17 @@
         4.493,
         4.402,
         4.392,
-        4.372,
-        4.485
+        4.372
       ],
-      "note": "4.49% — 중립 구간"
+      "note": "4.37% — 중립 구간"
     },
     "dxy": {
-      "value": 100.848,
-      "prev_day": 101.39,
-      "prev_week": 101.43,
-      "prev_month": 99.22,
-      "prev_year": 96.78,
+      "value": 100.857,
+      "prev_day": 100.86,
+      "prev_week": 101.36,
+      "prev_month": 99.41,
+      "prev_year": 97.18,
       "history": [
-        99.54,
         100.09,
         100.85,
         101.02,
@@ -41,18 +40,18 @@
         101.11,
         101.19,
         101.39,
-        100.848
+        100.86,
+        100.857
       ],
-      "note": "100.85 — 달러 강세 구간"
+      "note": "100.86 — 달러 강세 구간"
     },
     "wti": {
-      "value": 68.49,
-      "prev_day": 68.58,
-      "prev_week": 71.92,
-      "prev_month": 93.76,
-      "prev_year": 67.45,
+      "value": 68.78,
+      "prev_day": 68.69,
+      "prev_week": 69.23,
+      "prev_month": 93.04,
+      "prev_year": 67.0,
       "history": [
-        76.05,
         76.79,
         76.6,
         74.82,
@@ -63,18 +62,18 @@
         70.75,
         69.5,
         68.58,
-        68.49
+        68.69,
+        68.78
       ],
-      "note": "$68.49 — 저유가 구간"
+      "note": "$68.78 — 저유가 구간"
     },
     "gold": {
-      "value": 4138.1001,
-      "prev_day": 4068.3,
-      "prev_week": 4030.5,
-      "prev_month": 4489.1001,
-      "prev_year": 3348.0,
+      "value": 4187.2998,
+      "prev_day": 4112.7002,
+      "prev_week": 4078.7,
+      "prev_month": 4475.7998,
+      "prev_year": 3331.6001,
       "history": [
-        4330.8999,
         4358.8999,
         4224.1001,
         4181.8999,
@@ -85,19 +84,13 @@
         4022.3,
         4022.8999,
         4068.3,
-        4138.1001
+        4112.7002,
+        4187.2998
       ],
-      "note": "$4,138 — US10Y·DXY 하락 시 강세"
+      "note": "$4,187 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
-    {
-      "name": "NY Fed Bill Purchases 4 to 12 months",
-      "actual": "미발표",
-      "forecast": "3.319",
-      "previous": "—",
-      "status": "upcoming"
-    },
     {
       "name": "S&P Global Services PMI Final",
       "actual": "미발표",
@@ -136,7 +129,7 @@
     {
       "name": "ISM Services PMI",
       "actual": "미발표",
-      "forecast": "—",
+      "forecast": "54.2",
       "previous": "54.5",
       "status": "upcoming"
     },
@@ -146,24 +139,31 @@
       "forecast": "—",
       "previous": "71.3",
       "status": "upcoming"
+    },
+    {
+      "name": "Fed Waller Speech",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "—",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Dow Jones Futures: Dow Hits High But AI Tumbles; Apple, Robinhood Are Buys As Te",
+      "title": "Forget AI Stocks: This Defense Giant Has Raised Its Dividend Each of the Last 10",
+      "body": "Lockheed Martin is a durable dividend growth stock that may be just what the doctor ordered for tech-heavy portfolios.",
+      "tag": "market",
+      "impact": "뉴스 원문을 확인하세요."
+    },
+    {
+      "title": "Dow Jones Futures: Techs' Rise Signal AI Trend Isn't Over; Apple, Robinhood Flas",
       "body": "The stock market had strong weekly gains, but it didn't feel that way with Sandisk and other AI plays selling off Thursday.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Tumbling tech shares weigh on Nasdaq; investors assess soft jobs data",
-      "body": "STORY: U.S. stocks closed mixed on Thursday, with the Dow adding more than 1.1% and posting a record closing high, the S&P 500 ending flat and the tech-heavy Nasdaq tumbling eight-tenths of a percent.",
-      "tag": "market",
-      "impact": "뉴스 원문을 확인하세요."
-    },
-    {
-      "title": "Teladoc's Recovery Story Is Starting to Take Shape. Should You Buy the Stock?",
-      "body": "It could be an attractive contrarian play, but beware of the risks.",
+      "title": "Conagra (CAG) Stock May Be Below Fair Value As New Product Rollout Lands",
+      "body": "Conagra Brands stock has had a tough run over the past few years, yet the current checks suggest the valuation now leans cheap rather than expensive. After years of weak share price returns, the quest",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
