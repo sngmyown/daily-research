@@ -1,27 +1,16 @@
 {
-  "updated_at": "2026-07-04 08:02 KST",
+  "updated_at": "2026-07-05 07:56 KST",
   "metrics": {
     "us10y": {
-      "value": 4.372,
-      "prev_day": 4.392,
-      "prev_week": 4.451,
-      "prev_month": 4.481,
-      "prev_year": 4.253,
+      "value": 4.485,
+      "prev_day": 4.485,
+      "prev_week": 4.485,
+      "prev_month": 4.485,
+      "prev_year": 4.485,
       "history": [
-        4.542,
-        4.463,
-        4.487,
-        4.469,
-        4.428,
-        4.463,
-        4.451,
-        4.509,
-        4.493,
-        4.402,
-        4.392,
-        4.372
+        4.485
       ],
-      "note": "4.37% — 중립 구간"
+      "note": "4.49% — 중립 구간"
     },
     "dxy": {
       "value": 100.857,
@@ -150,20 +139,20 @@
   ],
   "key_news": [
     {
-      "title": "Forget AI Stocks: This Defense Giant Has Raised Its Dividend Each of the Last 10",
-      "body": "Lockheed Martin is a durable dividend growth stock that may be just what the doctor ordered for tech-heavy portfolios.",
+      "title": "Which Is the Better High Dividend ETF, iShares' HDV or Fidelity's FDVV?",
+      "body": "HDV favors defensive sectors like healthcare and energy, while FDVV emphasizes tech stocks. Which strategy suits your income goals?",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Dow Jones Futures: Techs' Rise Signal AI Trend Isn't Over; Apple, Robinhood Flas",
-      "body": "The stock market had strong weekly gains, but it didn't feel that way with Sandisk and other AI plays selling off Thursday.",
+      "title": "Nvidia Stock Is Nearly Flat for 2026. Time to Cash Out, or Load Up on Shares?",
+      "body": "Nvidia could have a monster second half of 2026.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Conagra (CAG) Stock May Be Below Fair Value As New Product Rollout Lands",
-      "body": "Conagra Brands stock has had a tough run over the past few years, yet the current checks suggest the valuation now leans cheap rather than expensive. After years of weak share price returns, the quest",
+      "title": "Which iShares Value ETF Is Better, the Small Cap-Focused IWN or IJJ Targeting Mi",
+      "body": "IJJ delivered stronger five-year returns despite IWN's broader diversification across 1,415 holdings.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
