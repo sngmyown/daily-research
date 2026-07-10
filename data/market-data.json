@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-07-10 08:10 KST",
+  "updated_at": "2026-07-11 07:58 KST",
   "metrics": {
     "us10y": {
-      "value": 4.539,
-      "prev_day": 4.569,
+      "value": 4.569,
+      "prev_day": 4.539,
       "prev_week": 4.485,
-      "prev_month": 4.528,
-      "prev_year": 4.342,
+      "prev_month": 4.542,
+      "prev_year": 4.346,
       "history": [
-        4.509,
         4.493,
         4.402,
         4.392,
@@ -19,18 +18,18 @@
         4.485,
         4.529,
         4.569,
-        4.539
+        4.539,
+        4.569
       ],
-      "note": "4.54% — 금리 부담 구간"
+      "note": "4.57% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 100.937,
-      "prev_day": 101.05,
+      "value": 100.965,
+      "prev_day": 100.94,
       "prev_week": 100.86,
-      "prev_month": 99.91,
-      "prev_year": 97.47,
+      "prev_month": 99.95,
+      "prev_year": 97.65,
       "history": [
-        101.41,
         101.61,
         101.43,
         101.36,
@@ -41,18 +40,18 @@
         100.85,
         101.14,
         101.05,
-        100.937
+        100.94,
+        100.965
       ],
-      "note": "100.94 — 달러 강세 구간"
+      "note": "100.97 — 달러 강세 구간"
     },
     "wti": {
-      "value": 71.83,
-      "prev_day": 73.52,
+      "value": 71.51,
+      "prev_day": 72.08,
       "prev_week": 68.69,
-      "prev_month": 88.2,
-      "prev_year": 68.38,
+      "prev_month": 90.03,
+      "prev_year": 66.57,
       "history": [
-        73.21,
         70.34,
         71.92,
         69.23,
@@ -63,18 +62,18 @@
         68.55,
         70.44,
         73.52,
-        71.83
+        72.08,
+        71.51
       ],
-      "note": "$71.83 — 적정 범위 (70~85)"
+      "note": "$71.51 — 적정 범위 (70~85)"
     },
     "gold": {
-      "value": 4131.0,
-      "prev_day": 4070.8999,
+      "value": 4128.8999,
+      "prev_day": 4130.6001,
       "prev_week": 4112.7002,
-      "prev_month": 4260.0,
-      "prev_year": 3311.6001,
+      "prev_month": 4108.2002,
+      "prev_year": 3317.3999,
       "history": [
-        4129.8999,
         3990.3,
         4030.5,
         4078.7,
@@ -85,78 +84,86 @@
         4155.1001,
         4145.2998,
         4070.8999,
-        4131.0
+        4130.6001,
+        4128.8999
       ],
-      "note": "$4,131 — US10Y·DXY 하락 시 강세"
+      "note": "$4,129 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
     {
-      "name": "Initial Jobless Claims",
-      "actual": "미발표",
-      "forecast": "218",
-      "previous": "215",
-      "status": "upcoming"
-    },
-    {
-      "name": "Jobless Claims 4-week Average",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "222",
-      "status": "upcoming"
-    },
-    {
-      "name": "Continuing Jobless Claims",
-      "actual": "미발표",
-      "forecast": "1820",
-      "previous": "1814",
-      "status": "upcoming"
-    },
-    {
-      "name": "Fed Williams Speech",
+      "name": "Fed Bowman Speech",
       "actual": "미발표",
       "forecast": "—",
       "previous": "—",
       "status": "upcoming"
     },
     {
-      "name": "NY Fed Bill Purchases 1 to 4 months",
-      "actual": "미발표",
-      "forecast": "6.637",
-      "previous": "—",
-      "status": "upcoming"
-    },
-    {
-      "name": "Fed Logan Speech",
+      "name": "Fed Waller Speech",
       "actual": "미발표",
       "forecast": "—",
       "previous": "—",
       "status": "upcoming"
     },
     {
-      "name": "Fed Balance Sheet",
+      "name": "NFIB Business Optimism Index",
       "actual": "미발표",
       "forecast": "—",
-      "previous": "6.725",
+      "previous": "95.3",
+      "status": "upcoming"
+    },
+    {
+      "name": "Core Inflation Rate YoY",
+      "actual": "미발표",
+      "forecast": "2.9",
+      "previous": "2.9",
+      "status": "upcoming"
+    },
+    {
+      "name": "CPI",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "335.12",
+      "status": "upcoming"
+    },
+    {
+      "name": "CPI s.a",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "333.979",
+      "status": "upcoming"
+    },
+    {
+      "name": "Inflation Rate YoY",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "4.2",
+      "status": "upcoming"
+    },
+    {
+      "name": "Core Inflation Rate MoM",
+      "actual": "미발표",
+      "forecast": "0.3",
+      "previous": "0.2",
       "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Pepsi Reported Higher Revenue and Earnings. So Why Is the High-Yield Dividend St",
-      "body": "The company also topped analyst estimates, but that clearly wasn't good enough for Mr. Market.",
+      "title": "Wall Street ends higher as investors turn to earnings season",
+      "body": "STORY: U.S. stocks closed higher on Friday, with the Dow gaining nearly three-tenths of a percent, the S&P 500 adding more than four-tenths of a percent to end just short of a record high, and the Nas",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "SCHH vs. VNQI: Which Real Estate ETF Is the Better Buy in 2026?",
-      "body": "Schwab's U.S. real estate focus has delivered better total returns, but Vanguard's international portfolio offers a significantly higher dividend yield.",
+      "title": "3 Reasons I Think Meta Platforms is a Screaming Buy Right Now",
+      "body": "The company's AI strategy is beginning to pay dividends.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Twilio (TWLO) Rises Higher Than Market: Key Facts",
-      "body": "In the most recent trading session, Twilio (TWLO) closed at $218.6, indicating a +1.44% shift from the previous trading day.",
+      "title": "Marathon Digital Holdings, Inc. (MARA) Stock Drops Despite Market Gains: Importa",
+      "body": "Marathon Digital Holdings, Inc. (MARA) closed the most recent trading day at $12.6, moving 4.69% from the previous trading session.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
