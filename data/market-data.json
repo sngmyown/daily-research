@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11 07:58 KST",
+  "updated_at": "2026-07-12 07:46 KST",
   "metrics": {
     "us10y": {
       "value": 4.569,
@@ -24,7 +24,7 @@
       "note": "4.57% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 100.965,
+      "value": 100.97,
       "prev_day": 100.94,
       "prev_week": 100.86,
       "prev_month": 99.95,
@@ -41,12 +41,12 @@
         101.14,
         101.05,
         100.94,
-        100.965
+        100.97
       ],
       "note": "100.97 — 달러 강세 구간"
     },
     "wti": {
-      "value": 71.51,
+      "value": 71.41,
       "prev_day": 72.08,
       "prev_week": 68.69,
       "prev_month": 90.03,
@@ -63,12 +63,12 @@
         70.44,
         73.52,
         72.08,
-        71.51
+        71.41
       ],
-      "note": "$71.51 — 적정 범위 (70~85)"
+      "note": "$71.41 — 적정 범위 (70~85)"
     },
     "gold": {
-      "value": 4128.8999,
+      "value": 4104.1001,
       "prev_day": 4130.6001,
       "prev_week": 4112.7002,
       "prev_month": 4108.2002,
@@ -85,9 +85,9 @@
         4145.2998,
         4070.8999,
         4130.6001,
-        4128.8999
+        4104.1001
       ],
-      "note": "$4,129 — US10Y·DXY 하락 시 강세"
+      "note": "$4,104 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
@@ -108,7 +108,7 @@
     {
       "name": "NFIB Business Optimism Index",
       "actual": "미발표",
-      "forecast": "—",
+      "forecast": "95.6",
       "previous": "95.3",
       "status": "upcoming"
     },
@@ -150,20 +150,20 @@
   ],
   "key_news": [
     {
-      "title": "Wall Street ends higher as investors turn to earnings season",
-      "body": "STORY: U.S. stocks closed higher on Friday, with the Dow gaining nearly three-tenths of a percent, the S&P 500 adding more than four-tenths of a percent to end just short of a record high, and the Nas",
+      "title": "Everyone Owns VOO. This Overlooked S&P 500 ETF Is Somehow Cheaper",
+      "body": "For millions of investors, buying the Vanguard S&P 500 ETF (VOO) has become the default way of “owning the market.” This is reinforced by the fact that VOO’s assets under management have just recently",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "3 Reasons I Think Meta Platforms is a Screaming Buy Right Now",
-      "body": "The company's AI strategy is beginning to pay dividends.",
+      "title": "Dow Jones Futures: Market Ready To Go? Nvidia, Micron, Sandisk Near Buy Points W",
+      "body": "Taiwan Semi, Goldman and GE Aerospace are big earnings due with the market improving. Nvidia, Sandisk, Micron, Robinhood are near buy points.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Marathon Digital Holdings, Inc. (MARA) Stock Drops Despite Market Gains: Importa",
-      "body": "Marathon Digital Holdings, Inc. (MARA) closed the most recent trading day at $12.6, moving 4.69% from the previous trading session.",
+      "title": "Nasdaq 'Cheated and Changed the Laws' to Fit SpaceX in, Famed Investor Jeremy Gr",
+      "body": "The highly anticipated SpaceX IPO was an event to be remembered by investors. The event also saw calls for major stock market indexes to change their inclusion rules to fast-track one of the world’s l",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
