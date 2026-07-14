@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-07-14 07:55 KST",
+  "updated_at": "2026-07-15 07:55 KST",
   "metrics": {
     "us10y": {
-      "value": 4.609,
-      "prev_day": 4.569,
-      "prev_week": 4.479,
-      "prev_month": 4.487,
+      "value": 4.585,
+      "prev_day": 4.609,
+      "prev_week": 4.529,
+      "prev_month": 4.469,
       "prev_year": 4.427,
       "history": [
-        4.392,
         4.372,
         4.374,
         4.418,
@@ -19,18 +18,18 @@
         4.569,
         4.539,
         4.569,
-        4.609
+        4.609,
+        4.585
       ],
-      "note": "4.61% — 금리 부담 구간"
+      "note": "4.58% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 101.277,
-      "prev_day": 100.97,
-      "prev_week": 100.85,
-      "prev_month": 99.75,
+      "value": 100.941,
+      "prev_day": 101.28,
+      "prev_week": 101.14,
+      "prev_month": 99.63,
       "prev_year": 98.08,
       "history": [
-        101.43,
         101.36,
         101.11,
         101.19,
@@ -41,18 +40,18 @@
         101.05,
         100.94,
         100.97,
-        101.277
+        101.28,
+        100.941
       ],
-      "note": "101.28 — 달러 강세 구간"
+      "note": "100.94 — 달러 강세 구간"
     },
     "wti": {
-      "value": 78.23,
-      "prev_day": 71.41,
-      "prev_week": 68.55,
-      "prev_month": 84.88,
+      "value": 79.95,
+      "prev_day": 78.14,
+      "prev_week": 70.44,
+      "prev_month": 80.75,
       "prev_year": 66.98,
       "history": [
-        71.92,
         69.23,
         70.75,
         69.5,
@@ -63,18 +62,18 @@
         73.52,
         72.08,
         71.41,
-        78.23
+        78.14,
+        79.95
       ],
-      "note": "$78.23 — 적정 범위 (70~85)"
+      "note": "$79.95 — 적정 범위 (70~85)"
     },
     "gold": {
-      "value": 4010.3,
-      "prev_day": 4104.1001,
-      "prev_week": 4155.1001,
-      "prev_month": 4215.0,
+      "value": 4056.0,
+      "prev_day": 3997.0,
+      "prev_week": 4145.2998,
+      "prev_month": 4328.0,
       "prev_year": 3351.5,
       "history": [
-        4030.5,
         4078.7,
         4022.3,
         4022.8999,
@@ -85,59 +84,18 @@
         4070.8999,
         4130.6001,
         4104.1001,
-        4010.3
+        3997.0,
+        4056.0
       ],
-      "note": "$4,010 — US10Y·DXY 하락 시 강세"
+      "note": "$4,056 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
     {
-      "name": "NFIB Business Optimism Index",
-      "actual": "미발표",
-      "forecast": "95.6",
-      "previous": "95.3",
-      "status": "upcoming"
-    },
-    {
-      "name": "Core Inflation Rate YoY",
-      "actual": "미발표",
-      "forecast": "2.9",
-      "previous": "2.9",
-      "status": "upcoming"
-    },
-    {
-      "name": "CPI",
-      "actual": "미발표",
-      "forecast": "334.71",
-      "previous": "335.12",
-      "status": "upcoming"
-    },
-    {
-      "name": "CPI s.a",
+      "name": "Fed Williams Speech",
       "actual": "미발표",
       "forecast": "—",
-      "previous": "333.979",
-      "status": "upcoming"
-    },
-    {
-      "name": "Inflation Rate YoY",
-      "actual": "미발표",
-      "forecast": "3.8",
-      "previous": "4.2",
-      "status": "upcoming"
-    },
-    {
-      "name": "Core Inflation Rate MoM",
-      "actual": "미발표",
-      "forecast": "0.2",
-      "previous": "0.2",
-      "status": "upcoming"
-    },
-    {
-      "name": "Inflation Rate MoM",
-      "actual": "미발표",
-      "forecast": "-0.1",
-      "previous": "0.5",
+      "previous": "—",
       "status": "upcoming"
     },
     {
@@ -146,24 +104,66 @@
       "forecast": "—",
       "previous": "—",
       "status": "upcoming"
+    },
+    {
+      "name": "Fed Cook Speech",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "—",
+      "status": "upcoming"
+    },
+    {
+      "name": "Fed Beige Book",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "—",
+      "status": "upcoming"
+    },
+    {
+      "name": "Fed Musalem Speech",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "—",
+      "status": "upcoming"
+    },
+    {
+      "name": "Initial Jobless Claims",
+      "actual": "미발표",
+      "forecast": "217",
+      "previous": "215",
+      "status": "upcoming"
+    },
+    {
+      "name": "Jobless Claims 4-week Average",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "218.75",
+      "status": "upcoming"
+    },
+    {
+      "name": "Continuing Jobless Claims",
+      "actual": "미발표",
+      "forecast": "1820",
+      "previous": "1814",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Wall Street ends lower as Iran tensions dampen risk appetite",
-      "body": "STORY: U.S. stocks ended lower on Monday, with the Dow losing about a quarter of a percent, the S&P 500 falling roughly eight-tenths of a percent and the Nasdaq dropping more than one-and-a-half perce",
+      "title": "Wall Street ends higher on cool inflation data, solid bank earnings",
+      "body": "STORY: U.S. stocks closed mostly higher on Tuesday, with the Dow ending little changed, the S&P 500 adding almost four-tenths of a percent and the Nasdaq gaining nine-tenths of a percent.Second-quarte",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Does Baker Hughes Stock Spread Your Risk?",
-      "body": "The energy tech firm is running hot, but its long-term behavior offers a different story for your portfolio.",
+      "title": "Dow Jones Futures: Goldman, CrowdStrike Jump, But AI Stocks Need To Do This",
+      "body": "The Nasdaq and AI stocks rallied, but still face key resistance. Goldman and CrowdStrike make big bullish moves.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Two Income ETFs Retirees Can Buy Inside a Roth IRA to Generate Tax Free Cash for",
-      "body": "Retirees chasing yield often hand a significant slice of their income straight to the IRS, but the account where you hold a fund can matter just as much as the fund itself.",
+      "title": "Stock Market Today, July 14: IBM Plunges on Second-Quarter Warning as AI Shifts ",
+      "body": "Today, July 14, 2026, customers redirected IT budgets away from software and infrastructure, raising questions about near-term demand durability.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
