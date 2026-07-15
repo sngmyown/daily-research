@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-07-15 07:55 KST",
+  "updated_at": "2026-07-16 07:57 KST",
   "metrics": {
     "us10y": {
-      "value": 4.585,
-      "prev_day": 4.609,
-      "prev_week": 4.529,
+      "value": 4.545,
+      "prev_day": 4.585,
+      "prev_week": 4.569,
       "prev_month": 4.469,
-      "prev_year": 4.427,
+      "prev_year": 4.489,
       "history": [
-        4.372,
         4.374,
         4.418,
         4.475,
@@ -19,18 +18,18 @@
         4.539,
         4.569,
         4.609,
-        4.585
+        4.585,
+        4.545
       ],
-      "note": "4.58% — 금리 부담 구간"
+      "note": "4.54% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 100.941,
-      "prev_day": 101.28,
-      "prev_week": 101.14,
+      "value": 100.495,
+      "prev_day": 100.94,
+      "prev_week": 101.05,
       "prev_month": 99.63,
-      "prev_year": 98.08,
+      "prev_year": 98.62,
       "history": [
-        101.36,
         101.11,
         101.19,
         101.39,
@@ -41,18 +40,18 @@
         100.94,
         100.97,
         101.28,
-        100.941
+        100.94,
+        100.495
       ],
-      "note": "100.94 — 달러 강세 구간"
+      "note": "100.50 — 달러 강세 구간"
     },
     "wti": {
-      "value": 79.95,
-      "prev_day": 78.14,
-      "prev_week": 70.44,
+      "value": 80.36,
+      "prev_day": 79.34,
+      "prev_week": 73.52,
       "prev_month": 80.75,
-      "prev_year": 66.98,
+      "prev_year": 66.52,
       "history": [
-        69.23,
         70.75,
         69.5,
         68.58,
@@ -63,18 +62,18 @@
         72.08,
         71.41,
         78.14,
-        79.95
+        79.34,
+        80.36
       ],
-      "note": "$79.95 — 적정 범위 (70~85)"
+      "note": "$80.36 — 적정 범위 (70~85)"
     },
     "gold": {
-      "value": 4056.0,
-      "prev_day": 3997.0,
-      "prev_week": 4145.2998,
+      "value": 4066.7,
+      "prev_day": 4061.1001,
+      "prev_week": 4070.8999,
       "prev_month": 4328.0,
-      "prev_year": 3351.5,
+      "prev_year": 3329.8,
       "history": [
-        4078.7,
         4022.3,
         4022.8999,
         4068.3,
@@ -85,47 +84,13 @@
         4130.6001,
         4104.1001,
         3997.0,
-        4056.0
+        4061.1001,
+        4066.7
       ],
-      "note": "$4,056 — US10Y·DXY 하락 시 강세"
+      "note": "$4,067 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
-    {
-      "name": "Fed Williams Speech",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "—",
-      "status": "upcoming"
-    },
-    {
-      "name": "Fed Chair Warsh Testimony",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "—",
-      "status": "upcoming"
-    },
-    {
-      "name": "Fed Cook Speech",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "—",
-      "status": "upcoming"
-    },
-    {
-      "name": "Fed Beige Book",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "—",
-      "status": "upcoming"
-    },
-    {
-      "name": "Fed Musalem Speech",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "—",
-      "status": "upcoming"
-    },
     {
       "name": "Initial Jobless Claims",
       "actual": "미발표",
@@ -146,24 +111,59 @@
       "forecast": "1820",
       "previous": "1814",
       "status": "upcoming"
+    },
+    {
+      "name": "NY Fed Services Activity Index",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "-10.1",
+      "status": "upcoming"
+    },
+    {
+      "name": "Philly Fed Employment",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "7.9",
+      "status": "upcoming"
+    },
+    {
+      "name": "Philly Fed Prices Paid",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "53.2",
+      "status": "upcoming"
+    },
+    {
+      "name": "Philadelphia Fed Manufacturing Index",
+      "actual": "미발표",
+      "forecast": "13",
+      "previous": "10.3",
+      "status": "upcoming"
+    },
+    {
+      "name": "Retail Sales Ex Autos MoM",
+      "actual": "미발표",
+      "forecast": "-0.1",
+      "previous": "0.8",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Wall Street ends higher on cool inflation data, solid bank earnings",
-      "body": "STORY: U.S. stocks closed mostly higher on Tuesday, with the Dow ending little changed, the S&P 500 adding almost four-tenths of a percent and the Nasdaq gaining nine-tenths of a percent.Second-quarte",
+      "title": "Wall St ends higher on cool inflation data, strong earnings",
+      "body": "STORY: U.S. stocks closed higher on Wednesday, with the Dow gaining more than a quarter of a percent, the S&P 500 adding over a third of a percent and the Nasdaq climbing more than six-tenths of a per",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Dow Jones Futures: Goldman, CrowdStrike Jump, But AI Stocks Need To Do This",
-      "body": "The Nasdaq and AI stocks rallied, but still face key resistance. Goldman and CrowdStrike make big bullish moves.",
+      "title": "Here's What IBM's Profit Warning Tells Us About the AI Market Right Now -- and W",
+      "body": "IBM said a shift in its customers' spending hurt quarterly earnings.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Stock Market Today, July 14: IBM Plunges on Second-Quarter Warning as AI Shifts ",
-      "body": "Today, July 14, 2026, customers redirected IT budgets away from software and infrastructure, raising questions about near-term demand durability.",
+      "title": "Stock Market Today, July 15: Lucid Spikes 29% After Dismissing Bankruptcy and Ta",
+      "body": "Lucid stock surged 29% on Wednesday after the luxury EV maker denied bankruptcy and take-private reports, signaling liquidity extends into next year, today, July 15, 2026.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
