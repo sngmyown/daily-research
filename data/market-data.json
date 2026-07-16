@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-07-16 07:57 KST",
+  "updated_at": "2026-07-17 07:55 KST",
   "metrics": {
     "us10y": {
-      "value": 4.545,
-      "prev_day": 4.585,
-      "prev_week": 4.569,
-      "prev_month": 4.469,
-      "prev_year": 4.489,
+      "value": 4.569,
+      "prev_day": 4.545,
+      "prev_week": 4.539,
+      "prev_month": 4.428,
+      "prev_year": 4.455,
       "history": [
-        4.374,
         4.418,
         4.475,
         4.485,
@@ -19,18 +18,18 @@
         4.569,
         4.609,
         4.585,
-        4.545
+        4.545,
+        4.569
       ],
-      "note": "4.54% — 금리 부담 구간"
+      "note": "4.57% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 100.495,
-      "prev_day": 100.94,
-      "prev_week": 101.05,
-      "prev_month": 99.63,
-      "prev_year": 98.62,
+      "value": 100.708,
+      "prev_day": 100.5,
+      "prev_week": 100.94,
+      "prev_month": 99.54,
+      "prev_year": 98.39,
       "history": [
-        101.11,
         101.19,
         101.39,
         100.86,
@@ -41,18 +40,18 @@
         100.97,
         101.28,
         100.94,
-        100.495
+        100.5,
+        100.708
       ],
-      "note": "100.50 — 달러 강세 구간"
+      "note": "100.71 — 달러 강세 구간"
     },
     "wti": {
-      "value": 80.36,
-      "prev_day": 79.34,
-      "prev_week": 73.52,
-      "prev_month": 80.75,
-      "prev_year": 66.52,
+      "value": 78.96,
+      "prev_day": 79.6,
+      "prev_week": 72.08,
+      "prev_month": 76.05,
+      "prev_year": 66.38,
       "history": [
-        70.75,
         69.5,
         68.58,
         68.69,
@@ -63,18 +62,18 @@
         71.41,
         78.14,
         79.34,
-        80.36
+        79.6,
+        78.96
       ],
-      "note": "$80.36 — 적정 범위 (70~85)"
+      "note": "$78.96 — 적정 범위 (70~85)"
     },
     "gold": {
-      "value": 4066.7,
-      "prev_day": 4061.1001,
-      "prev_week": 4070.8999,
-      "prev_month": 4328.0,
-      "prev_year": 3329.8,
+      "value": 3977.0,
+      "prev_day": 4044.0,
+      "prev_week": 4130.6001,
+      "prev_month": 4330.8999,
+      "prev_year": 3352.5,
       "history": [
-        4022.3,
         4022.8999,
         4068.3,
         4112.7002,
@@ -85,85 +84,58 @@
         4104.1001,
         3997.0,
         4061.1001,
-        4066.7
+        4044.0,
+        3977.0
       ],
-      "note": "$4,067 — US10Y·DXY 하락 시 강세"
+      "note": "$3,977 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
     {
-      "name": "Initial Jobless Claims",
-      "actual": "미발표",
-      "forecast": "217",
-      "previous": "215",
-      "status": "upcoming"
-    },
-    {
-      "name": "Jobless Claims 4-week Average",
+      "name": "Housing Starts MoM",
       "actual": "미발표",
       "forecast": "—",
-      "previous": "218.75",
+      "previous": "-15.4",
       "status": "upcoming"
     },
     {
-      "name": "Continuing Jobless Claims",
+      "name": "Housing Starts",
       "actual": "미발표",
-      "forecast": "1820",
-      "previous": "1814",
+      "forecast": "1.31",
+      "previous": "1.177",
       "status": "upcoming"
     },
     {
-      "name": "NY Fed Services Activity Index",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "-10.1",
-      "status": "upcoming"
-    },
-    {
-      "name": "Philly Fed Employment",
+      "name": "Michigan Inflation Expectations Prel",
       "actual": "미발표",
       "forecast": "—",
-      "previous": "7.9",
+      "previous": "4.6",
       "status": "upcoming"
     },
     {
-      "name": "Philly Fed Prices Paid",
+      "name": "Michigan 5 Year Inflation Expectations P",
       "actual": "미발표",
       "forecast": "—",
-      "previous": "53.2",
-      "status": "upcoming"
-    },
-    {
-      "name": "Philadelphia Fed Manufacturing Index",
-      "actual": "미발표",
-      "forecast": "13",
-      "previous": "10.3",
-      "status": "upcoming"
-    },
-    {
-      "name": "Retail Sales Ex Autos MoM",
-      "actual": "미발표",
-      "forecast": "-0.1",
-      "previous": "0.8",
+      "previous": "3.3",
       "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Wall St ends higher on cool inflation data, strong earnings",
-      "body": "STORY: U.S. stocks closed higher on Wednesday, with the Dow gaining more than a quarter of a percent, the S&P 500 adding over a third of a percent and the Nasdaq climbing more than six-tenths of a per",
+      "title": "Dow Jones Futures: Micron, Sandisk, Google Lead AI Sell-Off, Netflix Dives Late;",
+      "body": "The Nasdaq tumbled on Sandisk, Micron, other AI stocks, but regional banks and transports rose. SpaceX has a big launch coming.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Here's What IBM's Profit Warning Tells Us About the AI Market Right Now -- and W",
-      "body": "IBM said a shift in its customers' spending hurt quarterly earnings.",
+      "title": "Why the Market Dipped But Energy Transfer LP (ET) Gained Today",
+      "body": "The latest trading day saw Energy Transfer LP (ET) settling at $20.2, representing a +1.46% change from its previous close.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Stock Market Today, July 15: Lucid Spikes 29% After Dismissing Bankruptcy and Ta",
-      "body": "Lucid stock surged 29% on Wednesday after the luxury EV maker denied bankruptcy and take-private reports, signaling liquidity extends into next year, today, July 15, 2026.",
+      "title": "Deere (DE) Increases Despite Market Slip: Here's What You Need to Know",
+      "body": "Deere (DE) reached $598.97 at the closing of the latest trading day, reflecting a +1.61% change compared to its last close.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
