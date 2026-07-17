@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-07-17 07:55 KST",
+  "updated_at": "2026-07-18 07:49 KST",
   "metrics": {
     "us10y": {
-      "value": 4.569,
-      "prev_day": 4.545,
-      "prev_week": 4.539,
-      "prev_month": 4.428,
-      "prev_year": 4.455,
+      "value": 4.541,
+      "prev_day": 4.569,
+      "prev_week": 4.569,
+      "prev_month": 4.463,
+      "prev_year": 4.463,
       "history": [
-        4.418,
         4.475,
         4.485,
         4.479,
@@ -19,18 +18,18 @@
         4.609,
         4.585,
         4.545,
-        4.569
+        4.569,
+        4.541
       ],
-      "note": "4.57% — 금리 부담 구간"
+      "note": "4.54% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 100.708,
-      "prev_day": 100.5,
-      "prev_week": 100.94,
-      "prev_month": 99.54,
-      "prev_year": 98.39,
+      "value": 100.755,
+      "prev_day": 100.73,
+      "prev_week": 100.97,
+      "prev_month": 100.09,
+      "prev_year": 98.73,
       "history": [
-        101.19,
         101.39,
         100.86,
         100.85,
@@ -41,18 +40,18 @@
         101.28,
         100.94,
         100.5,
-        100.708
+        100.73,
+        100.755
       ],
-      "note": "100.71 — 달러 강세 구간"
+      "note": "100.75 — 달러 강세 구간"
     },
     "wti": {
-      "value": 78.96,
-      "prev_day": 79.6,
-      "prev_week": 72.08,
-      "prev_month": 76.05,
-      "prev_year": 66.38,
+      "value": 81.77,
+      "prev_day": 78.95,
+      "prev_week": 71.41,
+      "prev_month": 76.79,
+      "prev_year": 67.54,
       "history": [
-        69.5,
         68.58,
         68.69,
         68.55,
@@ -63,18 +62,18 @@
         78.14,
         79.34,
         79.6,
-        78.96
+        78.95,
+        81.77
       ],
-      "note": "$78.96 — 적정 범위 (70~85)"
+      "note": "$81.77 — 적정 범위 (70~85)"
     },
     "gold": {
-      "value": 3977.0,
-      "prev_day": 4044.0,
-      "prev_week": 4130.6001,
-      "prev_month": 4330.8999,
-      "prev_year": 3352.5,
+      "value": 4023.0,
+      "prev_day": 3985.6001,
+      "prev_week": 4104.1001,
+      "prev_month": 4358.8999,
+      "prev_year": 3340.1001,
       "history": [
-        4022.8999,
         4068.3,
         4112.7002,
         4155.1001,
@@ -85,57 +84,37 @@
         3997.0,
         4061.1001,
         4044.0,
-        3977.0
+        3985.6001,
+        4023.0
       ],
-      "note": "$3,977 — US10Y·DXY 하락 시 강세"
+      "note": "$4,023 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
     {
-      "name": "Housing Starts MoM",
+      "name": "NY Fed Bill Purchases 1 to 4 months",
       "actual": "미발표",
-      "forecast": "—",
-      "previous": "-15.4",
-      "status": "upcoming"
-    },
-    {
-      "name": "Housing Starts",
-      "actual": "미발표",
-      "forecast": "1.31",
-      "previous": "1.177",
-      "status": "upcoming"
-    },
-    {
-      "name": "Michigan Inflation Expectations Prel",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "4.6",
-      "status": "upcoming"
-    },
-    {
-      "name": "Michigan 5 Year Inflation Expectations P",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "3.3",
+      "forecast": "5.18",
+      "previous": "—",
       "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Dow Jones Futures: Micron, Sandisk, Google Lead AI Sell-Off, Netflix Dives Late;",
-      "body": "The Nasdaq tumbled on Sandisk, Micron, other AI stocks, but regional banks and transports rose. SpaceX has a big launch coming.",
+      "title": "Stock Market Today, July 17: UiPath Gains on Retail AI Partnership",
+      "body": "Today, July 17, 2026, this week's AI pricing deal with a U.K. retailer boosted the stock as the automation provider navigates revenue headwinds.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Why the Market Dipped But Energy Transfer LP (ET) Gained Today",
-      "body": "The latest trading day saw Energy Transfer LP (ET) settling at $20.2, representing a +1.46% change from its previous close.",
+      "title": "Stock Market Today, July 17: Stocks Slide as Semiconductor Rout Deepens",
+      "body": "Chip stocks tumbled amid geopolitical tensions and valuation concerns, while Travelers surged on earnings, today, July 17, 2026.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Deere (DE) Increases Despite Market Slip: Here's What You Need to Know",
-      "body": "Deere (DE) reached $598.97 at the closing of the latest trading day, reflecting a +1.61% change compared to its last close.",
+      "title": "Fanatics Fest traders on sports cards vs. stocks",
+      "body": "At Fanatics Fest, prominent sports card traders and dealers discuss the massive growth of the alternative collectibles market, highlighting cards that fetch upwards of a million dollars. They also deb",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
