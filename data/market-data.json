@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18 07:49 KST",
+  "updated_at": "2026-07-19 07:48 KST",
   "metrics": {
     "us10y": {
       "value": 4.541,
@@ -24,7 +24,7 @@
       "note": "4.54% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 100.755,
+      "value": 100.75,
       "prev_day": 100.73,
       "prev_week": 100.97,
       "prev_month": 100.09,
@@ -41,12 +41,12 @@
         100.94,
         100.5,
         100.73,
-        100.755
+        100.75
       ],
       "note": "100.75 — 달러 강세 구간"
     },
     "wti": {
-      "value": 81.77,
+      "value": 82.49,
       "prev_day": 78.95,
       "prev_week": 71.41,
       "prev_month": 76.79,
@@ -63,12 +63,12 @@
         79.34,
         79.6,
         78.95,
-        81.77
+        82.49
       ],
-      "note": "$81.77 — 적정 범위 (70~85)"
+      "note": "$82.49 — 적정 범위 (70~85)"
     },
     "gold": {
-      "value": 4023.0,
+      "value": 4012.7,
       "prev_day": 3985.6001,
       "prev_week": 4104.1001,
       "prev_month": 4358.8999,
@@ -85,9 +85,9 @@
         4061.1001,
         4044.0,
         3985.6001,
-        4023.0
+        4012.7
       ],
-      "note": "$4,023 — US10Y·DXY 하락 시 강세"
+      "note": "$4,013 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
@@ -97,24 +97,31 @@
       "forecast": "5.18",
       "previous": "—",
       "status": "upcoming"
+    },
+    {
+      "name": "NY Fed Bill Purchases 4 to 12 months",
+      "actual": "미발표",
+      "forecast": "3.453",
+      "previous": "—",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Stock Market Today, July 17: UiPath Gains on Retail AI Partnership",
-      "body": "Today, July 17, 2026, this week's AI pricing deal with a U.K. retailer boosted the stock as the automation provider navigates revenue headwinds.",
+      "title": "Pokémon Cards Beat the S&P 500 by 2.5x, But the Math Is a Lie",
+      "body": "A viral clip claims collectibles crush the stock market using 20 years of returns, but a financial advisor spotted a flaw in the comparison so fundamental he called it a math crime. The numbers only h",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Stock Market Today, July 17: Stocks Slide as Semiconductor Rout Deepens",
-      "body": "Chip stocks tumbled amid geopolitical tensions and valuation concerns, while Travelers surged on earnings, today, July 17, 2026.",
+      "title": "Netflix Stock's Last Decade Was Spectacular. But What Will the Next Decade Look ",
+      "body": "The streaming giant made patient shareholders a lot of money. But can it keep compounding from here?",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Fanatics Fest traders on sports cards vs. stocks",
-      "body": "At Fanatics Fest, prominent sports card traders and dealers discuss the massive growth of the alternative collectibles market, highlighting cards that fetch upwards of a million dollars. They also deb",
+      "title": "A massive margin call and ‘push-button liquidity’ have torched stocks, but they’",
+      "body": "\"I think those names are going to bounce later this year. So I don't think that the trade is over.\"",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
