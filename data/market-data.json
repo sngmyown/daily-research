@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19 07:48 KST",
+  "updated_at": "2026-07-20 07:51 KST",
   "metrics": {
     "us10y": {
       "value": 4.541,
@@ -24,13 +24,12 @@
       "note": "4.54% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 100.75,
-      "prev_day": 100.73,
-      "prev_week": 100.97,
-      "prev_month": 100.09,
-      "prev_year": 98.73,
+      "value": 100.84,
+      "prev_day": 100.75,
+      "prev_week": 101.28,
+      "prev_month": 100.85,
+      "prev_year": 98.48,
       "history": [
-        101.39,
         100.86,
         100.85,
         101.14,
@@ -41,18 +40,18 @@
         100.94,
         100.5,
         100.73,
-        100.75
+        100.75,
+        100.84
       ],
-      "note": "100.75 — 달러 강세 구간"
+      "note": "100.84 — 달러 강세 구간"
     },
     "wti": {
-      "value": 82.49,
-      "prev_day": 78.95,
-      "prev_week": 71.41,
-      "prev_month": 76.79,
-      "prev_year": 67.54,
+      "value": 84.21,
+      "prev_day": 82.49,
+      "prev_week": 78.14,
+      "prev_month": 76.6,
+      "prev_year": 67.2,
       "history": [
-        68.58,
         68.69,
         68.55,
         70.44,
@@ -63,18 +62,18 @@
         79.34,
         79.6,
         78.95,
-        82.49
+        82.49,
+        84.21
       ],
-      "note": "$82.49 — 적정 범위 (70~85)"
+      "note": "$84.21 — 적정 범위 (70~85)"
     },
     "gold": {
-      "value": 4012.7,
-      "prev_day": 3985.6001,
-      "prev_week": 4104.1001,
-      "prev_month": 4358.8999,
-      "prev_year": 3340.1001,
+      "value": 4001.3,
+      "prev_day": 4012.7,
+      "prev_week": 3997.0,
+      "prev_month": 4224.1001,
+      "prev_year": 3401.8999,
       "history": [
-        4068.3,
         4112.7002,
         4155.1001,
         4145.2998,
@@ -85,9 +84,10 @@
         4061.1001,
         4044.0,
         3985.6001,
-        4012.7
+        4012.7,
+        4001.3
       ],
-      "note": "$4,013 — US10Y·DXY 하락 시 강세"
+      "note": "$4,001 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
@@ -104,24 +104,59 @@
       "forecast": "3.453",
       "previous": "—",
       "status": "upcoming"
+    },
+    {
+      "name": "Initial Jobless Claims",
+      "actual": "미발표",
+      "forecast": "212",
+      "previous": "208",
+      "status": "upcoming"
+    },
+    {
+      "name": "Jobless Claims 4-week Average",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "214.25",
+      "status": "upcoming"
+    },
+    {
+      "name": "Continuing Jobless Claims",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "1805",
+      "status": "upcoming"
+    },
+    {
+      "name": "Chicago Fed National Activity Index",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "-0.1",
+      "status": "upcoming"
+    },
+    {
+      "name": "Fed Balance Sheet",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "6.743",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Pokémon Cards Beat the S&P 500 by 2.5x, But the Math Is a Lie",
-      "body": "A viral clip claims collectibles crush the stock market using 20 years of returns, but a financial advisor spotted a flaw in the comparison so fundamental he called it a math crime. The numbers only h",
+      "title": "Dow Jones Futures Fall, Oil Prices Jump As U.S.-Iran Attacks Escalate; Google, T",
+      "body": "Dow Jones futures: Iran attacks killed three U.S. servicemembers. Google earnings and capex guidance will be key this week. Tesla, Intel, GE Vernova also report.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Netflix Stock's Last Decade Was Spectacular. But What Will the Next Decade Look ",
-      "body": "The streaming giant made patient shareholders a lot of money. But can it keep compounding from here?",
+      "title": "Warren Buffett Looks for Value in Today’s Market But Comes Up Empty: ‘Everybody ",
+      "body": "Legendary investor Warren Buffett is no longer the CEO of Berkshire Hathaway Inc, but remains active as Executive Chairman at providing investment ideas for the conglomerate and new CEO Greg Abel. The",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "A massive margin call and ‘push-button liquidity’ have torched stocks, but they’",
-      "body": "\"I think those names are going to bounce later this year. So I don't think that the trade is over.\"",
+      "title": "J.P. Morgan Says These 2 Beaten-Down IPO Stocks Could Rebound",
+      "body": "Geopolitical tensions in the Middle East have escalated in recent days, reviving concerns about oil prices, inflation, and the global economic outlook. Although the uncertainty has added another sourc",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
