@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-07-21 07:59 KST",
+  "updated_at": "2026-07-22 07:55 KST",
   "metrics": {
     "us10y": {
-      "value": 4.598,
-      "prev_day": 4.541,
-      "prev_week": 4.609,
-      "prev_month": 4.451,
+      "value": 4.628,
+      "prev_day": 4.598,
+      "prev_week": 4.585,
+      "prev_month": 4.509,
       "prev_year": 4.372,
       "history": [
-        4.485,
         4.479,
         4.529,
         4.569,
@@ -19,18 +18,18 @@
         4.545,
         4.569,
         4.541,
-        4.598
+        4.598,
+        4.628
       ],
-      "note": "4.60% — 금리 부담 구간"
+      "note": "4.63% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 100.999,
-      "prev_day": 100.75,
-      "prev_week": 101.28,
-      "prev_month": 100.85,
+      "value": 101.192,
+      "prev_day": 100.99,
+      "prev_week": 100.94,
+      "prev_month": 101.02,
       "prev_year": 97.85,
       "history": [
-        100.86,
         100.85,
         101.14,
         101.05,
@@ -41,18 +40,18 @@
         100.5,
         100.73,
         100.75,
-        100.999
+        100.99,
+        101.192
       ],
-      "note": "101.00 — 달러 강세 구간"
+      "note": "101.19 — 달러 강세 구간"
     },
     "wti": {
-      "value": 82.67,
-      "prev_day": 82.49,
-      "prev_week": 78.14,
-      "prev_month": 76.6,
+      "value": 84.74,
+      "prev_day": 83.23,
+      "prev_week": 79.34,
+      "prev_month": 74.82,
       "prev_year": 67.2,
       "history": [
-        68.69,
         68.55,
         70.44,
         73.52,
@@ -63,18 +62,18 @@
         79.6,
         78.95,
         82.49,
-        82.67
+        83.23,
+        84.74
       ],
-      "note": "$82.67 — 적정 범위 (70~85)"
+      "note": "$84.74 — 적정 범위 (70~85)"
     },
     "gold": {
-      "value": 4006.7,
-      "prev_day": 4012.7,
-      "prev_week": 3997.0,
-      "prev_month": 4224.1001,
+      "value": 4087.1001,
+      "prev_day": 4010.3,
+      "prev_week": 4061.1001,
+      "prev_month": 4181.8999,
       "prev_year": 3401.8999,
       "history": [
-        4112.7002,
         4155.1001,
         4145.2998,
         4070.8999,
@@ -85,9 +84,10 @@
         4044.0,
         3985.6001,
         4012.7,
-        4006.7
+        4010.3,
+        4087.1001
       ],
-      "note": "$4,007 — US10Y·DXY 하락 시 강세"
+      "note": "$4,087 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
@@ -150,20 +150,20 @@
   ],
   "key_news": [
     {
-      "title": "US stocks edge down with Iran and earnings season in focus",
-      "body": "STORY: Stocks started the week on a down note, with the Dow falling about six tenths of one percent, while the S&P 500 dropped two tenths and the Nasdaq ended basically flat.:: ArchiveInvestors looked",
+      "title": "3 Reasons to Buy AbbVie Stock Like There's No Tomorrow",
+      "body": "It looks like a great buy-and-hold option.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Stock Market Today, July 20: Hut 8  Surges 10% as Geopolitical Tensions Weigh on",
-      "body": "Today, July 20, 2026, semiconductor and AI infrastructure shares pared early gains as U.S.-Iran tensions and crude oil gains pressured markets.",
+      "title": "Dow Jones Futures: S&P 500 Regains 50-Day As Sandisk, Micron Soar; Google, Tesla",
+      "body": "The S&P 500 reclaimed key support as Sandisk, Micron and AI stocks led a broad rally. Google, Tesla earnings loom.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Pinterest (PINS) Sees a More Significant Dip Than Broader Market: Some Facts to ",
-      "body": "In the latest trading session, Pinterest (PINS) closed at $22.81, marking a -1.68% move from the previous day.",
+      "title": "S&P 500, Dow Snap Three-Day Losses, Nasdaq Ends Best Day In Three Weeks As Earni",
+      "body": "The Philadelphia Semiconductor Index jumped over 5%, its best single-day gain in a month, as bargain buyers piled onto semiconductor stocks.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
