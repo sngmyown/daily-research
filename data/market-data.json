@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-07-22 07:55 KST",
+  "updated_at": "2026-07-23 08:02 KST",
   "metrics": {
     "us10y": {
-      "value": 4.628,
-      "prev_day": 4.598,
-      "prev_week": 4.585,
+      "value": 4.657,
+      "prev_day": 4.628,
+      "prev_week": 4.545,
       "prev_month": 4.509,
-      "prev_year": 4.372,
+      "prev_year": 4.336,
       "history": [
-        4.479,
         4.529,
         4.569,
         4.539,
@@ -19,18 +18,18 @@
         4.569,
         4.541,
         4.598,
-        4.628
+        4.628,
+        4.657
       ],
-      "note": "4.63% — 금리 부담 구간"
+      "note": "4.66% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 101.192,
-      "prev_day": 100.99,
-      "prev_week": 100.94,
+      "value": 101.141,
+      "prev_day": 101.18,
+      "prev_week": 100.5,
       "prev_month": 101.02,
-      "prev_year": 97.85,
+      "prev_year": 97.39,
       "history": [
-        100.85,
         101.14,
         101.05,
         100.94,
@@ -41,18 +40,18 @@
         100.73,
         100.75,
         100.99,
-        101.192
+        101.18,
+        101.141
       ],
-      "note": "101.19 — 달러 강세 구간"
+      "note": "101.14 — 달러 강세 구간"
     },
     "wti": {
-      "value": 84.74,
-      "prev_day": 83.23,
-      "prev_week": 79.34,
+      "value": 87.86,
+      "prev_day": 84.91,
+      "prev_week": 79.6,
       "prev_month": 74.82,
-      "prev_year": 67.2,
+      "prev_year": 66.21,
       "history": [
-        68.55,
         70.44,
         73.52,
         72.08,
@@ -63,18 +62,18 @@
         78.95,
         82.49,
         83.23,
-        84.74
+        84.91,
+        87.86
       ],
-      "note": "$84.74 — 적정 범위 (70~85)"
+      "note": "$87.86 — 정상 범위 상단"
     },
     "gold": {
-      "value": 4087.1001,
-      "prev_day": 4010.3,
-      "prev_week": 4061.1001,
+      "value": 4128.3999,
+      "prev_day": 4071.1001,
+      "prev_week": 4044.0,
       "prev_month": 4181.8999,
-      "prev_year": 3401.8999,
+      "prev_year": 3439.2,
       "history": [
-        4155.1001,
         4145.2998,
         4070.8999,
         4130.6001,
@@ -85,19 +84,13 @@
         3985.6001,
         4012.7,
         4010.3,
-        4087.1001
+        4071.1001,
+        4128.3999
       ],
-      "note": "$4,087 — US10Y·DXY 하락 시 강세"
+      "note": "$4,128 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
-    {
-      "name": "NY Fed Bill Purchases 4 to 12 months",
-      "actual": "미발표",
-      "forecast": "3.453",
-      "previous": "—",
-      "status": "upcoming"
-    },
     {
       "name": "Initial Jobless Claims",
       "actual": "미발표",
@@ -143,27 +136,34 @@
     {
       "name": "S&P Global Manufacturing PMI Flash",
       "actual": "미발표",
-      "forecast": "54.5",
+      "forecast": "54.3",
       "previous": "53.9",
+      "status": "upcoming"
+    },
+    {
+      "name": "S&P Global Composite PMI Flash",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "51.9",
       "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "3 Reasons to Buy AbbVie Stock Like There's No Tomorrow",
-      "body": "It looks like a great buy-and-hold option.",
+      "title": "This 1 Momentum ETF Is Still Beating the S&P 500 With Lower Drawdowns",
+      "body": "Most ETFs that chase outperformance get crushed when the market turns, yet one momentum fund keeps defying that logic cycle after cycle. The explanation behind how it sidesteps the worst downturns whi",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Dow Jones Futures: S&P 500 Regains 50-Day As Sandisk, Micron Soar; Google, Tesla",
-      "body": "The S&P 500 reclaimed key support as Sandisk, Micron and AI stocks led a broad rally. Google, Tesla earnings loom.",
+      "title": "S&P 500 Stock Rockets Late On Earnings As Google Boosts Capex",
+      "body": "S&P 500 member United Rentals soared on stronger-than-forecast Q2 results after Wednesday's close as Google got a late-day haircut.  AI data center construction has helped supercharge earnings for URI",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "S&P 500, Dow Snap Three-Day Losses, Nasdaq Ends Best Day In Three Weeks As Earni",
-      "body": "The Philadelphia Semiconductor Index jumped over 5%, its best single-day gain in a month, as bargain buyers piled onto semiconductor stocks.",
+      "title": "Stock Market Today, July 22: Nasdaq Slides Prior to Tesla and Alphabet's Earning",
+      "body": "The Nasdaq slowly sold off throughout the day as the market awaited new information from Alphabet and Tesla after hours, today, July 22, 2026.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
