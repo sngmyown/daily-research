@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25 08:00 KST",
+  "updated_at": "2026-07-26 07:54 KST",
   "metrics": {
     "us10y": {
       "value": 4.679,
@@ -24,7 +24,7 @@
       "note": "4.68% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 101.465,
+      "value": 101.47,
       "prev_day": 101.43,
       "prev_week": 100.75,
       "prev_month": 101.61,
@@ -41,12 +41,12 @@
         101.18,
         101.14,
         101.43,
-        101.465
+        101.47
       ],
       "note": "101.47 — 달러 강세 구간"
     },
     "wti": {
-      "value": 90.47,
+      "value": 89.31,
       "prev_day": 92.19,
       "prev_week": 82.49,
       "prev_month": 70.34,
@@ -63,12 +63,12 @@
         84.91,
         86.83,
         92.19,
-        90.47
+        89.31
       ],
-      "note": "$90.47 — 정상 범위 상단"
+      "note": "$89.31 — 정상 범위 상단"
     },
     "gold": {
-      "value": 4055.7,
+      "value": 4067.6001,
       "prev_day": 4046.6001,
       "prev_week": 4012.7,
       "prev_month": 3990.3,
@@ -85,9 +85,9 @@
         4071.1001,
         4146.8999,
         4046.6001,
-        4055.7
+        4067.6001
       ],
-      "note": "$4,056 — US10Y·DXY 하락 시 강세"
+      "note": "$4,068 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
@@ -150,20 +150,20 @@
   ],
   "key_news": [
     {
-      "title": "Nasdaq lags on angst over AI spending ahead of earnings reports",
-      "body": "STORY: U.S. stocks ended mixed on Friday, with the Dow gaining just under half a percent, the S&P 500 virtually flat and the tech-heavy Nasdaq sliding nearly two-thirds of a percent.The S&P 500 techno",
+      "title": "Is Cencora (COR) Still Trading At A Discount As Its P E Rerating Gains Pace?",
+      "body": "Recent screening for stocks with rising P/E ratios and consistent price gains relative to the S&P 500 has put Cencora (COR) in focus for investors tracking valuation and earnings expectations. See our",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Toyota Motor (TSE:7203) Faces An Earnings Test As Valuation Views Split",
-      "body": "Why Toyota Motor Stock Is Back in Focus Toyota Motor (TSE:7203) is on investors' radar after its latest trading session saw the stock fall 1.75% to $176.80, underperforming the S&P 500 ahead of an upc",
+      "title": "Dow Jones Futures: Market Triggers Sell Signal; Apple Earnings, Iran News, Fed M",
+      "body": "Dow Jones futures will open Sunday evening, along with S&P 500 futures and Nasdaq futures. Apple, Microsoft, Meta Platforms, Amazon.com headline a massive earnings wave. The Federal Reserve meets, wit",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "3PL stocks drop in wake of stunning Texas case against C.H. Robinson",
-      "body": "Wall Street sold off freight brokerage stocks following a nuclear verdict in Texas. The post 3PL stocks drop in wake of stunning Texas case against C.H. Robinson appeared first on FreightWaves.",
+      "title": "Top 3 US Stock Market Stories From This Week",
+      "body": "Top US stock market stories this week: Tesla’s drop, $100 oil and volatile chip stocks as AI spending rattles Wall Street.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
