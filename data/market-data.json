@@ -1,13 +1,14 @@
 {
-  "updated_at": "2026-07-26 07:54 KST",
+  "updated_at": "2026-07-27 07:57 KST",
   "metrics": {
     "us10y": {
-      "value": 4.679,
-      "prev_day": 4.703,
-      "prev_week": 4.541,
-      "prev_month": 4.402,
-      "prev_year": 4.408,
+      "value": 4.703,
+      "prev_day": 4.657,
+      "prev_week": 4.569,
+      "prev_month": 4.493,
+      "prev_year": 4.388,
       "history": [
+        4.569,
         4.539,
         4.569,
         4.609,
@@ -18,17 +19,16 @@
         4.598,
         4.628,
         4.657,
-        4.703,
-        4.679
+        4.703
       ],
-      "note": "4.68% — 금리 부담 구간"
+      "note": "4.70% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 101.47,
+      "value": 101.305,
       "prev_day": 101.43,
-      "prev_week": 100.75,
-      "prev_month": 101.61,
-      "prev_year": 97.38,
+      "prev_week": 100.99,
+      "prev_month": 101.36,
+      "prev_year": 97.65,
       "history": [
         100.94,
         100.97,
@@ -41,18 +41,17 @@
         101.18,
         101.14,
         101.43,
-        101.47
+        101.305
       ],
-      "note": "101.47 — 달러 강세 구간"
+      "note": "101.31 — 달러 강세 구간"
     },
     "wti": {
-      "value": 89.31,
-      "prev_day": 92.19,
-      "prev_week": 82.49,
-      "prev_month": 70.34,
-      "prev_year": 66.03,
+      "value": 84.58,
+      "prev_day": 89.31,
+      "prev_week": 83.23,
+      "prev_month": 69.23,
+      "prev_year": 66.71,
       "history": [
-        72.08,
         71.41,
         78.14,
         79.34,
@@ -63,18 +62,18 @@
         84.91,
         86.83,
         92.19,
-        89.31
+        89.31,
+        84.58
       ],
-      "note": "$89.31 — 정상 범위 상단"
+      "note": "$84.58 — 적정 범위 (70~85)"
     },
     "gold": {
-      "value": 4067.6001,
-      "prev_day": 4046.6001,
-      "prev_week": 4012.7,
-      "prev_month": 3990.3,
-      "prev_year": 3371.0,
+      "value": 4094.1001,
+      "prev_day": 4067.6001,
+      "prev_week": 4010.3,
+      "prev_month": 4078.7,
+      "prev_year": 3309.1001,
       "history": [
-        4130.6001,
         4104.1001,
         3997.0,
         4061.1001,
@@ -85,9 +84,10 @@
         4071.1001,
         4146.8999,
         4046.6001,
-        4067.6001
+        4067.6001,
+        4094.1001
       ],
-      "note": "$4,068 — US10Y·DXY 하락 시 강세"
+      "note": "$4,094 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
@@ -150,20 +150,20 @@
   ],
   "key_news": [
     {
-      "title": "Is Cencora (COR) Still Trading At A Discount As Its P E Rerating Gains Pace?",
-      "body": "Recent screening for stocks with rising P/E ratios and consistent price gains relative to the S&P 500 has put Cencora (COR) in focus for investors tracking valuation and earnings expectations. See our",
+      "title": "Dow Jones Futures Rise, Oil Prices Dive On Iran Hopes; Apple Leads Earnings Wave",
+      "body": "U.S.-Iran attacks have paused amid deal hopes. Apple, Amazon, Meta lead an earnings wave. A Fed rate hike is on the table.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Dow Jones Futures: Market Triggers Sell Signal; Apple Earnings, Iran News, Fed M",
-      "body": "Dow Jones futures will open Sunday evening, along with S&P 500 futures and Nasdaq futures. Apple, Microsoft, Meta Platforms, Amazon.com headline a massive earnings wave. The Federal Reserve meets, wit",
+      "title": "Here’s Why SCHD is Beating the S&P 500 in 2026 YTD",
+      "body": "Investors who wrote off dividend ETFs as relics of a pre-AI market are quietly reversing course in 2026, and the reasons behind SCHD's sudden surge reveal something important about how factor tilts an",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Top 3 US Stock Market Stories From This Week",
-      "body": "Top US stock market stories this week: Tesla’s drop, $100 oil and volatile chip stocks as AI spending rattles Wall Street.",
+      "title": "PINK vs. XLV: How Do These Two Health Care ETFs Match Up?",
+      "body": "PINK outperformed XLV by 8.7 percentage points over one year, but carries higher fees and volatility. XLV offers lower costs and a higher dividend yield for passive healthcare exposure.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
