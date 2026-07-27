@@ -1,15 +1,13 @@
 {
-  "updated_at": "2026-07-27 07:57 KST",
+  "updated_at": "2026-07-28 08:00 KST",
   "metrics": {
     "us10y": {
-      "value": 4.703,
-      "prev_day": 4.657,
-      "prev_week": 4.569,
-      "prev_month": 4.493,
-      "prev_year": 4.388,
+      "value": 4.641,
+      "prev_day": 4.679,
+      "prev_week": 4.598,
+      "prev_month": 4.372,
+      "prev_year": 4.42,
       "history": [
-        4.569,
-        4.539,
         4.569,
         4.609,
         4.585,
@@ -19,18 +17,19 @@
         4.598,
         4.628,
         4.657,
-        4.703
+        4.703,
+        4.679,
+        4.641
       ],
-      "note": "4.70% — 금리 부담 구간"
+      "note": "4.64% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 101.305,
-      "prev_day": 101.43,
+      "value": 101.514,
+      "prev_day": 101.47,
       "prev_week": 100.99,
       "prev_month": 101.36,
-      "prev_year": 97.65,
+      "prev_year": 98.66,
       "history": [
-        100.94,
         100.97,
         101.28,
         100.94,
@@ -41,12 +40,13 @@
         101.18,
         101.14,
         101.43,
-        101.305
+        101.47,
+        101.514
       ],
-      "note": "101.31 — 달러 강세 구간"
+      "note": "101.51 — 달러 강세 구간"
     },
     "wti": {
-      "value": 84.58,
+      "value": 81.97,
       "prev_day": 89.31,
       "prev_week": 83.23,
       "prev_month": 69.23,
@@ -63,12 +63,12 @@
         86.83,
         92.19,
         89.31,
-        84.58
+        81.97
       ],
-      "note": "$84.58 — 적정 범위 (70~85)"
+      "note": "$81.97 — 적정 범위 (70~85)"
     },
     "gold": {
-      "value": 4094.1001,
+      "value": 4075.2,
       "prev_day": 4067.6001,
       "prev_week": 4010.3,
       "prev_month": 4078.7,
@@ -85,40 +85,12 @@
         4146.8999,
         4046.6001,
         4067.6001,
-        4094.1001
+        4075.2
       ],
-      "note": "$4,094 — US10Y·DXY 하락 시 강세"
+      "note": "$4,075 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
-    {
-      "name": "Durable Goods Orders ex Defense MoM",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "-4.6",
-      "status": "upcoming"
-    },
-    {
-      "name": "Durable Goods Orders MoM",
-      "actual": "미발표",
-      "forecast": "1.6",
-      "previous": "-4.5",
-      "status": "upcoming"
-    },
-    {
-      "name": "Durable Goods Orders Ex Transp MoM",
-      "actual": "미발표",
-      "forecast": "0.9",
-      "previous": "1.3",
-      "status": "upcoming"
-    },
-    {
-      "name": "Dallas Fed Manufacturing Index",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "—",
-      "status": "upcoming"
-    },
     {
       "name": "Richmond Fed Manufacturing Shipments Ind",
       "actual": "미발표",
@@ -129,7 +101,7 @@
     {
       "name": "Richmond Fed Manufacturing Index",
       "actual": "미발표",
-      "forecast": "—",
+      "forecast": "10",
       "previous": "4",
       "status": "upcoming"
     },
@@ -146,24 +118,52 @@
       "forecast": "—",
       "previous": "9.8",
       "status": "upcoming"
+    },
+    {
+      "name": "Dallas Fed Services Index",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "2.9",
+      "status": "upcoming"
+    },
+    {
+      "name": "Fed Interest Rate Decision",
+      "actual": "미발표",
+      "forecast": "3.75",
+      "previous": "3.75",
+      "status": "upcoming"
+    },
+    {
+      "name": "Fed Press Conference",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "—",
+      "status": "upcoming"
+    },
+    {
+      "name": "Initial Jobless Claims",
+      "actual": "미발표",
+      "forecast": "204",
+      "previous": "187",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Dow Jones Futures Rise, Oil Prices Dive On Iran Hopes; Apple Leads Earnings Wave",
-      "body": "U.S.-Iran attacks have paused amid deal hopes. Apple, Amazon, Meta lead an earnings wave. A Fed rate hike is on the table.",
+      "title": "Dow Ends Higher On Support From Weak Oil, But AI Concerns Weigh On Nasdaq, S&P 5",
+      "body": "China has begun developing deep ultraviolet lithography machines used to build semiconductors, according to media reports.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Here’s Why SCHD is Beating the S&P 500 in 2026 YTD",
-      "body": "Investors who wrote off dividend ETFs as relics of a pre-AI market are quietly reversing course in 2026, and the reasons behind SCHD's sudden surge reveal something important about how factor tilts an",
+      "title": "1 Consumer Stock to Research Further and 2 We Find Risky",
+      "body": "Regarded as defensive investments, consumer staples stocks are generally safe bets in choppy markets. But they’re also double-edged swords as they often lag in booming conditions, and this pattern has",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "PINK vs. XLV: How Do These Two Health Care ETFs Match Up?",
-      "body": "PINK outperformed XLV by 8.7 percentage points over one year, but carries higher fees and volatility. XLV offers lower costs and a higher dividend yield for passive healthcare exposure.",
+      "title": "3 Consumer Stocks We Approach with Caution",
+      "body": "The performance of consumer discretionary businesses is closely linked to economic cycles. Over the past six months, it seems like demand may be facing some headwinds as the industry’s 2.2% return has",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
