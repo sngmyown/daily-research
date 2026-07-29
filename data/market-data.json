@@ -1,15 +1,13 @@
 {
-  "updated_at": "2026-07-29 07:56 KST",
+  "updated_at": "2026-07-30 07:58 KST",
   "metrics": {
     "us10y": {
-      "value": 4.604,
-      "prev_day": 4.641,
-      "prev_week": 4.628,
+      "value": 4.622,
+      "prev_day": 4.604,
+      "prev_week": 4.657,
       "prev_month": 4.374,
-      "prev_year": 4.42,
+      "prev_year": 4.33,
       "history": [
-        4.569,
-        4.609,
         4.585,
         4.545,
         4.569,
@@ -18,20 +16,20 @@
         4.628,
         4.657,
         4.703,
+        4.679,
         4.641,
-        4.604
+        4.604,
+        4.622
       ],
-      "note": "4.60% — 금리 부담 구간"
+      "note": "4.62% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 101.393,
-      "prev_day": 101.51,
-      "prev_week": 101.18,
+      "value": 100.802,
+      "prev_day": 101.38,
+      "prev_week": 101.14,
       "prev_month": 101.11,
-      "prev_year": 98.66,
+      "prev_year": 98.91,
       "history": [
-        100.97,
-        101.28,
         100.94,
         100.5,
         100.73,
@@ -40,19 +38,20 @@
         101.18,
         101.14,
         101.43,
+        101.47,
         101.51,
-        101.393
+        101.38,
+        100.802
       ],
-      "note": "101.39 — 달러 강세 구간"
+      "note": "100.80 — 달러 강세 구간"
     },
     "wti": {
-      "value": 82.72,
-      "prev_day": 82.61,
-      "prev_week": 84.91,
+      "value": 84.42,
+      "prev_day": 79.26,
+      "prev_week": 86.83,
       "prev_month": 70.75,
-      "prev_year": 66.71,
+      "prev_year": 69.21,
       "history": [
-        78.14,
         79.34,
         79.6,
         78.95,
@@ -63,18 +62,18 @@
         92.19,
         89.31,
         82.61,
-        82.72
+        79.26,
+        84.42
       ],
-      "note": "$82.72 — 적정 범위 (70~85)"
+      "note": "$84.42 — 적정 범위 (70~85)"
     },
     "gold": {
-      "value": 4014.8999,
-      "prev_day": 4074.5,
-      "prev_week": 4071.1001,
+      "value": 4140.3999,
+      "prev_day": 4036.3,
+      "prev_week": 4146.8999,
       "prev_month": 4022.3,
-      "prev_year": 3309.1001,
+      "prev_year": 3323.3999,
       "history": [
-        3997.0,
         4061.1001,
         4044.0,
         3985.6001,
@@ -85,26 +84,13 @@
         4046.6001,
         4067.6001,
         4074.5,
-        4014.8999
+        4036.3,
+        4140.3999
       ],
-      "note": "$4,015 — US10Y·DXY 하락 시 강세"
+      "note": "$4,140 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
-    {
-      "name": "Fed Interest Rate Decision",
-      "actual": "미발표",
-      "forecast": "3.75",
-      "previous": "3.75",
-      "status": "upcoming"
-    },
-    {
-      "name": "Fed Press Conference",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "—",
-      "status": "upcoming"
-    },
     {
       "name": "Initial Jobless Claims",
       "actual": "미발표",
@@ -146,24 +132,38 @@
       "forecast": "2.1",
       "previous": "2.1",
       "status": "upcoming"
+    },
+    {
+      "name": "Core PCE Price Index YoY",
+      "actual": "미발표",
+      "forecast": "3.3",
+      "previous": "3.4",
+      "status": "upcoming"
+    },
+    {
+      "name": "Core PCE Price Index MoM",
+      "actual": "미발표",
+      "forecast": "0.2",
+      "previous": "0.3",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "3 Financials Stocks Worth Investigating",
-      "body": "Financial institutions play a critical role, offering everything from consumer banking to wealth management and specialized financial solutions. But uncertainty about fiscal and monetary policy has te",
+      "title": "Wall Street closes down sharply after Fed holds rates unchanged",
+      "body": "STORY: Wall Street ended sharply lower on Wednesday, with the Dow tumbling more than two percent, the S&P 500 shedding one-and-a-half percent and the Nasdaq falling one-and-three-quarters percent.:: A",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "1 Energy Stock Worth Investigating and 2 We Brush Off",
-      "body": "Energy businesses quietly power the physical things we depend on, from cars and homes to e-commerce infrastructure. But their prominence also brings high exposure to the ups and downs of economic and ",
+      "title": "Dow Jones Futures: Stock Market Tumbles, Oil Prices Soar On Trump's Iran Threats",
+      "body": "The stock market sold off as oil prices surged on Trump's Iran threats. Microsoft, Meta and Fortinet were key earnings movers late.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Dow Jones Futures Fall, Oil Jumps On Iran News; Seagate, SK Hynix, KLA, Bloom En",
-      "body": "Futures fell as oil prices jumped on an Iran news. Seagate, SK Hynix, KLA, Bloom Energy are key earnings late. Will the Fed surprise?",
+      "title": "The Fed Held Rates at 3.5%-3.75%. Here's What That Means for Walmart, Costco, an",
+      "body": "The Fed held rates steady, but it might not last for long.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
