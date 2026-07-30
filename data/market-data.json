@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-07-30 07:58 KST",
+  "updated_at": "2026-07-31 08:05 KST",
   "metrics": {
     "us10y": {
-      "value": 4.622,
-      "prev_day": 4.604,
-      "prev_week": 4.657,
-      "prev_month": 4.374,
-      "prev_year": 4.33,
+      "value": 4.663,
+      "prev_day": 4.622,
+      "prev_week": 4.703,
+      "prev_month": 4.418,
+      "prev_year": 4.376,
       "history": [
-        4.585,
         4.545,
         4.569,
         4.541,
@@ -19,18 +18,18 @@
         4.679,
         4.641,
         4.604,
-        4.622
+        4.622,
+        4.663
       ],
-      "note": "4.62% — 금리 부담 구간"
+      "note": "4.66% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 100.802,
-      "prev_day": 101.38,
-      "prev_week": 101.14,
-      "prev_month": 101.11,
-      "prev_year": 98.91,
+      "value": 99.969,
+      "prev_day": 100.8,
+      "prev_week": 101.43,
+      "prev_month": 101.19,
+      "prev_year": 99.94,
       "history": [
-        100.94,
         100.5,
         100.73,
         100.75,
@@ -41,18 +40,18 @@
         101.47,
         101.51,
         101.38,
-        100.802
+        100.8,
+        99.969
       ],
-      "note": "100.80 — 달러 강세 구간"
+      "note": "99.97 — 중립 구간"
     },
     "wti": {
-      "value": 84.42,
-      "prev_day": 79.26,
-      "prev_week": 86.83,
-      "prev_month": 70.75,
-      "prev_year": 69.21,
+      "value": 84.02,
+      "prev_day": 84.46,
+      "prev_week": 92.19,
+      "prev_month": 69.5,
+      "prev_year": 70.0,
       "history": [
-        79.34,
         79.6,
         78.95,
         82.49,
@@ -63,18 +62,18 @@
         89.31,
         82.61,
         79.26,
-        84.42
+        84.46,
+        84.02
       ],
-      "note": "$84.42 — 적정 범위 (70~85)"
+      "note": "$84.02 — 적정 범위 (70~85)"
     },
     "gold": {
-      "value": 4140.3999,
-      "prev_day": 4036.3,
-      "prev_week": 4146.8999,
-      "prev_month": 4022.3,
-      "prev_year": 3323.3999,
+      "value": 4168.7998,
+      "prev_day": 4034.7,
+      "prev_week": 4046.6001,
+      "prev_month": 4022.8999,
+      "prev_year": 3295.8,
       "history": [
-        4061.1001,
         4044.0,
         3985.6001,
         4012.7,
@@ -85,85 +84,86 @@
         4067.6001,
         4074.5,
         4036.3,
-        4140.3999
+        4034.7,
+        4168.7998
       ],
-      "note": "$4,140 — US10Y·DXY 하락 시 강세"
+      "note": "$4,169 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
     {
-      "name": "Initial Jobless Claims",
+      "name": "Chicago PMI",
       "actual": "미발표",
-      "forecast": "200",
-      "previous": "187",
+      "forecast": "56",
+      "previous": "56.7",
       "status": "upcoming"
     },
     {
-      "name": "Jobless Claims 4-week Average",
+      "name": "Michigan Inflation Expectations Final",
       "actual": "미발표",
       "forecast": "—",
-      "previous": "207.5",
+      "previous": "4.6",
       "status": "upcoming"
     },
     {
-      "name": "Continuing Jobless Claims",
-      "actual": "미발표",
-      "forecast": "1800",
-      "previous": "1796",
-      "status": "upcoming"
-    },
-    {
-      "name": "Core PCE Prices QoQ Adv",
-      "actual": "미발표",
-      "forecast": "3.5",
-      "previous": "4.4",
-      "status": "upcoming"
-    },
-    {
-      "name": "GDP Sales QoQ Adv",
+      "name": "Michigan 5 Year Inflation Expectations F",
       "actual": "미발표",
       "forecast": "—",
-      "previous": "1.9",
+      "previous": "3.3",
       "status": "upcoming"
     },
     {
-      "name": "GDP Growth Rate QoQ Adv",
+      "name": "S&P Global Manufacturing PMI Final",
       "actual": "미발표",
-      "forecast": "2.1",
-      "previous": "2.1",
+      "forecast": "53.8",
+      "previous": "53.9",
       "status": "upcoming"
     },
     {
-      "name": "Core PCE Price Index YoY",
+      "name": "ISM Manufacturing Prices",
       "actual": "미발표",
-      "forecast": "3.3",
-      "previous": "3.4",
+      "forecast": "—",
+      "previous": "73",
       "status": "upcoming"
     },
     {
-      "name": "Core PCE Price Index MoM",
+      "name": "ISM Manufacturing PMI",
       "actual": "미발표",
-      "forecast": "0.2",
-      "previous": "0.3",
+      "forecast": "—",
+      "previous": "53.3",
+      "status": "upcoming"
+    },
+    {
+      "name": "ISM Manufacturing New Orders",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "56",
+      "status": "upcoming"
+    },
+    {
+      "name": "ISM Manufacturing Employment",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "49.7",
       "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Wall Street closes down sharply after Fed holds rates unchanged",
-      "body": "STORY: Wall Street ended sharply lower on Wednesday, with the Dow tumbling more than two percent, the S&P 500 shedding one-and-a-half percent and the Nasdaq falling one-and-three-quarters percent.:: A",
+      "title": "Dow Jones Futures: Apple, Amazon Diverge Late; What To Do After AI Stocks Surge",
+      "body": "The stock market jumped Thursday as Microsoft powered a big AI rebound. Apple and Amazon led earnings late.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Dow Jones Futures: Stock Market Tumbles, Oil Prices Soar On Trump's Iran Threats",
-      "body": "The stock market sold off as oil prices surged on Trump's Iran threats. Microsoft, Meta and Fortinet were key earnings movers late.",
+      "title": "Wall Street ends sharply higher, lifted by soaring Microsoft",
+      "body": "STORY: U.S. stocks ended sharply higher on Thursday, with the Dow gaining more than one percent, the S&P 500 climbing one-and-two-thirds percent and the Nasdaq rallying more than two-and-three-quarter",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "The Fed Held Rates at 3.5%-3.75%. Here's What That Means for Walmart, Costco, an",
-      "body": "The Fed held rates steady, but it might not last for long.",
+      "title": "The biggest myth about the S&P 500 run just got debunked",
+      "body": "The S&P 500 has spent much of the year under scrutiny as elevated valuations and signs of overextension fueled expectations of a market correction. After the index broke through 7,000 for the first ti",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
