@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02 07:54 KST",
+  "updated_at": "2026-08-03 07:55 KST",
   "metrics": {
     "us10y": {
       "value": 4.745,
@@ -24,13 +24,12 @@
       "note": "4.75% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 99.8,
-      "prev_day": 100.01,
-      "prev_week": 101.47,
-      "prev_month": 101.39,
-      "prev_year": 100.03,
+      "value": 99.659,
+      "prev_day": 99.8,
+      "prev_week": 101.51,
+      "prev_month": 100.86,
+      "prev_year": 98.69,
       "history": [
-        100.73,
         100.75,
         100.99,
         101.18,
@@ -41,18 +40,18 @@
         101.38,
         100.8,
         100.01,
-        99.8
+        99.8,
+        99.659
       ],
-      "note": "99.80 — 중립 구간"
+      "note": "99.66 — 중립 구간"
     },
     "wti": {
-      "value": 84.67,
-      "prev_day": 83.59,
-      "prev_week": 89.31,
-      "prev_month": 68.58,
-      "prev_year": 69.26,
+      "value": 80.82,
+      "prev_day": 84.67,
+      "prev_week": 82.61,
+      "prev_month": 68.69,
+      "prev_year": 66.29,
       "history": [
-        78.95,
         82.49,
         83.23,
         84.91,
@@ -63,18 +62,18 @@
         79.26,
         84.46,
         83.59,
-        84.67
+        84.67,
+        80.82
       ],
-      "note": "$84.67 — 적정 범위 (70~85)"
+      "note": "$80.82 — 적정 범위 (70~85)"
     },
     "gold": {
-      "value": 4049.1001,
-      "prev_day": 4100.1001,
-      "prev_week": 4067.6001,
-      "prev_month": 4068.3,
-      "prev_year": 3293.2,
+      "value": 4122.7002,
+      "prev_day": 4049.1001,
+      "prev_week": 4074.5,
+      "prev_month": 4112.7002,
+      "prev_year": 3374.3999,
       "history": [
-        3985.6001,
         4012.7,
         4010.3,
         4071.1001,
@@ -85,9 +84,10 @@
         4036.3,
         4034.7,
         4100.1001,
-        4049.1001
+        4049.1001,
+        4122.7002
       ],
-      "note": "$4,049 — US10Y·DXY 하락 시 강세"
+      "note": "$4,123 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
@@ -150,20 +150,20 @@
   ],
   "key_news": [
     {
-      "title": "Dow Jones Futures: Market Rebounds, Now Watch For This; SpaceX, AMD, Sandisk, El",
-      "body": "The stock market bounced but hasn't taken this step while a key risk is growing. SpaceX, AMD, Sandisk, Eli Lilly earnings loom.",
+      "title": "Dow Jones Futures Rise, Oil Prices Dive As Trump Shifts On Iran; SpaceX, AMD, Sa",
+      "body": "President Trump said he's holding off on massive new Iran attacks. SpaceX, AMD, Sandisk, Lilly earnings loom as market rally attempt begins.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Morgan Stanley's Amazon earnings verdict has a blind spot",
-      "body": "Amazon (AMZN) stock closed the July 31 trading session up 15.32% at $271.58, as it soared following the release of its second quarter (Q2) 2026 earnings report on July 30. The stock is up 17.66% year-",
+      "title": "If I Could Tell Every Investor 1 Thing About Building Lasting Wealth in the Stoc",
+      "body": "It's about time, not timing.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "This Top Nuclear Energy Dividend Stock Could Turn $1,000 Into a Lifetime Income ",
-      "body": "NextEra Energy is about to become the second-largest nuclear energy company in the United States.",
+      "title": "If I Were in My 20s, I'd Buy This Magnificent ETF and Hold It Until Retirement",
+      "body": "Young investors can build significant wealth in the stock market by focusing on the long term.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
