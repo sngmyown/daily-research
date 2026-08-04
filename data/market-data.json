@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-08-04 07:58 KST",
+  "updated_at": "2026-08-05 08:02 KST",
   "metrics": {
     "us10y": {
-      "value": 4.686,
-      "prev_day": 4.745,
-      "prev_week": 4.641,
-      "prev_month": 4.485,
+      "value": 4.627,
+      "prev_day": 4.686,
+      "prev_week": 4.604,
+      "prev_month": 4.479,
       "prev_year": 4.2,
       "history": [
-        4.541,
         4.598,
         4.628,
         4.657,
@@ -19,18 +18,18 @@
         4.622,
         4.663,
         4.745,
-        4.686
+        4.686,
+        4.627
       ],
-      "note": "4.69% — 금리 부담 구간"
+      "note": "4.63% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 99.991,
-      "prev_day": 99.8,
-      "prev_week": 101.51,
-      "prev_month": 100.86,
+      "value": 99.882,
+      "prev_day": 99.96,
+      "prev_week": 101.38,
+      "prev_month": 100.85,
       "prev_year": 98.78,
       "history": [
-        100.75,
         100.99,
         101.18,
         101.14,
@@ -41,18 +40,18 @@
         100.8,
         100.01,
         99.8,
-        99.991
+        99.96,
+        99.882
       ],
-      "note": "99.99 — 중립 구간"
+      "note": "99.88 — 중립 구간"
     },
     "wti": {
-      "value": 79.85,
-      "prev_day": 84.67,
-      "prev_week": 82.61,
-      "prev_month": 68.69,
+      "value": 75.32,
+      "prev_day": 80.34,
+      "prev_week": 79.26,
+      "prev_month": 68.55,
       "prev_year": 66.29,
       "history": [
-        82.49,
         83.23,
         84.91,
         86.83,
@@ -63,18 +62,18 @@
         84.46,
         83.59,
         84.67,
-        79.85
+        80.34,
+        75.32
       ],
-      "note": "$79.85 — 적정 범위 (70~85)"
+      "note": "$75.32 — 적정 범위 (70~85)"
     },
     "gold": {
-      "value": 4108.2998,
-      "prev_day": 4049.1001,
-      "prev_week": 4074.5,
-      "prev_month": 4112.7002,
+      "value": 4139.7002,
+      "prev_day": 4033.7,
+      "prev_week": 4036.3,
+      "prev_month": 4155.1001,
       "prev_year": 3374.3999,
       "history": [
-        4012.7,
         4010.3,
         4071.1001,
         4146.8999,
@@ -85,26 +84,13 @@
         4034.7,
         4100.1001,
         4049.1001,
-        4108.2998
+        4033.7,
+        4139.7002
       ],
-      "note": "$4,108 — US10Y·DXY 하락 시 강세"
+      "note": "$4,140 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
-    {
-      "name": "NY Fed Bill Purchases 1 to 4 months",
-      "actual": "미발표",
-      "forecast": "5.179",
-      "previous": "—",
-      "status": "upcoming"
-    },
-    {
-      "name": "RCM/TIPP Economic Optimism Index",
-      "actual": "미발표",
-      "forecast": "47.5",
-      "previous": "45.5",
-      "status": "upcoming"
-    },
     {
       "name": "S&P Global Services PMI Final",
       "actual": "미발표",
@@ -146,24 +132,38 @@
       "forecast": "—",
       "previous": "51.2",
       "status": "upcoming"
+    },
+    {
+      "name": "ISM Services New Orders",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "55.1",
+      "status": "upcoming"
+    },
+    {
+      "name": "Fed Cook Speech",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "—",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Wall Street rallies, Dow closes at record on Iran talks optimism",
-      "body": "STORY: U.S. stocks kicked off August with a rally on Monday, as the Dow added about one-and-a-third percent to close at a record high, the S&P 500 climbed one-and-a-half percent and the Nasdaq added m",
+      "title": "Ulta Beauty (ULTA) Increases Yet Falls Behind Market: What Investors Need to Kno",
+      "body": "In the closing of the recent trading day, Ulta Beauty (ULTA) stood at $543.86, denoting a +1.77% move from the preceding trading day.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "3 Consumer Stocks with Questionable Fundamentals",
-      "body": "Most consumer discretionary businesses succeed or fail based on the broader economy. This sensitive demand profile can cause the industry to underperform when macro uncertainty enters the fray, and ov",
+      "title": "Lowe's (LOW) Laps the Stock Market: Here's Why",
+      "body": "Lowe's (LOW) concluded the recent trading session at $218.08, signifying a +2.84% move from its prior day's close.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Why Supernus Pharmaceuticals Stock Topped the Market Today",
-      "body": "It's effecting a \"merger of equals\" with a peer.",
+      "title": "Toll Brothers (TOL) Exceeds Market Returns: Some Facts to Consider",
+      "body": "The latest trading day saw Toll Brothers (TOL) settling at $153.24, representing a +1.85% change from its previous close.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
