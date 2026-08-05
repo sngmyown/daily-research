@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-08-05 08:02 KST",
+  "updated_at": "2026-08-06 07:57 KST",
   "metrics": {
     "us10y": {
-      "value": 4.627,
-      "prev_day": 4.686,
-      "prev_week": 4.604,
+      "value": 4.617,
+      "prev_day": 4.627,
+      "prev_week": 4.622,
       "prev_month": 4.479,
-      "prev_year": 4.2,
+      "prev_year": 4.196,
       "history": [
-        4.598,
         4.628,
         4.657,
         4.703,
@@ -19,18 +18,18 @@
         4.663,
         4.745,
         4.686,
-        4.627
+        4.627,
+        4.617
       ],
-      "note": "4.63% — 금리 부담 구간"
+      "note": "4.62% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 99.882,
-      "prev_day": 99.96,
-      "prev_week": 101.38,
+      "value": 99.69,
+      "prev_day": 99.89,
+      "prev_week": 100.8,
       "prev_month": 100.85,
       "prev_year": 98.78,
       "history": [
-        100.99,
         101.18,
         101.14,
         101.43,
@@ -41,18 +40,18 @@
         100.01,
         99.8,
         99.96,
-        99.882
+        99.89,
+        99.69
       ],
-      "note": "99.88 — 중립 구간"
+      "note": "99.69 — 중립 구간"
     },
     "wti": {
-      "value": 75.32,
-      "prev_day": 80.34,
-      "prev_week": 79.26,
+      "value": 75.03,
+      "prev_day": 75.77,
+      "prev_week": 84.46,
       "prev_month": 68.55,
-      "prev_year": 66.29,
+      "prev_year": 65.16,
       "history": [
-        83.23,
         84.91,
         86.83,
         92.19,
@@ -63,18 +62,18 @@
         83.59,
         84.67,
         80.34,
-        75.32
+        75.77,
+        75.03
       ],
-      "note": "$75.32 — 적정 범위 (70~85)"
+      "note": "$75.03 — 적정 범위 (70~85)"
     },
     "gold": {
-      "value": 4139.7002,
-      "prev_day": 4033.7,
-      "prev_week": 4036.3,
+      "value": 4307.1001,
+      "prev_day": 4095.3999,
+      "prev_week": 4034.7,
       "prev_month": 4155.1001,
-      "prev_year": 3374.3999,
+      "prev_year": 3381.8999,
       "history": [
-        4010.3,
         4071.1001,
         4146.8999,
         4046.6001,
@@ -85,85 +84,86 @@
         4100.1001,
         4049.1001,
         4033.7,
-        4139.7002
+        4095.3999,
+        4307.1001
       ],
-      "note": "$4,140 — US10Y·DXY 하락 시 강세"
+      "note": "$4,307 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
     {
-      "name": "S&P Global Services PMI Final",
+      "name": "Continuing Jobless Claims",
       "actual": "미발표",
-      "forecast": "53.6",
-      "previous": "51.2",
+      "forecast": "1790",
+      "previous": "1782",
       "status": "upcoming"
     },
     {
-      "name": "S&P Global Composite PMI Final",
-      "actual": "미발표",
-      "forecast": "53.6",
-      "previous": "51.9",
-      "status": "upcoming"
-    },
-    {
-      "name": "ISM Services Prices",
+      "name": "Jobless Claims 4-week Average",
       "actual": "미발표",
       "forecast": "—",
-      "previous": "67.7",
+      "previous": "202.75",
       "status": "upcoming"
     },
     {
-      "name": "ISM Services Business Activity",
+      "name": "Initial Jobless Claims",
+      "actual": "미발표",
+      "forecast": "202",
+      "previous": "197",
+      "status": "upcoming"
+    },
+    {
+      "name": "Nonfarm Productivity QoQ Prel",
+      "actual": "미발표",
+      "forecast": "0.6",
+      "previous": "0.3",
+      "status": "upcoming"
+    },
+    {
+      "name": "NY Fed Bill Purchases 4 to 12 months",
+      "actual": "미발표",
+      "forecast": "3.453",
+      "previous": "—",
+      "status": "upcoming"
+    },
+    {
+      "name": "Fed Balance Sheet",
       "actual": "미발표",
       "forecast": "—",
-      "previous": "55.4",
+      "previous": "6.738",
       "status": "upcoming"
     },
     {
-      "name": "ISM Services PMI",
-      "actual": "미발표",
-      "forecast": "54.5",
-      "previous": "54",
-      "status": "upcoming"
-    },
-    {
-      "name": "ISM Services Employment",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "51.2",
-      "status": "upcoming"
-    },
-    {
-      "name": "ISM Services New Orders",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "55.1",
-      "status": "upcoming"
-    },
-    {
-      "name": "Fed Cook Speech",
+      "name": "Fed Musalem Speech",
       "actual": "미발표",
       "forecast": "—",
       "previous": "—",
+      "status": "upcoming"
+    },
+    {
+      "name": "Nonfarm Payrolls Private",
+      "actual": "미발표",
+      "forecast": "79",
+      "previous": "49",
       "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Ulta Beauty (ULTA) Increases Yet Falls Behind Market: What Investors Need to Kno",
-      "body": "In the closing of the recent trading day, Ulta Beauty (ULTA) stood at $543.86, denoting a +1.77% move from the preceding trading day.",
+      "title": "Stock Market Today, Aug. 5: Uber Falls 5% on Weak Guidance Despite Strong Bookin",
+      "body": "On Aug. 5, 2026, the ride-hailing giant's profit outlook disappointed investors even as gross bookings surged 24% and revenue hit $14.2 billion.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Lowe's (LOW) Laps the Stock Market: Here's Why",
-      "body": "Lowe's (LOW) concluded the recent trading session at $218.08, signifying a +2.84% move from its prior day's close.",
+      "title": "Why Opendoor Technologies Stock Just Dropped",
+      "body": "Opendoor's latest earnings reveal a company in transition.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Toll Brothers (TOL) Exceeds Market Returns: Some Facts to Consider",
-      "body": "The latest trading day saw Toll Brothers (TOL) settling at $153.24, representing a +1.85% change from its previous close.",
+      "title": "Stock Market Today, Aug. 5: Shopify Soars 17% After Beating Q2 Estimates, Raises",
+      "body": "On Aug. 5, 2026, the e-commerce platform topped second-quarter expectations and guided higher for the quarter ahead, signaling sustained momentum.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
