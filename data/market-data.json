@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-08-06 07:57 KST",
+  "updated_at": "2026-08-07 10:29 KST",
   "metrics": {
     "us10y": {
-      "value": 4.617,
-      "prev_day": 4.627,
-      "prev_week": 4.622,
-      "prev_month": 4.479,
-      "prev_year": 4.196,
+      "value": 4.67,
+      "prev_day": 4.617,
+      "prev_week": 4.663,
+      "prev_month": 4.529,
+      "prev_year": 4.22,
       "history": [
-        4.628,
         4.657,
         4.703,
         4.679,
@@ -19,18 +18,18 @@
         4.745,
         4.686,
         4.627,
-        4.617
+        4.617,
+        4.67
       ],
-      "note": "4.62% — 금리 부담 구간"
+      "note": "4.67% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 99.69,
-      "prev_day": 99.89,
-      "prev_week": 100.8,
-      "prev_month": 100.85,
-      "prev_year": 98.78,
+      "value": 99.96,
+      "prev_day": 99.69,
+      "prev_week": 99.8,
+      "prev_month": 101.05,
+      "prev_year": 98.4,
       "history": [
-        101.18,
         101.14,
         101.43,
         101.47,
@@ -41,18 +40,18 @@
         99.8,
         99.96,
         99.89,
-        99.69
+        99.69,
+        99.96
       ],
-      "note": "99.69 — 중립 구간"
+      "note": "99.96 — 중립 구간"
     },
     "wti": {
-      "value": 75.03,
-      "prev_day": 75.77,
-      "prev_week": 84.46,
-      "prev_month": 68.55,
-      "prev_year": 65.16,
+      "value": 77.88,
+      "prev_day": 75.22,
+      "prev_week": 84.67,
+      "prev_month": 73.52,
+      "prev_year": 63.88,
       "history": [
-        84.91,
         86.83,
         92.19,
         89.31,
@@ -63,18 +62,18 @@
         84.67,
         80.34,
         75.77,
-        75.03
+        75.22,
+        77.88
       ],
-      "note": "$75.03 — 적정 범위 (70~85)"
+      "note": "$77.88 — 적정 범위 (70~85)"
     },
     "gold": {
-      "value": 4307.1001,
-      "prev_day": 4095.3999,
-      "prev_week": 4034.7,
-      "prev_month": 4155.1001,
-      "prev_year": 3381.8999,
+      "value": 4302.6001,
+      "prev_day": 4245.7998,
+      "prev_week": 4049.1001,
+      "prev_month": 4070.8999,
+      "prev_year": 3400.3,
       "history": [
-        4071.1001,
         4146.8999,
         4046.6001,
         4067.6001,
@@ -85,85 +84,72 @@
         4049.1001,
         4033.7,
         4095.3999,
-        4307.1001
+        4245.7998,
+        4302.6001
       ],
-      "note": "$4,307 — US10Y·DXY 하락 시 강세"
+      "note": "$4,303 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
     {
-      "name": "Continuing Jobless Claims",
-      "actual": "미발표",
-      "forecast": "1790",
-      "previous": "1782",
-      "status": "upcoming"
-    },
-    {
-      "name": "Jobless Claims 4-week Average",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "202.75",
-      "status": "upcoming"
-    },
-    {
-      "name": "Initial Jobless Claims",
-      "actual": "미발표",
-      "forecast": "202",
-      "previous": "197",
-      "status": "upcoming"
-    },
-    {
-      "name": "Nonfarm Productivity QoQ Prel",
-      "actual": "미발표",
-      "forecast": "0.6",
-      "previous": "0.3",
-      "status": "upcoming"
-    },
-    {
-      "name": "NY Fed Bill Purchases 4 to 12 months",
-      "actual": "미발표",
-      "forecast": "3.453",
-      "previous": "—",
-      "status": "upcoming"
-    },
-    {
-      "name": "Fed Balance Sheet",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "6.738",
-      "status": "upcoming"
-    },
-    {
-      "name": "Fed Musalem Speech",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "—",
-      "status": "upcoming"
-    },
-    {
       "name": "Nonfarm Payrolls Private",
       "actual": "미발표",
-      "forecast": "79",
+      "forecast": "78",
       "previous": "49",
+      "status": "upcoming"
+    },
+    {
+      "name": "Unemployment Rate",
+      "actual": "미발표",
+      "forecast": "4.2",
+      "previous": "4.2",
+      "status": "upcoming"
+    },
+    {
+      "name": "U-6 Unemployment Rate",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "7.9",
+      "status": "upcoming"
+    },
+    {
+      "name": "Fed Barkin Speech",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "—",
+      "status": "upcoming"
+    },
+    {
+      "name": "Consumer Inflation Expectations",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "3.7",
+      "status": "upcoming"
+    },
+    {
+      "name": "Fed Bowman Speech",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "—",
       "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Stock Market Today, Aug. 5: Uber Falls 5% on Weak Guidance Despite Strong Bookin",
-      "body": "On Aug. 5, 2026, the ride-hailing giant's profit outlook disappointed investors even as gross bookings surged 24% and revenue hit $14.2 billion.",
+      "title": "Dow Jones Futures: Cloudflare Leads 5 Software Earnings Winners Late; Jobs Repor",
+      "body": "Dow Jones futures: The market pauses, but what happens next? Don't buy these AI stocks yet. Cloudflare, Sezzle lead big earnings movers late.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Why Opendoor Technologies Stock Just Dropped",
-      "body": "Opendoor's latest earnings reveal a company in transition.",
+      "title": "Review & Preview: Nothing Gold Can Stay",
+      "body": "The Dow broke a five-day winning streak on Thursday, while the S&P 500 and Nasdaq Composite tripped on a selloff in software stocks.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Stock Market Today, Aug. 5: Shopify Soars 17% After Beating Q2 Estimates, Raises",
-      "body": "On Aug. 5, 2026, the e-commerce platform topped second-quarter expectations and guided higher for the quarter ahead, signaling sustained momentum.",
+      "title": "Stocks slip as investors eye Mideast talks, earnings",
+      "body": "STORY: Stocks fell Thursday, pausing after a strong start to the week.The Dow dropped close to one percent. The S&P 500 slid about two tenths and the Nasdaq was basically flat.Investors digested the l",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
