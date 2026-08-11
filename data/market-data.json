@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-08-11 07:35 KST",
+  "updated_at": "2026-08-12 07:39 KST",
   "metrics": {
     "us10y": {
-      "value": 4.699,
-      "prev_day": 4.66,
-      "prev_week": 4.686,
-      "prev_month": 4.569,
+      "value": 4.684,
+      "prev_day": 4.699,
+      "prev_week": 4.627,
+      "prev_month": 4.609,
       "prev_year": 4.273,
       "history": [
-        4.679,
         4.641,
         4.604,
         4.622,
@@ -19,18 +18,18 @@
         4.617,
         4.67,
         4.66,
-        4.699
+        4.699,
+        4.684
       ],
-      "note": "4.70% — 금리 부담 구간"
+      "note": "4.68% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 99.807,
-      "prev_day": 99.6,
-      "prev_week": 99.96,
-      "prev_month": 100.97,
+      "value": 99.812,
+      "prev_day": 99.81,
+      "prev_week": 99.89,
+      "prev_month": 101.28,
       "prev_year": 98.52,
       "history": [
-        101.47,
         101.51,
         101.38,
         100.8,
@@ -41,18 +40,18 @@
         99.69,
         99.97,
         99.6,
-        99.807
+        99.81,
+        99.812
       ],
       "note": "99.81 — 중립 구간"
     },
     "wti": {
-      "value": 82.14,
-      "prev_day": 78.18,
-      "prev_week": 80.34,
-      "prev_month": 71.41,
+      "value": 83.51,
+      "prev_day": 82.13,
+      "prev_week": 75.77,
+      "prev_month": 78.14,
       "prev_year": 63.96,
       "history": [
-        89.31,
         82.61,
         79.26,
         84.46,
@@ -63,18 +62,18 @@
         75.22,
         77.29,
         78.18,
-        82.14
+        82.13,
+        83.51
       ],
-      "note": "$82.14 — 적정 범위 (70~85)"
+      "note": "$83.51 — 적정 범위 (70~85)"
     },
     "gold": {
-      "value": 4451.2002,
-      "prev_day": 4340.7002,
-      "prev_week": 4033.7,
-      "prev_month": 4104.1001,
+      "value": 4434.7002,
+      "prev_day": 4361.7998,
+      "prev_week": 4095.3999,
+      "prev_month": 3997.0,
       "prev_year": 3353.1001,
       "history": [
-        4067.6001,
         4074.5,
         4036.3,
         4034.7,
@@ -85,26 +84,13 @@
         4245.7998,
         4242.0,
         4340.7002,
-        4451.2002
+        4361.7998,
+        4434.7002
       ],
-      "note": "$4,451 — US10Y·DXY 하락 시 강세"
+      "note": "$4,435 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
-    {
-      "name": "NFIB Business Optimism Index",
-      "actual": "미발표",
-      "forecast": "97.8",
-      "previous": "97.4",
-      "status": "upcoming"
-    },
-    {
-      "name": "NY Fed Bill Purchases 1 to 4 months",
-      "actual": "미발표",
-      "forecast": "5.179",
-      "previous": "—",
-      "status": "upcoming"
-    },
     {
       "name": "CPI s.a",
       "actual": "미발표",
@@ -146,24 +132,38 @@
       "forecast": "—",
       "previous": "333.95",
       "status": "upcoming"
+    },
+    {
+      "name": "Fed Hammack Speech",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "—",
+      "status": "upcoming"
+    },
+    {
+      "name": "Continuing Jobless Claims",
+      "actual": "미발표",
+      "forecast": "1800",
+      "previous": "1801",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "VYM’s 2.2% Yield Hides $141,000 in Decade-Long Underperformance Versus the S&P 5",
-      "body": "A retiree who chose VYM for its reliable quarterly deposits may have traded away a surprising fortune without realizing it, and the expense ratio has almost nothing to do with it.",
+      "title": "The AI Boom Is Paying Off. New Research Says S&P 500 Companies Using AI Tools Bo",
+      "body": "The biggest winners of the AI boom might be found in unexpected places -- like value stocks and small-caps.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Why Kevin Warsh Might Raise Interest Rates at the Next FOMC Meeting, Despite a W",
-      "body": "Fed chair Kevin Warsh is focused on getting inflation to 2%.",
+      "title": "Update: US Equity Indexes Decline as Growth Sectors Hit Amid Gains in Crude Oil ",
+      "body": "(Updates with index/price moves, macroeconomic data and geopolitical news from the first paragraph.)",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Stock Market Today, Aug. 10: Markets Slip as Oil Gains Fuel Inflation Fears",
-      "body": "Crude climbed, lifting energy stocks while semiconductor and tech shares stumbled on capital spending concerns, today, Aug. 10, 2026.",
+      "title": "This 5.3% Monthly Payer Only Buys Stocks That Raised Dividends 10 Straight Years",
+      "body": "High-yield ETFs built purely on yield rankings carry a hidden flaw that only shows up when it's too late, and one fund uses a decade-long dividend track record as a filter before yield ever enters the",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
