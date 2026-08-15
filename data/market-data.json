@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15 07:21 KST",
+  "updated_at": "2026-08-16 07:19 KST",
   "metrics": {
     "us10y": {
       "value": 4.696,
@@ -24,7 +24,7 @@
       "note": "4.70% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 99.636,
+      "value": 99.67,
       "prev_day": 99.96,
       "prev_week": 99.6,
       "prev_month": 100.5,
@@ -41,9 +41,9 @@
         99.82,
         100.01,
         99.96,
-        99.636
+        99.67
       ],
-      "note": "99.64 — 중립 구간"
+      "note": "99.67 — 중립 구간"
     },
     "wti": {
       "value": 82.4,
@@ -68,7 +68,7 @@
       "note": "$82.40 — 적정 범위 (70~85)"
     },
     "gold": {
-      "value": 4432.0,
+      "value": 4380.3999,
       "prev_day": 4363.6001,
       "prev_week": 4340.7002,
       "prev_month": 4044.0,
@@ -85,9 +85,9 @@
         4383.0,
         4408.8999,
         4363.6001,
-        4432.0
+        4380.3999
       ],
-      "note": "$4,432 — US10Y·DXY 하락 시 강세"
+      "note": "$4,380 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
@@ -118,24 +118,31 @@
       "forecast": "1.35",
       "previous": "1.427",
       "status": "upcoming"
+    },
+    {
+      "name": "FOMC Minutes",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "—",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Stock Market Today, Aug. 14: Rally Stalls on Disappointing Consumer Data, Broadc",
-      "body": "On Aug. 14, 2026, disappointing retail spending and consumer confidence data pulled markets back from record highs, with chipmakers leading declines.",
+      "title": "2 Reasons to Like CR and 1 to Stay Skeptical",
+      "body": "Crane has followed the market’s trajectory closely, rising in tandem with the S&P 500 over the past six months. The stock has climbed by 11.2% to $222.95 per share while the index has gained 13%.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Dow Jones Futures: Market Ready To Run? Sandisk Soars, Nvidia In Buy Area; Walma",
-      "body": "The S&P 500 and Nasdaq look ready to run, but they haven't quite done so. Sandisk surged but must do this. Walmart, Target loom.",
+      "title": "MACOM (MTSI): Buy, Sell, or Hold Post Q2 Earnings?",
+      "body": "MACOM currently trades at $308.10 and has been a dream stock for shareholders. It’s returned 404% since August 2021, blowing past the S&P 500’s 72.8% gain. The company has also beaten the index over t",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "3 Reasons to Sell NDSN and 1 Stock to Buy Instead",
-      "body": "Even though Nordson (currently trading at $311.34 per share) has gained 5.7% over the last six months, it has lagged the S&P 500’s 13.5% return during that period. This may have investors wondering ho",
+      "title": "Acuity Brands (AYI): Buy, Sell, or Hold Post Q2 Earnings?",
+      "body": "Acuity Brands trades at $360.33 and has moved in lockstep with the market. Its shares have returned 17.9% over the last six months while the S&P 500 has gained 13%.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
