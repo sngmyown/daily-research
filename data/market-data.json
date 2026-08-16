@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16 07:19 KST",
+  "updated_at": "2026-08-17 07:18 KST",
   "metrics": {
     "us10y": {
       "value": 4.696,
@@ -24,13 +24,12 @@
       "note": "4.70% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 99.67,
-      "prev_day": 99.96,
-      "prev_week": 99.6,
-      "prev_month": 100.5,
-      "prev_year": 98.25,
+      "value": 99.665,
+      "prev_day": 99.67,
+      "prev_week": 99.81,
+      "prev_month": 100.75,
+      "prev_year": 97.85,
       "history": [
-        100.01,
         99.8,
         99.96,
         99.89,
@@ -41,18 +40,18 @@
         99.82,
         100.01,
         99.96,
-        99.67
+        99.67,
+        99.665
       ],
       "note": "99.67 — 중립 구간"
     },
     "wti": {
       "value": 82.4,
-      "prev_day": 81.25,
-      "prev_week": 78.18,
-      "prev_month": 79.6,
-      "prev_year": 63.96,
+      "prev_day": 82.4,
+      "prev_week": 82.13,
+      "prev_month": 82.49,
+      "prev_year": 63.42,
       "history": [
-        83.59,
         84.67,
         80.34,
         75.77,
@@ -63,18 +62,18 @@
         83.2,
         83.27,
         81.25,
+        82.4,
         82.4
       ],
       "note": "$82.40 — 적정 범위 (70~85)"
     },
     "gold": {
-      "value": 4380.3999,
-      "prev_day": 4363.6001,
-      "prev_week": 4340.7002,
-      "prev_month": 4044.0,
-      "prev_year": 3335.2,
+      "value": 4437.2998,
+      "prev_day": 4380.3999,
+      "prev_week": 4361.7998,
+      "prev_month": 4012.7,
+      "prev_year": 3331.7,
       "history": [
-        4100.1001,
         4049.1001,
         4033.7,
         4095.3999,
@@ -85,9 +84,10 @@
         4383.0,
         4408.8999,
         4363.6001,
-        4380.3999
+        4380.3999,
+        4437.2998
       ],
-      "note": "$4,380 — US10Y·DXY 하락 시 강세"
+      "note": "$4,437 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
@@ -125,24 +125,45 @@
       "forecast": "—",
       "previous": "—",
       "status": "upcoming"
+    },
+    {
+      "name": "Continuing Jobless Claims",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "1777",
+      "status": "upcoming"
+    },
+    {
+      "name": "Jobless Claims 4-week Average",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "199",
+      "status": "upcoming"
+    },
+    {
+      "name": "Initial Jobless Claims",
+      "actual": "미발표",
+      "forecast": "210",
+      "previous": "209",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "2 Reasons to Like CR and 1 to Stay Skeptical",
-      "body": "Crane has followed the market’s trajectory closely, rising in tandem with the S&P 500 over the past six months. The stock has climbed by 11.2% to $222.95 per share while the index has gained 13%.",
+      "title": "Dow Jones Futures: Nvidia Leads 5 Stocks In Buy Areas, Sandisk Needs This; Walma",
+      "body": "The S&P 500 and Nasdaq look ready to run, but they haven't quite done so. Sandisk surged but must do this. Walmart, Target loom.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "MACOM (MTSI): Buy, Sell, or Hold Post Q2 Earnings?",
-      "body": "MACOM currently trades at $308.10 and has been a dream stock for shareholders. It’s returned 404% since August 2021, blowing past the S&P 500’s 72.8% gain. The company has also beaten the index over t",
+      "title": "3 Reasons to Sell NMRK and 1 Stock to Buy Instead",
+      "body": "Newmark currently trades at $15.31 per share and has shown little upside over the past six months, posting a middling return of 4.7%. The stock also fell short of the S&P 500’s 13.1% gain during that ",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Acuity Brands (AYI): Buy, Sell, or Hold Post Q2 Earnings?",
-      "body": "Acuity Brands trades at $360.33 and has moved in lockstep with the market. Its shares have returned 17.9% over the last six months while the S&P 500 has gained 13%.",
+      "title": "Zoom (ZM): Buy, Sell, or Hold Post Q1 Earnings?",
+      "body": "Over the past six months, Zoom has been a great trade, beating the S&P 500 by 10.4%. Its stock price has climbed to $109.49, representing a healthy 23.5% increase. This was partly due to its solid qua",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
