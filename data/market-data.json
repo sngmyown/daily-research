@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-08-17 07:18 KST",
+  "updated_at": "2026-08-18 07:22 KST",
   "metrics": {
     "us10y": {
-      "value": 4.696,
-      "prev_day": 4.641,
-      "prev_week": 4.66,
-      "prev_month": 4.545,
-      "prev_year": 4.293,
+      "value": 4.724,
+      "prev_day": 4.696,
+      "prev_week": 4.699,
+      "prev_month": 4.541,
+      "prev_year": 4.341,
       "history": [
-        4.663,
         4.745,
         4.686,
         4.627,
@@ -19,16 +18,17 @@
         4.684,
         4.682,
         4.641,
-        4.696
+        4.696,
+        4.724
       ],
-      "note": "4.70% — 금리 부담 구간"
+      "note": "4.72% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 99.665,
+      "value": 99.581,
       "prev_day": 99.67,
       "prev_week": 99.81,
       "prev_month": 100.75,
-      "prev_year": 97.85,
+      "prev_year": 98.17,
       "history": [
         99.8,
         99.96,
@@ -41,12 +41,12 @@
         100.01,
         99.96,
         99.67,
-        99.665
+        99.581
       ],
-      "note": "99.67 — 중립 구간"
+      "note": "99.58 — 중립 구간"
     },
     "wti": {
-      "value": 82.4,
+      "value": 85.16,
       "prev_day": 82.4,
       "prev_week": 82.13,
       "prev_month": 82.49,
@@ -63,12 +63,12 @@
         83.27,
         81.25,
         82.4,
-        82.4
+        85.16
       ],
-      "note": "$82.40 — 적정 범위 (70~85)"
+      "note": "$85.16 — 정상 범위 상단"
     },
     "gold": {
-      "value": 4437.2998,
+      "value": 4472.8999,
       "prev_day": 4380.3999,
       "prev_week": 4361.7998,
       "prev_month": 4012.7,
@@ -85,19 +85,12 @@
         4408.8999,
         4363.6001,
         4380.3999,
-        4437.2998
+        4472.8999
       ],
-      "note": "$4,437 — US10Y·DXY 하락 시 강세"
+      "note": "$4,473 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
-    {
-      "name": "NAHB Housing Market Index",
-      "actual": "미발표",
-      "forecast": "33",
-      "previous": "34",
-      "status": "upcoming"
-    },
     {
       "name": "NY Fed Services Activity Index",
       "actual": "미발표",
@@ -143,27 +136,34 @@
     {
       "name": "Initial Jobless Claims",
       "actual": "미발표",
-      "forecast": "210",
+      "forecast": "212",
       "previous": "209",
+      "status": "upcoming"
+    },
+    {
+      "name": "Philly Fed Business Conditions",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "34.4",
       "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Dow Jones Futures: Nvidia Leads 5 Stocks In Buy Areas, Sandisk Needs This; Walma",
-      "body": "The S&P 500 and Nasdaq look ready to run, but they haven't quite done so. Sandisk surged but must do this. Walmart, Target loom.",
+      "title": "S&P500, Dow, Nasdaq End Lower As Geopolitics And Oil Price Risk Take Center Stag",
+      "body": "Brent crude prices settled near $91 a barrel.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "3 Reasons to Sell NMRK and 1 Stock to Buy Instead",
-      "body": "Newmark currently trades at $15.31 per share and has shown little upside over the past six months, posting a middling return of 4.7%. The stock also fell short of the S&P 500’s 13.1% gain during that ",
+      "title": "Stock Market Today, Aug. 17: Markets Inch Lower and Treasury Yields Rise as Inve",
+      "body": "On Aug. 17, 2026, bond yields climbed while major indices drifted near record levels ahead of pivotal retail earnings reports.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Zoom (ZM): Buy, Sell, or Hold Post Q1 Earnings?",
-      "body": "Over the past six months, Zoom has been a great trade, beating the S&P 500 by 10.4%. Its stock price has climbed to $109.49, representing a healthy 23.5% increase. This was partly due to its solid qua",
+      "title": "AI and Energy Aren't Enough to Lift the Stock Market",
+      "body": "Semiconductor and energy stocks rallied on Monday—and not much else. The Dow Jones Industrial Average fell 272 points, or 0.5%. The S&P 500 dropped 0.5%. The Nasdaq Composite fell 0.3%. Meanwhile, the",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
