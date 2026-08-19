@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-08-19 07:21 KST",
+  "updated_at": "2026-08-20 07:22 KST",
   "metrics": {
     "us10y": {
-      "value": 4.706,
-      "prev_day": 4.724,
-      "prev_week": 4.684,
-      "prev_month": 4.703,
-      "prev_year": 4.703,
+      "value": 4.653,
+      "prev_day": 4.706,
+      "prev_week": 4.682,
+      "prev_month": 4.598,
+      "prev_year": 4.302,
       "history": [
-        4.686,
         4.627,
         4.617,
         4.67,
@@ -19,18 +18,18 @@
         4.641,
         4.696,
         4.724,
-        4.706
+        4.706,
+        4.653
       ],
-      "note": "4.71% — 금리 부담 구간"
+      "note": "4.65% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 99.644,
-      "prev_day": 99.64,
-      "prev_week": 99.82,
+      "value": 98.768,
+      "prev_day": 99.65,
+      "prev_week": 100.01,
       "prev_month": 100.99,
-      "prev_year": 98.17,
+      "prev_year": 98.27,
       "history": [
-        99.96,
         99.89,
         99.69,
         99.97,
@@ -41,18 +40,18 @@
         99.96,
         99.67,
         99.64,
-        99.644
+        99.65,
+        98.768
       ],
-      "note": "99.64 — 중립 구간"
+      "note": "98.77 — 중립 구간"
     },
     "wti": {
-      "value": 84.52,
-      "prev_day": 84.5,
-      "prev_week": 83.2,
+      "value": 84.38,
+      "prev_day": 84.94,
+      "prev_week": 83.27,
       "prev_month": 83.23,
-      "prev_year": 63.42,
+      "prev_year": 62.35,
       "history": [
-        80.34,
         75.77,
         75.22,
         77.29,
@@ -63,18 +62,18 @@
         81.25,
         82.4,
         84.5,
-        84.52
+        84.94,
+        84.38
       ],
-      "note": "$84.52 — 적정 범위 (70~85)"
+      "note": "$84.38 — 적정 범위 (70~85)"
     },
     "gold": {
-      "value": 4394.8999,
-      "prev_day": 4417.7998,
-      "prev_week": 4383.0,
+      "value": 4577.2998,
+      "prev_day": 4366.0,
+      "prev_week": 4408.8999,
       "prev_month": 4010.3,
-      "prev_year": 3331.7,
+      "prev_year": 3313.3999,
       "history": [
-        4033.7,
         4095.3999,
         4245.7998,
         4242.0,
@@ -85,19 +84,13 @@
         4363.6001,
         4380.3999,
         4417.7998,
-        4394.8999
+        4366.0,
+        4577.2998
       ],
-      "note": "$4,395 — US10Y·DXY 하락 시 강세"
+      "note": "$4,577 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
-    {
-      "name": "FOMC Minutes",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "—",
-      "status": "upcoming"
-    },
     {
       "name": "Continuing Jobless Claims",
       "actual": "미발표",
@@ -146,24 +139,31 @@
       "forecast": "—",
       "previous": "30.1",
       "status": "upcoming"
+    },
+    {
+      "name": "Philly Fed New Orders",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "37",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Coherent, Teradyne, and Ciena Are the S&P 500’s 3 Biggest Decliners on Tuesday",
-      "body": "Three AI infrastructure stocks just shed billions in market cap in a single session, and the reason has less to do with their earnings than with a mounting anxiety about what the biggest names in tech",
+      "title": "Update: Equities Snap 3-Day Losing Streak as Traders Parse July Fed Minutes",
+      "body": "(Updates with market moves at the end of the day, and other changes, if any.) Wall Street's main",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Update: Technology Leads US Equity Indexes Lower as 30-Year Yield Touches 19-Yea",
-      "body": "(Updates with index/price moves, macroeconomic data and company/geopolitical news from the first par",
+      "title": "Stocks Hitch a Ride on the Bond Market's Rally",
+      "body": "The stock market rode the bond market's coattails en route to its first gain in four sessions.  The Nasdaq Composite gained 0.2%.  News that the Treasury Department will at least double the size of bu",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Stock Market Today: Nasdaq Slides Along With Chip Names; Sandisk, Micron Lose Bi",
-      "body": "Stock Market Today: The Nasdaq falls Tuesday as Treasury yields rise. Nvidia stock, Micron and Sandisk sink.",
+      "title": "The Next Market Crash Is Coming — Here’s How to Prepare Your Business",
+      "body": "There is going to be another significant stock market contraction. History guarantees that much. What history doesn't tell us is when.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
