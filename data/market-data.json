@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-08-20 07:22 KST",
+  "updated_at": "2026-08-21 07:25 KST",
   "metrics": {
     "us10y": {
-      "value": 4.653,
-      "prev_day": 4.706,
-      "prev_week": 4.682,
-      "prev_month": 4.598,
-      "prev_year": 4.302,
+      "value": 4.696,
+      "prev_day": 4.653,
+      "prev_week": 4.641,
+      "prev_month": 4.628,
+      "prev_year": 4.296,
       "history": [
-        4.627,
         4.617,
         4.67,
         4.66,
@@ -19,18 +18,18 @@
         4.696,
         4.724,
         4.706,
-        4.653
+        4.653,
+        4.696
       ],
-      "note": "4.65% — 금리 부담 구간"
+      "note": "4.70% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 98.768,
-      "prev_day": 99.65,
-      "prev_week": 100.01,
-      "prev_month": 100.99,
-      "prev_year": 98.27,
+      "value": 98.841,
+      "prev_day": 98.83,
+      "prev_week": 99.96,
+      "prev_month": 101.18,
+      "prev_year": 98.22,
       "history": [
-        99.89,
         99.69,
         99.97,
         99.6,
@@ -41,18 +40,18 @@
         99.67,
         99.64,
         99.65,
-        98.768
+        98.83,
+        98.841
       ],
-      "note": "98.77 — 중립 구간"
+      "note": "98.84 — 중립 구간"
     },
     "wti": {
-      "value": 84.38,
-      "prev_day": 84.94,
-      "prev_week": 83.27,
-      "prev_month": 83.23,
-      "prev_year": 62.35,
+      "value": 86.34,
+      "prev_day": 85.83,
+      "prev_week": 81.25,
+      "prev_month": 84.91,
+      "prev_year": 63.21,
       "history": [
-        75.77,
         75.22,
         77.29,
         78.18,
@@ -63,18 +62,18 @@
         82.4,
         84.5,
         84.94,
-        84.38
+        85.83,
+        86.34
       ],
-      "note": "$84.38 — 적정 범위 (70~85)"
+      "note": "$86.34 — 정상 범위 상단"
     },
     "gold": {
-      "value": 4577.2998,
-      "prev_day": 4366.0,
-      "prev_week": 4408.8999,
-      "prev_month": 4010.3,
-      "prev_year": 3313.3999,
+      "value": 4575.7998,
+      "prev_day": 4489.3999,
+      "prev_week": 4363.6001,
+      "prev_month": 4071.1001,
+      "prev_year": 3343.3999,
       "history": [
-        4095.3999,
         4245.7998,
         4242.0,
         4340.7002,
@@ -85,85 +84,58 @@
         4380.3999,
         4417.7998,
         4366.0,
-        4577.2998
+        4489.3999,
+        4575.7998
       ],
-      "note": "$4,577 — US10Y·DXY 하락 시 강세"
+      "note": "$4,576 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
     {
-      "name": "Continuing Jobless Claims",
+      "name": "S&P Global Services PMI Flash",
       "actual": "미발표",
-      "forecast": "1790",
-      "previous": "1777",
+      "forecast": "54",
+      "previous": "54.6",
       "status": "upcoming"
     },
     {
-      "name": "Jobless Claims 4-week Average",
+      "name": "S&P Global Manufacturing PMI Flash",
       "actual": "미발표",
-      "forecast": "—",
-      "previous": "199",
-      "status": "upcoming"
-    },
-    {
-      "name": "Initial Jobless Claims",
-      "actual": "미발표",
-      "forecast": "210",
-      "previous": "209",
-      "status": "upcoming"
-    },
-    {
-      "name": "Philly Fed Business Conditions",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "34.4",
-      "status": "upcoming"
-    },
-    {
-      "name": "Philly Fed Prices Paid",
-      "actual": "미발표",
-      "forecast": "—",
+      "forecast": "53.9",
       "previous": "53.9",
       "status": "upcoming"
     },
     {
-      "name": "Philadelphia Fed Manufacturing Index",
+      "name": "S&P Global Composite PMI Flash",
       "actual": "미발표",
-      "forecast": "25",
-      "previous": "41.4",
+      "forecast": "—",
+      "previous": "54.5",
       "status": "upcoming"
     },
     {
-      "name": "Philly Fed CAPEX Index",
+      "name": "Chicago Fed National Activity Index",
       "actual": "미발표",
       "forecast": "—",
-      "previous": "30.1",
-      "status": "upcoming"
-    },
-    {
-      "name": "Philly Fed New Orders",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "37",
+      "previous": "-0.02",
       "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Update: Equities Snap 3-Day Losing Streak as Traders Parse July Fed Minutes",
-      "body": "(Updates with market moves at the end of the day, and other changes, if any.) Wall Street's main",
+      "title": "US Stock Indices End Lower As Trump’s ‘Economic Warfare’ Threats Push Yields, Oi",
+      "body": "President Donald Trump, in a Truth Social post, threatened Iran with “economic warfare.”",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Stocks Hitch a Ride on the Bond Market's Rally",
-      "body": "The stock market rode the bond market's coattails en route to its first gain in four sessions.  The Nasdaq Composite gained 0.2%.  News that the Treasury Department will at least double the size of bu",
+      "title": "8-20-2026: Middle East Tensions, Treasury Buybacks + Crypto's Big Comeback",
+      "body": "Michael Reinking, Senior Market Strategist at the NYSE, recaps a week dominated by Treasury Secretary Bessent, whose doubled liquidity support buybacks reignited the debasement trade, sending gold bac",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "The Next Market Crash Is Coming — Here’s How to Prepare Your Business",
-      "body": "There is going to be another significant stock market contraction. History guarantees that much. What history doesn't tell us is when.",
+      "title": "Stock Market Today: Dow Tumbles 700 Points But Miners Rise; Oil Stocks Catch Fir",
+      "body": "Stock Market Today: The Dow Jones index drops Thursday on Trump's \"Economic D-Day\" threat on Iran. Walmart dives on earnings.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
