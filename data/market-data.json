@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-08-21 07:25 KST",
+  "updated_at": "2026-08-22 07:22 KST",
   "metrics": {
     "us10y": {
-      "value": 4.696,
-      "prev_day": 4.653,
-      "prev_week": 4.641,
-      "prev_month": 4.628,
-      "prev_year": 4.296,
+      "value": 4.738,
+      "prev_day": 4.696,
+      "prev_week": 4.696,
+      "prev_month": 4.657,
+      "prev_year": 4.33,
       "history": [
-        4.617,
         4.67,
         4.66,
         4.699,
@@ -19,18 +18,18 @@
         4.724,
         4.706,
         4.653,
-        4.696
+        4.696,
+        4.738
       ],
-      "note": "4.70% — 금리 부담 구간"
+      "note": "4.74% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 98.841,
-      "prev_day": 98.83,
-      "prev_week": 99.96,
-      "prev_month": 101.18,
-      "prev_year": 98.22,
+      "value": 98.839,
+      "prev_day": 98.9,
+      "prev_week": 99.67,
+      "prev_month": 101.14,
+      "prev_year": 98.62,
       "history": [
-        99.69,
         99.97,
         99.6,
         99.81,
@@ -41,18 +40,18 @@
         99.64,
         99.65,
         98.83,
-        98.841
+        98.9,
+        98.839
       ],
       "note": "98.84 — 중립 구간"
     },
     "wti": {
-      "value": 86.34,
-      "prev_day": 85.83,
-      "prev_week": 81.25,
-      "prev_month": 84.91,
-      "prev_year": 63.21,
+      "value": 86.64,
+      "prev_day": 87.83,
+      "prev_week": 82.4,
+      "prev_month": 86.83,
+      "prev_year": 63.52,
       "history": [
-        75.22,
         77.29,
         78.18,
         82.13,
@@ -63,18 +62,18 @@
         84.5,
         84.94,
         85.83,
-        86.34
+        87.83,
+        86.64
       ],
-      "note": "$86.34 — 정상 범위 상단"
+      "note": "$86.64 — 정상 범위 상단"
     },
     "gold": {
-      "value": 4575.7998,
-      "prev_day": 4489.3999,
-      "prev_week": 4363.6001,
-      "prev_month": 4071.1001,
-      "prev_year": 3343.3999,
+      "value": 4661.6001,
+      "prev_day": 4516.2998,
+      "prev_week": 4380.3999,
+      "prev_month": 4146.8999,
+      "prev_year": 3336.8999,
       "history": [
-        4245.7998,
         4242.0,
         4340.7002,
         4361.7998,
@@ -85,57 +84,72 @@
         4417.7998,
         4366.0,
         4489.3999,
-        4575.7998
+        4516.2998,
+        4661.6001
       ],
-      "note": "$4,576 — US10Y·DXY 하락 시 강세"
+      "note": "$4,662 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
-    {
-      "name": "S&P Global Services PMI Flash",
-      "actual": "미발표",
-      "forecast": "54",
-      "previous": "54.6",
-      "status": "upcoming"
-    },
-    {
-      "name": "S&P Global Manufacturing PMI Flash",
-      "actual": "미발표",
-      "forecast": "53.9",
-      "previous": "53.9",
-      "status": "upcoming"
-    },
-    {
-      "name": "S&P Global Composite PMI Flash",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "54.5",
-      "status": "upcoming"
-    },
     {
       "name": "Chicago Fed National Activity Index",
       "actual": "미발표",
       "forecast": "—",
       "previous": "-0.02",
       "status": "upcoming"
+    },
+    {
+      "name": "Fed Barkin Speech",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "—",
+      "status": "upcoming"
+    },
+    {
+      "name": "Richmond Fed Manufacturing Shipments Ind",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "8",
+      "status": "upcoming"
+    },
+    {
+      "name": "Richmond Fed Manufacturing Index",
+      "actual": "미발표",
+      "forecast": "7",
+      "previous": "5",
+      "status": "upcoming"
+    },
+    {
+      "name": "Richmond Fed Services Revenues Index",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "-3",
+      "status": "upcoming"
+    },
+    {
+      "name": "Fed Barkin Speech",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "—",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "US Stock Indices End Lower As Trump’s ‘Economic Warfare’ Threats Push Yields, Oi",
-      "body": "President Donald Trump, in a Truth Social post, threatened Iran with “economic warfare.”",
+      "title": "Morgan Stanley resets Nvidia stock forecast ahead of earnings",
+      "body": "Here’s what could be next for Nvidia stock.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "8-20-2026: Middle East Tensions, Treasury Buybacks + Crypto's Big Comeback",
-      "body": "Michael Reinking, Senior Market Strategist at the NYSE, recaps a week dominated by Treasury Secretary Bessent, whose doubled liquidity support buybacks reignited the debasement trade, sending gold bac",
+      "title": "US Stock Indices End Week Lower On Pressure From Elevated Long-Duration Treasury",
+      "body": "The U.S. 30-year Treasury yield climbed for the second straight week.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Stock Market Today: Dow Tumbles 700 Points But Miners Rise; Oil Stocks Catch Fir",
-      "body": "Stock Market Today: The Dow Jones index drops Thursday on Trump's \"Economic D-Day\" threat on Iran. Walmart dives on earnings.",
+      "title": "Why Is Tesla Stock Up Today?",
+      "body": "Tesla caught two breaks: Nevada regulators cleared it to put as many as 5,000 driverless robotaxis on Las Vegas streets, and its electric semi truck is headed to Germany.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
