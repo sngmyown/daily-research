@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-08-25 07:24 KST",
+  "updated_at": "2026-08-26 07:25 KST",
   "metrics": {
     "us10y": {
-      "value": 4.704,
-      "prev_day": 4.738,
-      "prev_week": 4.724,
-      "prev_month": 4.679,
+      "value": 4.639,
+      "prev_day": 4.704,
+      "prev_week": 4.706,
+      "prev_month": 4.641,
       "prev_year": 4.275,
       "history": [
-        4.66,
         4.699,
         4.684,
         4.682,
@@ -19,18 +18,18 @@
         4.653,
         4.696,
         4.738,
-        4.704
+        4.704,
+        4.639
       ],
-      "note": "4.70% — 금리 부담 구간"
+      "note": "4.64% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 98.984,
-      "prev_day": 98.8,
-      "prev_week": 99.64,
-      "prev_month": 101.47,
+      "value": 98.902,
+      "prev_day": 99.0,
+      "prev_week": 99.65,
+      "prev_month": 101.51,
       "prev_year": 98.43,
       "history": [
-        99.6,
         99.81,
         99.82,
         100.01,
@@ -41,18 +40,18 @@
         98.83,
         98.9,
         98.8,
-        98.984
+        99.0,
+        98.902
       ],
-      "note": "98.98 — 중립 구간"
+      "note": "98.90 — 중립 구간"
     },
     "wti": {
-      "value": 85.01,
-      "prev_day": 87.06,
-      "prev_week": 84.5,
-      "prev_month": 89.31,
+      "value": 81.2,
+      "prev_day": 85.01,
+      "prev_week": 84.94,
+      "prev_month": 82.61,
       "prev_year": 64.8,
       "history": [
-        78.18,
         82.13,
         83.2,
         83.27,
@@ -63,18 +62,18 @@
         85.83,
         87.83,
         87.06,
-        85.01
+        85.01,
+        81.2
       ],
-      "note": "$85.01 — 정상 범위 상단"
+      "note": "$81.20 — 적정 범위 (70~85)"
     },
     "gold": {
-      "value": 4715.7002,
-      "prev_day": 4624.1001,
-      "prev_week": 4417.7998,
-      "prev_month": 4067.6001,
+      "value": 4722.1001,
+      "prev_day": 4640.7998,
+      "prev_week": 4366.0,
+      "prev_month": 4074.5,
       "prev_year": 3373.8,
       "history": [
-        4340.7002,
         4361.7998,
         4383.0,
         4408.8999,
@@ -85,47 +84,13 @@
         4489.3999,
         4516.2998,
         4624.1001,
-        4715.7002
+        4640.7998,
+        4722.1001
       ],
-      "note": "$4,716 — US10Y·DXY 하락 시 강세"
+      "note": "$4,722 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
-    {
-      "name": "Fed Barkin Speech",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "—",
-      "status": "upcoming"
-    },
-    {
-      "name": "Richmond Fed Manufacturing Shipments Ind",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "8",
-      "status": "upcoming"
-    },
-    {
-      "name": "Richmond Fed Manufacturing Index",
-      "actual": "미발표",
-      "forecast": "7",
-      "previous": "5",
-      "status": "upcoming"
-    },
-    {
-      "name": "Richmond Fed Services Revenues Index",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "-3",
-      "status": "upcoming"
-    },
-    {
-      "name": "Fed Barkin Speech",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "—",
-      "status": "upcoming"
-    },
     {
       "name": "PCE Prices QoQ 2nd Est",
       "actual": "미발표",
@@ -146,24 +111,59 @@
       "forecast": "3.4",
       "previous": "4.4",
       "status": "upcoming"
+    },
+    {
+      "name": "Core PCE Price Index YoY",
+      "actual": "미발표",
+      "forecast": "3.3",
+      "previous": "3.3",
+      "status": "upcoming"
+    },
+    {
+      "name": "Durable Goods Orders ex Defense MoM",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "0.3",
+      "status": "upcoming"
+    },
+    {
+      "name": "PCE Price Index MoM",
+      "actual": "미발표",
+      "forecast": "0.1",
+      "previous": "-0.1",
+      "status": "upcoming"
+    },
+    {
+      "name": "PCE Price Index YoY",
+      "actual": "미발표",
+      "forecast": "3.6",
+      "previous": "3.7",
+      "status": "upcoming"
+    },
+    {
+      "name": "GDP Price Index QoQ 2nd Est",
+      "actual": "미발표",
+      "forecast": "6.3",
+      "previous": "3.6",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "RH (RH) Registers a Bigger Fall Than the Market: Important Facts to Note",
-      "body": "In the latest trading session, RH (RH) closed at $143.34, marking a -6.44% move from the previous day.",
+      "title": "Bill Gates owns $25 billion in blue-chip S&P 500 stock",
+      "body": "The largest holding in his portfolio also helps fund the Gates Foundation.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Here's Why AeroVironment (AVAV) Fell More Than Broader Market",
-      "body": "AeroVironment (AVAV) concluded the recent trading session at $148.2, signifying a -7.5% move from its prior day's close.",
+      "title": "These 3 International Dividend ETFs Pay Up to Three Times SCHD and Are Beating t",
+      "body": "SCHD is the default income benchmark, but three international dividend ETFs are quietly outpacing it on yield and, in some cases, total return too. The fund structures are radically different, and onl",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Here's Why ChargePoint Holdings, Inc. (CHPT) Fell More Than Broader Market",
-      "body": "ChargePoint Holdings, Inc. (CHPT) reached $5.92 at the closing of the latest trading day, reflecting a -5.28% change compared to its last close.",
+      "title": "KB Home (KBH) Outperforms Broader Market: What You Need to Know",
+      "body": "In the latest trading session, KB Home (KBH) closed at $57.11, marking a +2.64% move from the previous day.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
