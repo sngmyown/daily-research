@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-08-28 14:57 KST",
+  "updated_at": "2026-08-29 12:31 KST",
   "metrics": {
     "us10y": {
-      "value": 4.672,
-      "prev_day": 4.664,
-      "prev_week": 4.696,
-      "prev_month": 4.604,
-      "prev_year": 4.238,
+      "value": 4.72,
+      "prev_day": 4.672,
+      "prev_week": 4.738,
+      "prev_month": 4.622,
+      "prev_year": 4.207,
       "history": [
-        4.682,
         4.641,
         4.696,
         4.724,
@@ -19,12 +18,13 @@
         4.704,
         4.639,
         4.664,
-        4.672
+        4.672,
+        4.72
       ],
-      "note": "4.67% — 금리 부담 구간"
+      "note": "4.72% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 99.2,
+      "value": 99.677,
       "prev_day": 99.16,
       "prev_week": 98.8,
       "prev_month": 100.8,
@@ -41,12 +41,12 @@
         98.92,
         99.17,
         99.16,
-        99.2
+        99.677
       ],
-      "note": "99.20 — 중립 구간"
+      "note": "99.68 — 중립 구간"
     },
     "wti": {
-      "value": 83.22,
+      "value": 83.44,
       "prev_day": 83.53,
       "prev_week": 87.06,
       "prev_month": 84.46,
@@ -63,12 +63,12 @@
         82.36,
         82.23,
         83.53,
-        83.22
+        83.44
       ],
-      "note": "$83.22 — 적정 범위 (70~85)"
+      "note": "$83.44 — 적정 범위 (70~85)"
     },
     "gold": {
-      "value": 4626.8999,
+      "value": 4504.1001,
       "prev_day": 4609.7002,
       "prev_week": 4624.1001,
       "prev_month": 4034.7,
@@ -85,64 +85,85 @@
         4638.1001,
         4598.2002,
         4609.7002,
-        4626.8999
+        4504.1001
       ],
-      "note": "$4,627 — US10Y·DXY 하락 시 강세"
+      "note": "$4,504 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
-    {
-      "name": "Chicago PMI",
-      "actual": "미발표",
-      "forecast": "57",
-      "previous": "57.6",
-      "status": "upcoming"
-    },
-    {
-      "name": "Michigan Inflation Expectations Final",
-      "actual": "미발표",
-      "forecast": "4.3",
-      "previous": "4.2",
-      "status": "upcoming"
-    },
-    {
-      "name": "Michigan 5 Year Inflation Expectations F",
-      "actual": "미발표",
-      "forecast": "3.3",
-      "previous": "3.3",
-      "status": "upcoming"
-    },
-    {
-      "name": "Fed Chair Warsh Speech",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "—",
-      "status": "upcoming"
-    },
     {
       "name": "Dallas Fed Manufacturing Index",
       "actual": "미발표",
       "forecast": "—",
       "previous": "1.3",
       "status": "upcoming"
+    },
+    {
+      "name": "Fed Barr Speech",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "—",
+      "status": "upcoming"
+    },
+    {
+      "name": "S&P Global Manufacturing PMI Final",
+      "actual": "미발표",
+      "forecast": "53.2",
+      "previous": "53.9",
+      "status": "upcoming"
+    },
+    {
+      "name": "ISM Manufacturing New Orders",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "56.7",
+      "status": "upcoming"
+    },
+    {
+      "name": "RCM/TIPP Economic Optimism Index",
+      "actual": "미발표",
+      "forecast": "46.2",
+      "previous": "45.1",
+      "status": "upcoming"
+    },
+    {
+      "name": "ISM Manufacturing Prices",
+      "actual": "미발표",
+      "forecast": "72",
+      "previous": "71.1",
+      "status": "upcoming"
+    },
+    {
+      "name": "ISM Manufacturing Employment",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "52.8",
+      "status": "upcoming"
+    },
+    {
+      "name": "ISM Manufacturing PMI",
+      "actual": "미발표",
+      "forecast": "55.3",
+      "previous": "55.6",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Nervous About the Stock Market? This Is Warren Buffett's Best Advice.",
-      "body": "If you're feeling fearful, it might be time to get greedy.",
+      "title": "Newmont Corporation (NEM) Falls More Steeply Than Broader Market: What Investors",
+      "body": "Newmont Corporation (NEM) reached $127.98 at the closing of the latest trading day, reflecting a -3.26% change compared to its last close.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "The Data Is Clear: Investors Who Make This 1 Move During Bear Markets Always Com",
-      "body": "It's easier said than done, but investors who do it don't generally regret it.",
+      "title": "Wells Fargo (WFC) Gains As Market Dips: What You Should Know",
+      "body": "Wells Fargo (WFC) reached $86.68 at the closing of the latest trading day, reflecting a +2.01% change compared to its last close.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "AI Bubble Could Be Ready to Pop and Jim Cramer May Be the Warning Sign",
-      "body": "The rising values of artificial intelligence stocks and their outperformance compared to other S&P 500 stocks in 2026 has former hedge fund manager Whitney Tilson sending a bubble warning. Here’s why.",
+      "title": "Here's Why Intel (INTC) Fell More Than Broader Market",
+      "body": "Intel (INTC) concluded the recent trading session at $89.47, signifying a -2.85% move from its prior day's close.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
