@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-08-31 09:12 KST",
+  "updated_at": "2026-09-01 09:59 KST",
   "metrics": {
     "us10y": {
-      "value": 4.72,
-      "prev_day": 4.672,
-      "prev_week": 4.738,
-      "prev_month": 4.622,
-      "prev_year": 4.207,
+      "value": 4.758,
+      "prev_day": 4.72,
+      "prev_week": 4.704,
+      "prev_month": 4.745,
+      "prev_year": 4.227,
       "history": [
-        4.641,
         4.696,
         4.724,
         4.706,
@@ -19,16 +18,17 @@
         4.639,
         4.664,
         4.672,
-        4.72
+        4.72,
+        4.758
       ],
-      "note": "4.72% — 금리 부담 구간"
+      "note": "4.76% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 99.62,
+      "value": 99.393,
       "prev_day": 99.7,
-      "prev_week": 99.0,
-      "prev_month": 99.8,
-      "prev_year": 97.77,
+      "prev_week": 98.92,
+      "prev_month": 99.96,
+      "prev_year": 98.4,
       "history": [
         99.67,
         99.64,
@@ -41,16 +41,16 @@
         99.17,
         99.16,
         99.7,
-        99.62
+        99.393
       ],
-      "note": "99.62 — 중립 구간"
+      "note": "99.39 — 중립 구간"
     },
     "wti": {
-      "value": 84.64,
+      "value": 86.65,
       "prev_day": 83.4,
-      "prev_week": 85.01,
-      "prev_month": 84.67,
-      "prev_year": 64.01,
+      "prev_week": 82.36,
+      "prev_month": 80.34,
+      "prev_year": 65.59,
       "history": [
         82.4,
         84.5,
@@ -63,16 +63,16 @@
         82.23,
         83.53,
         83.4,
-        84.64
+        86.65
       ],
-      "note": "$84.64 — 적정 범위 (70~85)"
+      "note": "$86.65 — 정상 범위 상단"
     },
     "gold": {
-      "value": 4506.0,
+      "value": 4504.7998,
       "prev_day": 4478.1001,
-      "prev_week": 4640.7998,
-      "prev_month": 4049.1001,
-      "prev_year": 3473.7,
+      "prev_week": 4638.1001,
+      "prev_month": 4033.7,
+      "prev_year": 3549.3999,
       "history": [
         4380.3999,
         4417.7998,
@@ -85,19 +85,12 @@
         4598.2002,
         4609.7002,
         4478.1001,
-        4506.0
+        4504.7998
       ],
-      "note": "$4,506 — US10Y·DXY 하락 시 강세"
+      "note": "$4,505 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
-    {
-      "name": "Dallas Fed Manufacturing Index",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "1.3",
-      "status": "upcoming"
-    },
     {
       "name": "Fed Barr Speech",
       "actual": "미발표",
@@ -143,27 +136,34 @@
     {
       "name": "ISM Manufacturing PMI",
       "actual": "미발표",
-      "forecast": "55.3",
+      "forecast": "55.2",
       "previous": "55.6",
+      "status": "upcoming"
+    },
+    {
+      "name": "Dallas Fed Services Revenues Index",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "9.5",
       "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Jim Cramer reveals his 20% rule for winning stocks",
-      "body": "Investors may be waiting too long to lock in profits",
+      "title": "1 S&P 500 Stock with Exciting Potential and 2 We Ignore",
+      "body": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn’t mean every stock is worth owning. Some companies face significant challenges, whether it’s stagnating growth, h",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Stock Futures Drift Lower, Oil Rises Ahead of Jobs Data, Tech Earnings",
-      "body": "This week features earnings from Nvidia rival Broadcom plus reports from Dell and Hewlett Packard Enterprise.",
+      "title": "American Airlines (AAL) Registers a Bigger Fall Than the Market: Important Facts",
+      "body": "American Airlines (AAL) reached $13.43 at the closing of the latest trading day, reflecting a -1.54% change compared to its last close.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "S&P 500 Is Up 12% in 2026 But a 1907 Crash Signal Is Back",
-      "body": "The S&P 500 is up 12.65% in 2026, yet record options and margin debt echo the leverage that broke 1907. What happens next?",
+      "title": "Kinsale Capital Group, Inc. (KNSL) Declines More Than Market: Some Information f",
+      "body": "Kinsale Capital Group, Inc. (KNSL) concluded the recent trading session at $373.9, signifying a -1.76% move from its prior day's close.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
