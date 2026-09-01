@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-01 09:59 KST",
+  "updated_at": "2026-09-02 08:48 KST",
   "metrics": {
     "us10y": {
-      "value": 4.758,
-      "prev_day": 4.72,
-      "prev_week": 4.704,
-      "prev_month": 4.745,
-      "prev_year": 4.227,
+      "value": 4.796,
+      "prev_day": 4.758,
+      "prev_week": 4.639,
+      "prev_month": 4.686,
+      "prev_year": 4.277,
       "history": [
         4.696,
         4.724,
@@ -18,14 +18,14 @@
         4.639,
         4.664,
         4.672,
-        4.72,
-        4.758
+        4.758,
+        4.796
       ],
-      "note": "4.76% — 금리 부담 구간"
+      "note": "4.80% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 99.393,
-      "prev_day": 99.7,
+      "value": 99.665,
+      "prev_day": 99.43,
       "prev_week": 98.92,
       "prev_month": 99.96,
       "prev_year": 98.4,
@@ -40,19 +40,18 @@
         98.92,
         99.17,
         99.16,
-        99.7,
-        99.393
+        99.43,
+        99.665
       ],
-      "note": "99.39 — 중립 구간"
+      "note": "99.67 — 중립 구간"
     },
     "wti": {
-      "value": 86.65,
-      "prev_day": 83.4,
+      "value": 90.71,
+      "prev_day": 85.76,
       "prev_week": 82.36,
       "prev_month": 80.34,
       "prev_year": 65.59,
       "history": [
-        82.4,
         84.5,
         84.94,
         85.83,
@@ -63,18 +62,18 @@
         82.23,
         83.53,
         83.4,
-        86.65
+        85.76,
+        90.71
       ],
-      "note": "$86.65 — 정상 범위 상단"
+      "note": "$90.71 — 정상 범위 상단"
     },
     "gold": {
-      "value": 4504.7998,
-      "prev_day": 4478.1001,
+      "value": 4379.7002,
+      "prev_day": 4431.1001,
       "prev_week": 4638.1001,
       "prev_month": 4033.7,
       "prev_year": 3549.3999,
       "history": [
-        4380.3999,
         4417.7998,
         4366.0,
         4489.3999,
@@ -85,85 +84,86 @@
         4598.2002,
         4609.7002,
         4478.1001,
-        4504.7998
+        4431.1001,
+        4379.7002
       ],
-      "note": "$4,505 — US10Y·DXY 하락 시 강세"
+      "note": "$4,380 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
     {
-      "name": "Fed Barr Speech",
+      "name": "Fed Beige Book",
       "actual": "미발표",
       "forecast": "—",
       "previous": "—",
       "status": "upcoming"
     },
     {
-      "name": "S&P Global Manufacturing PMI Final",
+      "name": "Nonfarm Productivity QoQ Final",
       "actual": "미발표",
-      "forecast": "53.2",
-      "previous": "53.9",
+      "forecast": "1.4",
+      "previous": "0.8",
       "status": "upcoming"
     },
     {
-      "name": "ISM Manufacturing New Orders",
+      "name": "Continuing Jobless Claims",
       "actual": "미발표",
       "forecast": "—",
-      "previous": "56.7",
+      "previous": "1778",
       "status": "upcoming"
     },
     {
-      "name": "RCM/TIPP Economic Optimism Index",
-      "actual": "미발표",
-      "forecast": "46.2",
-      "previous": "45.1",
-      "status": "upcoming"
-    },
-    {
-      "name": "ISM Manufacturing Prices",
-      "actual": "미발표",
-      "forecast": "72",
-      "previous": "71.1",
-      "status": "upcoming"
-    },
-    {
-      "name": "ISM Manufacturing Employment",
+      "name": "Jobless Claims 4-week Average",
       "actual": "미발표",
       "forecast": "—",
-      "previous": "52.8",
+      "previous": "205.5",
       "status": "upcoming"
     },
     {
-      "name": "ISM Manufacturing PMI",
-      "actual": "미발표",
-      "forecast": "55.2",
-      "previous": "55.6",
-      "status": "upcoming"
-    },
-    {
-      "name": "Dallas Fed Services Revenues Index",
+      "name": "Fed Waller Speech",
       "actual": "미발표",
       "forecast": "—",
-      "previous": "9.5",
+      "previous": "—",
+      "status": "upcoming"
+    },
+    {
+      "name": "Initial Jobless Claims",
+      "actual": "미발표",
+      "forecast": "205",
+      "previous": "203",
+      "status": "upcoming"
+    },
+    {
+      "name": "S&P Global Services PMI Final",
+      "actual": "미발표",
+      "forecast": "56.8",
+      "previous": "54.6",
+      "status": "upcoming"
+    },
+    {
+      "name": "S&P Global Composite PMI Final",
+      "actual": "미발표",
+      "forecast": "56",
+      "previous": "54.5",
       "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "1 S&P 500 Stock with Exciting Potential and 2 We Ignore",
-      "body": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn’t mean every stock is worth owning. Some companies face significant challenges, whether it’s stagnating growth, h",
+      "title": "Whirlpool (WHR) Dips More Than Broader Market: What You Should Know",
+      "body": "Whirlpool (WHR) closed at $37.94 in the latest trading session, marking a -7.1% move from the prior day.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "American Airlines (AAL) Registers a Bigger Fall Than the Market: Important Facts",
-      "body": "American Airlines (AAL) reached $13.43 at the closing of the latest trading day, reflecting a -1.54% change compared to its last close.",
+      "title": "Here's Why RH (RH) Fell More Than Broader Market",
+      "body": "RH (RH) closed at $144.48 in the latest trading session, marking a -3.13% move from the prior day.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Kinsale Capital Group, Inc. (KNSL) Declines More Than Market: Some Information f",
-      "body": "Kinsale Capital Group, Inc. (KNSL) concluded the recent trading session at $373.9, signifying a -1.76% move from its prior day's close.",
+      "title": "Core & Main (CNM) Falls More Steeply Than Broader Market: What Investors Need to",
+      "body": "In the closing of the recent trading day, Core & Main (CNM) stood at $42.07, denoting a -2.07% move from the preceding trading day.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
