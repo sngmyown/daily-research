@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-09-03 08:52 KST",
+  "updated_at": "2026-09-04 08:47 KST",
   "metrics": {
     "us10y": {
-      "value": 4.796,
+      "value": 4.762,
       "prev_day": 4.796,
-      "prev_week": 4.664,
-      "prev_month": 4.686,
-      "prev_year": 4.277,
+      "prev_week": 4.672,
+      "prev_month": 4.627,
+      "prev_year": 4.211,
       "history": [
-        4.706,
         4.653,
         4.696,
         4.738,
@@ -19,18 +18,18 @@
         4.72,
         4.758,
         4.796,
-        4.796
+        4.796,
+        4.762
       ],
-      "note": "4.80% — 금리 부담 구간"
+      "note": "4.76% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 99.596,
-      "prev_day": 99.67,
-      "prev_week": 99.17,
-      "prev_month": 99.96,
-      "prev_year": 98.4,
+      "value": 99.029,
+      "prev_day": 99.56,
+      "prev_week": 99.16,
+      "prev_month": 99.89,
+      "prev_year": 98.14,
       "history": [
-        99.65,
         98.83,
         98.9,
         98.8,
@@ -41,18 +40,18 @@
         99.7,
         99.43,
         99.67,
-        99.596
+        99.56,
+        99.029
       ],
-      "note": "99.60 — 중립 구간"
+      "note": "99.03 — 중립 구간"
     },
     "wti": {
-      "value": 90.61,
-      "prev_day": 90.22,
-      "prev_week": 82.23,
-      "prev_month": 80.34,
-      "prev_year": 65.59,
+      "value": 91.88,
+      "prev_day": 91.01,
+      "prev_week": 83.53,
+      "prev_month": 75.77,
+      "prev_year": 63.97,
       "history": [
-        84.94,
         85.83,
         87.83,
         87.06,
@@ -63,18 +62,18 @@
         83.4,
         85.76,
         90.22,
-        90.61
+        91.01,
+        91.88
       ],
-      "note": "$90.61 — 정상 범위 상단"
+      "note": "$91.88 — 정상 범위 상단"
     },
     "gold": {
-      "value": 4429.2998,
-      "prev_day": 4348.0,
-      "prev_week": 4598.2002,
-      "prev_month": 4033.7,
-      "prev_year": 3549.3999,
+      "value": 4525.2002,
+      "prev_day": 4366.2998,
+      "prev_week": 4609.7002,
+      "prev_month": 4095.3999,
+      "prev_year": 3593.2,
       "history": [
-        4366.0,
         4489.3999,
         4516.2998,
         4624.1001,
@@ -85,85 +84,51 @@
         4478.1001,
         4431.1001,
         4348.0,
-        4429.2998
+        4366.2998,
+        4525.2002
       ],
-      "note": "$4,429 — US10Y·DXY 하락 시 강세"
+      "note": "$4,525 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
     {
-      "name": "Nonfarm Productivity QoQ Final",
+      "name": "Nonfarm Payrolls Private",
       "actual": "미발표",
-      "forecast": "1.4",
-      "previous": "0.8",
+      "forecast": "45",
+      "previous": "30",
       "status": "upcoming"
     },
     {
-      "name": "Continuing Jobless Claims",
+      "name": "U-6 Unemployment Rate",
       "actual": "미발표",
       "forecast": "—",
-      "previous": "1778",
+      "previous": "7.9",
       "status": "upcoming"
     },
     {
-      "name": "Jobless Claims 4-week Average",
+      "name": "Unemployment Rate",
       "actual": "미발표",
-      "forecast": "—",
-      "previous": "205.5",
-      "status": "upcoming"
-    },
-    {
-      "name": "Fed Waller Speech",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "—",
-      "status": "upcoming"
-    },
-    {
-      "name": "Initial Jobless Claims",
-      "actual": "미발표",
-      "forecast": "205",
-      "previous": "203",
-      "status": "upcoming"
-    },
-    {
-      "name": "S&P Global Services PMI Final",
-      "actual": "미발표",
-      "forecast": "56.8",
-      "previous": "54.6",
-      "status": "upcoming"
-    },
-    {
-      "name": "S&P Global Composite PMI Final",
-      "actual": "미발표",
-      "forecast": "56",
-      "previous": "54.5",
-      "status": "upcoming"
-    },
-    {
-      "name": "ISM Services Business Activity",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "59.1",
+      "forecast": "4.1",
+      "previous": "4.1",
       "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "1 Software Stock Worth Investigating and 2 We Avoid",
-      "body": "From commerce to culture, software is digitizing every aspect of our lives. The undeniable tailwinds fueling the industry have also led to strong returns for SaaS stocks lately as they’ve gained 47.6%",
+      "title": "S&P 500, Dow End Best Day In A Month On Calmer Yields As Rate Hike Bets Wane — S",
+      "body": "Federal Reserve Governor Christopher Waller advocated leaving rates unchanged, provided inflation showed signs of cooling off.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "American Tower (AMT) Stock Sinks As Market Gains: Here's Why",
-      "body": "American Tower (AMT) reached $172.92 at the closing of the latest trading day, reflecting a -1.76% change compared to its last close.",
+      "title": "Waste Management (WM) Exceeds Market Returns: Some Facts to Consider",
+      "body": "Waste Management (WM) concluded the recent trading session at $221.72, signifying a +1.22% move from its prior day's close.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Dow Inc. (DOW) Exceeds Market Returns: Some Facts to Consider",
-      "body": "Dow Inc. (DOW) closed at $31.28 in the latest trading session, marking a +2.69% move from the prior day.",
+      "title": "Valero Energy (VLO) Laps the Stock Market: Here's Why",
+      "body": "Valero Energy (VLO) reached $370.69 at the closing of the latest trading day, reflecting a +1.26% change compared to its last close.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
