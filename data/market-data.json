@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-09-11 08:44 KST",
+  "updated_at": "2026-09-12 08:52 KST",
   "metrics": {
     "us10y": {
-      "value": 4.944,
-      "prev_day": 4.837,
-      "prev_week": 4.762,
-      "prev_month": 4.684,
-      "prev_year": 4.032,
+      "value": 4.975,
+      "prev_day": 4.944,
+      "prev_week": 4.784,
+      "prev_month": 4.682,
+      "prev_year": 4.011,
       "history": [
-        4.639,
         4.664,
         4.672,
         4.72,
@@ -19,18 +18,18 @@
         4.784,
         4.806,
         4.837,
-        4.944
+        4.944,
+        4.975
       ],
-      "note": "4.94% — 금리 부담 구간"
+      "note": "4.97% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 99.09,
-      "prev_day": 98.77,
-      "prev_week": 99.0,
-      "prev_month": 99.82,
-      "prev_year": 97.78,
+      "value": 99.095,
+      "prev_day": 99.09,
+      "prev_week": 99.16,
+      "prev_month": 100.01,
+      "prev_year": 97.54,
       "history": [
-        98.92,
         99.17,
         99.16,
         99.7,
@@ -41,18 +40,18 @@
         99.16,
         98.84,
         98.77,
-        99.09
+        99.09,
+        99.095
       ],
       "note": "99.09 — 중립 구간"
     },
     "wti": {
-      "value": 103.78,
-      "prev_day": 96.05,
-      "prev_week": 91.3,
-      "prev_month": 83.2,
-      "prev_year": 63.67,
+      "value": 99.99,
+      "prev_day": 102.48,
+      "prev_week": 91.48,
+      "prev_month": 83.27,
+      "prev_year": 62.37,
       "history": [
-        82.36,
         82.23,
         83.53,
         83.4,
@@ -63,18 +62,18 @@
         91.48,
         93.03,
         96.05,
-        103.78
+        102.48,
+        99.99
       ],
-      "note": "$103.78 — 고유가 / 인플레 경계"
+      "note": "$99.99 — 정상 범위 상단"
     },
     "gold": {
-      "value": 4360.0,
-      "prev_day": 4416.0,
-      "prev_week": 4491.7002,
-      "prev_month": 4383.0,
-      "prev_year": 3643.6001,
+      "value": 4390.0,
+      "prev_day": 4364.5,
+      "prev_week": 4429.7998,
+      "prev_month": 4408.8999,
+      "prev_year": 3636.8999,
       "history": [
-        4638.1001,
         4598.2002,
         4609.7002,
         4478.1001,
@@ -85,9 +84,10 @@
         4429.7998,
         4393.8999,
         4416.0,
-        4360.0
+        4364.5,
+        4390.0
       ],
-      "note": "$4,360 — US10Y·DXY 하락 시 강세"
+      "note": "$4,390 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
@@ -150,20 +150,20 @@
   ],
   "key_news": [
     {
-      "title": "Dow Jones Futures: S&P 500 Breaks Support As Oil Prices, Yields Surge; Oracle Ju",
-      "body": "The S&P 500 undercut its 50-day as Treasury yields and oil prices surged. Oracle jumped late on earnings. The CPI inflation report could lock in expectations for a Fed rate hike next week.",
+      "title": "Dow Jones Futures: $100 Oil, Surging Yields Pressure Stocks With Fed Rate Hike S",
+      "body": "Dow Jones futures: Despite Friday's bounce, the stock market had a tough week amid $100 oil prices and surging Treasury yields. Apple, Moderna are buys.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "S&P 500, Dow, Nasdaq End Lower As Surging Oil Raises Odds For A September Rate H",
-      "body": "But futures were mixed, with S&P 500 futures marginally up, while Dow and Nasdaq futures slightly eased.",
+      "title": "S&P 500, Dow Break Past Four-Day Loss To End Higher As Investors Eye Fed Meeting",
+      "body": "The consumer price index rose 0.4% in August, month over month and 3.4% year over year.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Annaly Capital Management (NLY) Suffers a Larger Drop Than the General Market: K",
-      "body": "The latest trading day saw Annaly Capital Management (NLY) settling at $22, representing a -2.7% change from its previous close.",
+      "title": "1 S&P 500 Stock with Impressive Fundamentals and 2 We Ignore",
+      "body": "The S&P 500 (^GSPC) is home to the biggest and most well-known companies in the market, making it a go-to index for investors seeking stability. But not all large-cap stocks are created equal - some a",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
