@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13 08:45 KST",
+  "updated_at": "2026-09-14 08:53 KST",
   "metrics": {
     "us10y": {
       "value": 4.975,
@@ -24,13 +24,12 @@
       "note": "4.97% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 99.12,
-      "prev_day": 99.09,
+      "value": 99.14,
+      "prev_day": 99.12,
       "prev_week": 99.16,
-      "prev_month": 100.01,
-      "prev_year": 97.54,
+      "prev_month": 99.67,
+      "prev_year": 97.55,
       "history": [
-        99.17,
         99.16,
         99.7,
         99.43,
@@ -41,18 +40,18 @@
         98.84,
         98.77,
         99.09,
-        99.12
+        99.12,
+        99.14
       ],
-      "note": "99.12 — 중립 구간"
+      "note": "99.14 — 중립 구간"
     },
     "wti": {
-      "value": 100.05,
-      "prev_day": 102.48,
-      "prev_week": 91.48,
-      "prev_month": 83.27,
-      "prev_year": 62.37,
+      "value": 102.47,
+      "prev_day": 100.05,
+      "prev_week": 93.03,
+      "prev_month": 82.4,
+      "prev_year": 63.3,
       "history": [
-        82.23,
         83.53,
         83.4,
         85.76,
@@ -63,18 +62,18 @@
         93.03,
         96.05,
         102.48,
-        100.05
+        100.05,
+        102.47
       ],
-      "note": "$100.05 — 고유가 / 인플레 경계"
+      "note": "$102.47 — 고유가 / 인플레 경계"
     },
     "gold": {
-      "value": 4366.2002,
-      "prev_day": 4364.5,
-      "prev_week": 4429.7998,
-      "prev_month": 4408.8999,
-      "prev_year": 3636.8999,
+      "value": 4378.7002,
+      "prev_day": 4366.2002,
+      "prev_week": 4393.8999,
+      "prev_month": 4380.3999,
+      "prev_year": 3682.2,
       "history": [
-        4598.2002,
         4609.7002,
         4478.1001,
         4431.1001,
@@ -85,9 +84,10 @@
         4393.8999,
         4416.0,
         4364.5,
-        4366.2002
+        4366.2002,
+        4378.7002
       ],
-      "note": "$4,366 — US10Y·DXY 하락 시 강세"
+      "note": "$4,379 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
@@ -150,20 +150,20 @@
   ],
   "key_news": [
     {
-      "title": "Why stocks haven't tanked despite higher bond yields: Chart of the Day",
-      "body": "Rising long-dated bond yields haven't dented the stock market that much. The reason may have to do with why yields have been rising.",
+      "title": "Dow Jones Futures Fall, Techs Tumble As Anthropic Leads Call For AI Slowdown; Fe",
+      "body": "Anthropic's Dario Amodei, OpenAI's and SpaceX's Elon Musk say they want an AI slowdown. Will they? The Fed looms as well.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Is Ingersoll Rand Stock Underperforming the S&P 500?",
-      "body": "Ingersoll Rand has lagged the broader S&P 500 Index over the past year, although analysts remain cautiously optimistic about the company’s outlook.",
+      "title": "Berkshire Hathaway Stock Is Trailing the S&P 500 by About 10 Points This Year. H",
+      "body": "Nine times since 1990, the conglomerate has finished a year this far behind the market. Seven times, it beat the index the year after.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Dow Jones Futures: Fed Rate Hike Seen As Oil, Yields Pressure Stocks; Apple, Mod",
-      "body": "Despite Friday's bounce, stocks are struggling amid surging oil prices and yields, though Apple, Moderna are buys. The Fed meeting looms.",
+      "title": "Meet the Magnificent Momentum-Driven ETF Obliterating the S&P 500 in 2026",
+      "body": "This actively managed exchange-traded fund is producing spectacular returns for investors thanks to its unique strategy.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
