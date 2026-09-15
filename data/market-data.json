@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-09-14 08:53 KST",
+  "updated_at": "2026-09-15 09:18 KST",
   "metrics": {
     "us10y": {
-      "value": 4.975,
-      "prev_day": 4.944,
-      "prev_week": 4.784,
-      "prev_month": 4.682,
-      "prev_year": 4.011,
+      "value": 4.961,
+      "prev_day": 4.975,
+      "prev_week": 4.806,
+      "prev_month": 4.696,
+      "prev_year": 4.034,
       "history": [
-        4.664,
         4.672,
         4.72,
         4.758,
@@ -19,16 +18,17 @@
         4.806,
         4.837,
         4.944,
-        4.975
+        4.975,
+        4.961
       ],
-      "note": "4.97% — 금리 부담 구간"
+      "note": "4.96% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 99.14,
+      "value": 99.501,
       "prev_day": 99.12,
-      "prev_week": 99.16,
-      "prev_month": 99.67,
-      "prev_year": 97.55,
+      "prev_week": 98.84,
+      "prev_month": 99.64,
+      "prev_year": 97.3,
       "history": [
         99.16,
         99.7,
@@ -41,15 +41,15 @@
         98.77,
         99.09,
         99.12,
-        99.14
+        99.501
       ],
-      "note": "99.14 — 중립 구간"
+      "note": "99.50 — 중립 구간"
     },
     "wti": {
-      "value": 102.47,
+      "value": 102.1,
       "prev_day": 100.05,
       "prev_week": 93.03,
-      "prev_month": 82.4,
+      "prev_month": 84.5,
       "prev_year": 63.3,
       "history": [
         83.53,
@@ -63,15 +63,15 @@
         96.05,
         102.48,
         100.05,
-        102.47
+        102.1
       ],
-      "note": "$102.47 — 고유가 / 인플레 경계"
+      "note": "$102.10 — 고유가 / 인플레 경계"
     },
     "gold": {
-      "value": 4378.7002,
-      "prev_day": 4366.2002,
+      "value": 4327.7998,
+      "prev_day": 4408.8999,
       "prev_week": 4393.8999,
-      "prev_month": 4380.3999,
+      "prev_month": 4417.7998,
       "prev_year": 3682.2,
       "history": [
         4609.7002,
@@ -84,18 +84,18 @@
         4393.8999,
         4416.0,
         4364.5,
-        4366.2002,
-        4378.7002
+        4408.8999,
+        4327.7998
       ],
-      "note": "$4,379 — US10Y·DXY 하락 시 강세"
+      "note": "$4,328 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
     {
-      "name": "NY Fed Services Activity Index",
+      "name": "Retail Sales Ex Gas/Autos MoM",
       "actual": "미발표",
       "forecast": "—",
-      "previous": "0.5",
+      "previous": "-0.2",
       "status": "upcoming"
     },
     {
@@ -106,24 +106,24 @@
       "status": "upcoming"
     },
     {
-      "name": "Retail Sales Ex Gas/Autos MoM",
+      "name": "NY Fed Services Activity Index",
       "actual": "미발표",
       "forecast": "—",
-      "previous": "-0.2",
-      "status": "upcoming"
-    },
-    {
-      "name": "Retail Sales Control Group MoM",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "-0.4",
+      "previous": "0.5",
       "status": "upcoming"
     },
     {
       "name": "Retail Sales Ex Autos MoM",
       "actual": "미발표",
-      "forecast": "0.5",
+      "forecast": "0.6",
       "previous": "-0.3",
+      "status": "upcoming"
+    },
+    {
+      "name": "Retail Sales Control Group MoM",
+      "actual": "미발표",
+      "forecast": "0.4",
+      "previous": "-0.4",
       "status": "upcoming"
     },
     {
@@ -141,29 +141,29 @@
       "status": "upcoming"
     },
     {
-      "name": "Interest Rate Projection - Current",
+      "name": "Interest Rate Projection - 1st Yr",
       "actual": "미발표",
       "forecast": "—",
-      "previous": "3.8",
+      "previous": "3.6",
       "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Dow Jones Futures Fall, Techs Tumble As Anthropic Leads Call For AI Slowdown; Fe",
-      "body": "Anthropic's Dario Amodei, OpenAI's and SpaceX's Elon Musk say they want an AI slowdown. Will they? The Fed looms as well.",
+      "title": "Tech stocks slump after AI execs call for industry slowdown",
+      "body": "The tech-heavy Nasdaq slumped 147 points on Monday after AI company executives called for a slowdown in developing the technology.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Berkshire Hathaway Stock Is Trailing the S&P 500 by About 10 Points This Year. H",
-      "body": "Nine times since 1990, the conglomerate has finished a year this far behind the market. Seven times, it beat the index the year after.",
+      "title": "The 3 Best Dividend ETFs to Build Lasting Retirement Income in 2027",
+      "body": "With Treasury yields now competitive enough to make most dividend ETFs look questionable, three funds still make a compelling case for equity income in retirement, but each one demands a completely di",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Meet the Magnificent Momentum-Driven ETF Obliterating the S&P 500 in 2026",
-      "body": "This actively managed exchange-traded fund is producing spectacular returns for investors thanks to its unique strategy.",
+      "title": "Why the Market Dipped But Astrazeneca (AZN) Gained Today",
+      "body": "In the latest trading session, Astrazeneca (AZN) closed at $163.78, marking a +2.25% move from the previous day.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
