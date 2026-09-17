@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-09-16 08:58 KST",
+  "updated_at": "2026-09-17 09:06 KST",
   "metrics": {
     "us10y": {
-      "value": 4.996,
-      "prev_day": 4.961,
-      "prev_week": 4.806,
+      "value": 5.006,
+      "prev_day": 4.996,
+      "prev_week": 4.837,
       "prev_month": 4.724,
-      "prev_year": 4.034,
+      "prev_year": 4.026,
       "history": [
-        4.72,
         4.758,
         4.796,
         4.796,
@@ -19,18 +18,18 @@
         4.944,
         4.975,
         4.961,
-        4.996
+        4.996,
+        5.006
       ],
-      "note": "5.00% — 금리 부담 구간"
+      "note": "5.01% — 고금리 / Gold 불리"
     },
     "dxy": {
-      "value": 99.684,
-      "prev_day": 99.46,
-      "prev_week": 98.84,
+      "value": 100.261,
+      "prev_day": 99.65,
+      "prev_week": 98.77,
       "prev_month": 99.64,
-      "prev_year": 97.3,
+      "prev_year": 96.63,
       "history": [
-        99.7,
         99.43,
         99.67,
         99.56,
@@ -41,18 +40,18 @@
         99.09,
         99.12,
         99.46,
-        99.684
+        99.65,
+        100.261
       ],
-      "note": "99.68 — 중립 구간"
+      "note": "100.26 — 달러 강세 구간"
     },
     "wti": {
-      "value": 105.33,
-      "prev_day": 101.39,
-      "prev_week": 93.03,
+      "value": 101.71,
+      "prev_day": 105.83,
+      "prev_week": 96.05,
       "prev_month": 84.5,
-      "prev_year": 63.3,
+      "prev_year": 64.52,
       "history": [
-        83.4,
         85.76,
         90.22,
         91.01,
@@ -63,18 +62,18 @@
         102.48,
         100.05,
         101.39,
-        105.33
+        105.83,
+        101.71
       ],
-      "note": "$105.33 — 고유가 / 인플레 경계"
+      "note": "$101.71 — 고유가 / 인플레 경계"
     },
     "gold": {
-      "value": 4326.7998,
-      "prev_day": 4351.8999,
-      "prev_week": 4439.0,
+      "value": 4310.6001,
+      "prev_day": 4332.7998,
+      "prev_week": 4460.7002,
       "prev_month": 4473.7002,
-      "prev_year": 3719.0,
+      "prev_year": 3725.1001,
       "history": [
-        4529.8999,
         4481.5,
         4396.3999,
         4414.6001,
@@ -85,85 +84,86 @@
         4407.2998,
         4408.8999,
         4351.8999,
-        4326.7998
+        4332.7998,
+        4310.6001
       ],
-      "note": "$4,327 — US10Y·DXY 하락 시 강세"
+      "note": "$4,311 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
     {
-      "name": "Retail Sales YoY",
+      "name": "Philly Fed Prices Paid",
       "actual": "미발표",
       "forecast": "—",
-      "previous": "5",
+      "previous": "40.9",
       "status": "upcoming"
     },
     {
-      "name": "Retail Sales Ex Gas/Autos MoM",
+      "name": "Continuing Jobless Claims",
+      "actual": "미발표",
+      "forecast": "1780",
+      "previous": "1774",
+      "status": "upcoming"
+    },
+    {
+      "name": "Jobless Claims 4-week Average",
       "actual": "미발표",
       "forecast": "—",
-      "previous": "-0.2",
+      "previous": "206",
       "status": "upcoming"
     },
     {
-      "name": "NY Fed Services Activity Index",
+      "name": "Philly Fed New Orders",
       "actual": "미발표",
       "forecast": "—",
-      "previous": "0.5",
+      "previous": "30.1",
       "status": "upcoming"
     },
     {
-      "name": "Retail Sales Ex Autos MoM",
-      "actual": "미발표",
-      "forecast": "0.5",
-      "previous": "-0.3",
-      "status": "upcoming"
-    },
-    {
-      "name": "Retail Sales Control Group MoM",
-      "actual": "미발표",
-      "forecast": "0.4",
-      "previous": "-0.4",
-      "status": "upcoming"
-    },
-    {
-      "name": "Retail Sales MoM",
-      "actual": "미발표",
-      "forecast": "0.8",
-      "previous": "-0.6",
-      "status": "upcoming"
-    },
-    {
-      "name": "NAHB Housing Market Index",
-      "actual": "미발표",
-      "forecast": "34",
-      "previous": "35",
-      "status": "upcoming"
-    },
-    {
-      "name": "Interest Rate Projection - 1st Yr",
+      "name": "Philly Fed Employment",
       "actual": "미발표",
       "forecast": "—",
-      "previous": "3.6",
+      "previous": "27.9",
+      "status": "upcoming"
+    },
+    {
+      "name": "Philly Fed CAPEX Index",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "48.2",
+      "status": "upcoming"
+    },
+    {
+      "name": "Philly Fed Business Conditions",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "73.6",
+      "status": "upcoming"
+    },
+    {
+      "name": "Initial Jobless Claims",
+      "actual": "미발표",
+      "forecast": "208",
+      "previous": "206",
       "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "T. Rowe Price (TROW) Suffers a Larger Drop Than the General Market: Key Insights",
-      "body": "T. Rowe Price (TROW) concluded the recent trading session at $104.23, signifying a -1.48% move from its prior day's close.",
+      "title": "Why GE Vernova Stock Crushed it on Wednesday",
+      "body": "There was notable progress in a Texas power plant project that the company will supply.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "VirTra, Inc. (VTSI) Falls More Steeply Than Broader Market: What Investors Need ",
-      "body": "VirTra, Inc. (VTSI) closed at $2.9 in the latest trading session, marking a -1.02% move from the prior day.",
+      "title": "Dow Jones Futures Rise After Hawkish Fed, Warsh Hit Stocks, Trump Fumes; AMD, Bl",
+      "body": "The S&P 500 fell on the Fed rate hike and hawkish Warsh comments, But AMD, Bloom Energy flirted with buy signals.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Rithm (RITM) Dips More Than Broader Market: What You Should Know",
-      "body": "Rithm (RITM) closed at $9.57 in the latest trading session, marking a -2.05% move from the prior day.",
+      "title": "S&P 500, Nasdaq, Dow Futures Inch Higher As Investors Digest First Rate Hike Sin",
+      "body": "The U.S. Fed hiked rates by 25 basis points to 3.75%-4%.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
