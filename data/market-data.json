@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19 08:53 KST",
+  "updated_at": "2026-09-20 08:54 KST",
   "metrics": {
     "us10y": {
       "value": 4.998,
@@ -24,7 +24,7 @@
       "note": "5.00% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 100.215,
+      "value": 100.22,
       "prev_day": 100.22,
       "prev_week": 99.12,
       "prev_month": 98.83,
@@ -41,12 +41,12 @@
         99.65,
         100.31,
         100.22,
-        100.215
+        100.22
       ],
       "note": "100.22 — 달러 강세 구간"
     },
     "wti": {
-      "value": 95.47,
+      "value": 100.3,
       "prev_day": 101.91,
       "prev_week": 100.05,
       "prev_month": 85.83,
@@ -63,12 +63,12 @@
         105.83,
         102.43,
         101.91,
-        95.47
+        100.3
       ],
-      "note": "$95.47 — 정상 범위 상단"
+      "note": "$100.30 — 고유가 / 인플레 경계"
     },
     "gold": {
-      "value": 4415.8999,
+      "value": 4424.8999,
       "prev_day": 4399.7002,
       "prev_week": 4408.8999,
       "prev_month": 4545.2998,
@@ -85,9 +85,9 @@
         4332.7998,
         4387.5,
         4399.7002,
-        4415.8999
+        4424.8999
       ],
-      "note": "$4,416 — US10Y·DXY 하락 시 강세"
+      "note": "$4,425 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
@@ -150,20 +150,20 @@
   ],
   "key_news": [
     {
-      "title": "Dow Drops To Record Worst Week In Six Months Amid Elevated Yields, Oil — NVDA, T",
-      "body": "An interest rate hike amid soaring energy costs and rising inflation concerns has weighed on the Dow.",
+      "title": "Unpacking the Stock Market's Coiled Spring Set Up",
+      "body": "Surging corporate earnings, a robust GDP, and widespread pessimism are the perfect cocktail for an explosive upside move in equities.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Dow Jones Futures: Market Still Choppy; Robinhood, Sandisk, AMD, Moderna Surge I",
+      "title": "The S&P 500 Yields Just 1.1% While 10-Year Treasury Yields Have Surged to 5%. Th",
+      "body": "Coca-Cola may be a Goldilocks investment in a high-bond-yield/low-equity-yield world.",
+      "tag": "market",
+      "impact": "뉴스 원문을 확인하세요."
+    },
+    {
+      "title": "Dow Jones Futures: Can The Market Rally Take Flight? Robinhood, Sandisk, AMD, Mo",
       "body": "The stock market showed choppy, mixed weekly action. But Robinhood, Sandisk, AMD and Moderna rallied into buy areas.",
-      "tag": "market",
-      "impact": "뉴스 원문을 확인하세요."
-    },
-    {
-      "title": "PagSeguro Digital Ltd. (PAGS) Stock Falls Amid Market Uptick: What Investors Nee",
-      "body": "The latest trading day saw PagSeguro Digital Ltd. (PAGS) settling at $9.26, representing a -3.14% change from its previous close.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
