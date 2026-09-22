@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-09-21 08:51 KST",
+  "updated_at": "2026-09-22 09:36 KST",
   "metrics": {
     "us10y": {
-      "value": 4.998,
-      "prev_day": 4.947,
-      "prev_week": 4.975,
-      "prev_month": 4.653,
-      "prev_year": 4.104,
+      "value": 4.963,
+      "prev_day": 4.998,
+      "prev_week": 4.961,
+      "prev_month": 4.738,
+      "prev_year": 4.143,
       "history": [
-        4.796,
         4.762,
         4.784,
         4.806,
@@ -19,16 +18,17 @@
         4.996,
         5.006,
         4.947,
-        4.998
+        4.998,
+        4.963
       ],
-      "note": "5.00% — 금리 부담 구간"
+      "note": "4.96% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 100.277,
+      "value": 100.388,
       "prev_day": 100.22,
-      "prev_week": 99.46,
-      "prev_month": 98.8,
-      "prev_year": 97.64,
+      "prev_week": 99.65,
+      "prev_month": 99.0,
+      "prev_year": 97.33,
       "history": [
         99.0,
         99.16,
@@ -41,15 +41,15 @@
         100.31,
         100.22,
         100.22,
-        100.277
+        100.388
       ],
-      "note": "100.28 — 달러 강세 구간"
+      "note": "100.39 — 달러 강세 구간"
     },
     "wti": {
-      "value": 96.01,
+      "value": 92.5,
       "prev_day": 100.3,
-      "prev_week": 101.39,
-      "prev_month": 87.06,
+      "prev_week": 105.83,
+      "prev_month": 85.01,
       "prev_year": 62.64,
       "history": [
         91.3,
@@ -63,15 +63,15 @@
         102.43,
         101.91,
         100.3,
-        96.01
+        92.5
       ],
-      "note": "$96.01 — 정상 범위 상단"
+      "note": "$92.50 — 정상 범위 상단"
     },
     "gold": {
-      "value": 4412.5,
+      "value": 4396.7998,
       "prev_day": 4424.8999,
-      "prev_week": 4351.8999,
-      "prev_month": 4680.6001,
+      "prev_week": 4332.7998,
+      "prev_month": 4697.7998,
       "prev_year": 3775.1001,
       "history": [
         4539.8999,
@@ -85,26 +85,12 @@
         4387.5,
         4399.7002,
         4424.8999,
-        4412.5
+        4396.7998
       ],
-      "note": "$4,412 — US10Y·DXY 하락 시 강세"
+      "note": "$4,397 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
-    {
-      "name": "Fed Goolsbee Speech",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "—",
-      "status": "upcoming"
-    },
-    {
-      "name": "Chicago Fed National Activity Index",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "-0.08",
-      "status": "upcoming"
-    },
     {
       "name": "Richmond Fed Manufacturing Shipments Ind",
       "actual": "미발표",
@@ -146,24 +132,38 @@
       "forecast": "—",
       "previous": "—",
       "status": "upcoming"
+    },
+    {
+      "name": "S&P Global Composite PMI Flash",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "56",
+      "status": "upcoming"
+    },
+    {
+      "name": "S&P Global Services PMI Flash",
+      "actual": "미발표",
+      "forecast": "56",
+      "previous": "56.5",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "'This could be something more substantial': Wall Street braces for more Fed rate",
-      "body": "Investors have priced in more than a 50% chance of another rate hike in October after the Federal Reserve voted unanimously last week to increase rates.",
+      "title": "Trump, Xi Meet on S&P 500's Best Day Since Early August: Will Markets Stay Bulli",
+      "body": "Trump and Xi meet in Washington as the S&P 500 posts its best day since Aug. 4, driven by a rally in AI stocks.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Mod",
-      "body": "The stock market showed choppy, mixed weekly action. But Robinhood, Sandisk, AMD and Moderna rallied into buy areas.",
+      "title": "Here Are Morgan Stanley's New Top Stock Picks For The Next 12-Months",
+      "body": "Morgan Stanley unveils 2027 'Vintage Values' roster after 2026 roster outperforms S&P 500.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Jefferies stays bullish on S&P 500, sees 9,000 by end-2027",
-      "body": "Investing.com -- Jefferies expects the S&P 500 to extend its gains through the end of 2026 and into next year, arguing that stronger-than-expected corporate earnings and continued artificial intellige",
+      "title": "Jim Cramer drops another stock market warning",
+      "body": "The “Mad Money” host sees a decades-old pattern returning under new leadership.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
