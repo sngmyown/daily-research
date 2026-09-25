@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-09-24 09:14 KST",
+  "updated_at": "2026-09-25 09:17 KST",
   "metrics": {
     "us10y": {
-      "value": 5.114,
-      "prev_day": 4.963,
-      "prev_week": 5.006,
-      "prev_month": 4.704,
-      "prev_year": 4.12,
+      "value": 5.162,
+      "prev_day": 5.114,
+      "prev_week": 4.947,
+      "prev_month": 4.639,
+      "prev_year": 4.147,
       "history": [
-        4.784,
         4.806,
         4.837,
         4.944,
@@ -19,18 +18,18 @@
         4.947,
         4.998,
         4.963,
-        5.114
+        5.114,
+        5.162
       ],
-      "note": "5.11% — 고금리 / Gold 불리"
+      "note": "5.16% — 고금리 / Gold 불리"
     },
     "dxy": {
-      "value": 101.11,
-      "prev_day": 100.43,
+      "value": 101.286,
+      "prev_day": 101.1,
       "prev_week": 100.22,
-      "prev_month": 98.92,
-      "prev_year": 97.87,
+      "prev_month": 99.17,
+      "prev_year": 98.55,
       "history": [
-        99.16,
         98.84,
         98.77,
         99.09,
@@ -41,18 +40,18 @@
         100.22,
         100.22,
         100.43,
-        101.11
+        101.1,
+        101.286
       ],
-      "note": "101.11 — 달러 강세 구간"
+      "note": "101.29 — 달러 강세 구간"
     },
     "wti": {
-      "value": 92.0,
-      "prev_day": 94.59,
-      "prev_week": 101.91,
-      "prev_month": 82.36,
-      "prev_year": 64.99,
+      "value": 93.94,
+      "prev_day": 92.16,
+      "prev_week": 100.3,
+      "prev_month": 82.23,
+      "prev_year": 64.98,
       "history": [
-        93.03,
         96.05,
         102.48,
         100.05,
@@ -63,18 +62,18 @@
         100.3,
         95.78,
         94.59,
-        92.0
+        92.16,
+        93.94
       ],
-      "note": "$92.00 — 정상 범위 상단"
+      "note": "$93.94 — 정상 범위 상단"
     },
     "gold": {
-      "value": 4325.8999,
-      "prev_day": 4376.3999,
-      "prev_week": 4399.7002,
-      "prev_month": 4694.5,
-      "prev_year": 3768.1001,
+      "value": 4302.5,
+      "prev_day": 4318.3999,
+      "prev_week": 4424.8999,
+      "prev_month": 4653.2998,
+      "prev_year": 3771.1001,
       "history": [
-        4439.0,
         4460.7002,
         4407.2998,
         4408.8999,
@@ -85,9 +84,10 @@
         4424.8999,
         4383.8999,
         4376.3999,
-        4325.8999
+        4318.3999,
+        4302.5
       ],
-      "note": "$4,326 — US10Y·DXY 하락 시 강세"
+      "note": "$4,302 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
@@ -99,31 +99,45 @@
       "status": "upcoming"
     },
     {
-      "name": "Fed Barkin Speech",
+      "name": "Durable Goods Orders ex Defense MoM",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "1.3",
+      "status": "upcoming"
+    },
+    {
+      "name": "Durable Goods Orders Ex Transp MoM",
+      "actual": "미발표",
+      "forecast": "0.6",
+      "previous": "0.4",
+      "status": "upcoming"
+    },
+    {
+      "name": "Durable Goods Orders MoM",
+      "actual": "미발표",
+      "forecast": "-0.4",
+      "previous": "1.1",
+      "status": "upcoming"
+    },
+    {
+      "name": "Fed Schmid Speech",
       "actual": "미발표",
       "forecast": "—",
       "previous": "—",
       "status": "upcoming"
     },
     {
-      "name": "Jobless Claims 4-week Average",
+      "name": "Michigan Inflation Expectations Final",
       "actual": "미발표",
-      "forecast": "—",
-      "previous": "203.25",
+      "forecast": "4.6",
+      "previous": "4",
       "status": "upcoming"
     },
     {
-      "name": "Continuing Jobless Claims",
+      "name": "Michigan 5 Year Inflation Expectations F",
       "actual": "미발표",
-      "forecast": "1750",
-      "previous": "1730",
-      "status": "upcoming"
-    },
-    {
-      "name": "Initial Jobless Claims",
-      "actual": "미발표",
-      "forecast": "201",
-      "previous": "196",
+      "forecast": "3.4",
+      "previous": "3.3",
       "status": "upcoming"
     },
     {
@@ -132,38 +146,24 @@
       "forecast": "—",
       "previous": "—",
       "status": "upcoming"
-    },
-    {
-      "name": "NY Fed Bill Purchases 4 to 12 months",
-      "actual": "미발표",
-      "forecast": "1.946",
-      "previous": "—",
-      "status": "upcoming"
-    },
-    {
-      "name": "Fed Paulson Speech",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "—",
-      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "3 Reasons to Sell WMS and 1 Stock to Buy Instead",
-      "body": "Over the past six months, Advanced Drainage’s stock price fell to $130.85. Shareholders have lost 5.1% of their capital, which is disappointing considering the S&P 500 has climbed by 18%. This might h",
+      "title": "S&P 500, Dow, Nasdaq Futures Ease As Treasury Yields Continue To Spike — ORCL, M",
+      "body": "Treasury yields resumed their march higher amid inflation concerns.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Ball (BALL): Buy, Sell, or Hold Post Q2 Earnings?",
-      "body": "Since March 2026, Ball has been in a holding pattern, posting a small return of 2.9% while floating around $59.97. The stock also fell short of the S&P 500’s 18% gain during that period.",
+      "title": "Why Welltower Stock Topped the Market on Thursday",
+      "body": "An analyst upgraded his recommendation on the specialty REIT.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Here's Why AngloGold Ashanti (AU) Fell More Than Broader Market",
-      "body": "AngloGold Ashanti (AU) closed the most recent trading day at $98.74, moving 5.6% from the previous trading session.",
+      "title": "S&P 500's Recent Flat Close Hides a Brutal Split Underneath",
+      "body": "The S&P 500 closed nearly unchanged, but under the surface, breadth collapsed as yields surged and Oracle flagged AI-buildout strain.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
