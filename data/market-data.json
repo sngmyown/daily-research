@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27 09:15 KST",
+  "updated_at": "2026-09-28 09:18 KST",
   "metrics": {
     "us10y": {
       "value": 5.184,
@@ -46,13 +46,12 @@
       "note": "100.97 — 달러 강세 구간"
     },
     "wti": {
-      "value": 92.41,
-      "prev_day": 94.61,
-      "prev_week": 100.3,
-      "prev_month": 82.23,
-      "prev_year": 64.98,
+      "value": 93.31,
+      "prev_day": 92.41,
+      "prev_week": 95.78,
+      "prev_month": 83.4,
+      "prev_year": 63.45,
       "history": [
-        102.48,
         100.05,
         101.39,
         105.83,
@@ -63,18 +62,18 @@
         94.59,
         92.16,
         94.61,
-        92.41
+        92.41,
+        93.31
       ],
-      "note": "$92.41 — 정상 범위 상단"
+      "note": "$93.31 — 정상 범위 상단"
     },
     "gold": {
-      "value": 4321.2002,
-      "prev_day": 4298.0,
-      "prev_week": 4424.8999,
-      "prev_month": 4653.2998,
-      "prev_year": 3771.1001,
+      "value": 4292.8999,
+      "prev_day": 4321.2002,
+      "prev_week": 4383.8999,
+      "prev_month": 4529.8999,
+      "prev_year": 3855.2,
       "history": [
-        4407.2998,
         4408.8999,
         4351.8999,
         4332.7998,
@@ -85,9 +84,10 @@
         4376.3999,
         4318.3999,
         4298.0,
-        4321.2002
+        4321.2002,
+        4292.8999
       ],
-      "note": "$4,321 — US10Y·DXY 하락 시 강세"
+      "note": "$4,293 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
@@ -150,20 +150,20 @@
   ],
   "key_news": [
     {
-      "title": "I'd Put $10,000 Into These 3 Vanguard Funds and Not Touch It for 20 Years",
-      "body": "The market, its dividend payers, and its largest growth stocks -- for about $3 a year in combined fees.",
+      "title": "Dow Jones Futures Fall, Oil Prices Rise Amid Trump Iran Comments; Micron, SpaceX",
+      "body": "Futures fell and oil prices rose with President Trump making hawkish and dovish Iran comments. Micron, SpaceX and Tesla are near buy points with news due.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Prediction: Here's What a $10,000 Investment in Costco (COST) Stock Could Be Wor",
-      "body": "Costco's shares have risen at an average annual rate of nearly 18% over the past 15 years. We can't assume that will continue -- but it might.",
+      "title": "Thinking about buying stocks instead of a home as mortgage rates top 7%? The S&P",
+      "body": "\"Buying a home also bundles two very important, but very different, decisions: where to live, and how to invest a large chunk of your life savings.\"",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Why Is PepsiCo's Stock Down 10% While the S&P 500 Is Up 13% in 2026? Here's the ",
-      "body": "PepsiCo is muddling through a rough patch, but it is severely lagging this key competitor.",
+      "title": "Should You Really Invest in the Stock Market Right Now? History Offers a Clear A",
+      "body": "Should you buy at the high? The answer might surprise you.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
