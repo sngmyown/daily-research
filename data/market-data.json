@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-10-01 10:04 KST",
+  "updated_at": "2026-10-02 10:17 KST",
   "metrics": {
     "us10y": {
-      "value": 5.293,
-      "prev_day": 5.255,
-      "prev_week": 5.114,
-      "prev_month": 4.758,
-      "prev_year": 4.148,
+      "value": 5.237,
+      "prev_day": 5.293,
+      "prev_week": 5.162,
+      "prev_month": 4.796,
+      "prev_year": 4.106,
       "history": [
-        4.996,
         5.006,
         4.947,
         4.998,
@@ -19,18 +18,18 @@
         5.184,
         5.24,
         5.255,
-        5.293
+        5.293,
+        5.237
       ],
-      "note": "5.29% — 고금리 / Gold 불리"
+      "note": "5.24% — 고금리 / Gold 불리"
     },
     "dxy": {
-      "value": 101.48,
-      "prev_day": 101.37,
-      "prev_week": 101.29,
-      "prev_month": 99.67,
-      "prev_year": 97.71,
+      "value": 102.102,
+      "prev_day": 101.45,
+      "prev_week": 100.97,
+      "prev_month": 99.56,
+      "prev_year": 97.85,
       "history": [
-        99.65,
         100.31,
         100.22,
         100.22,
@@ -41,19 +40,18 @@
         100.97,
         101.2,
         101.37,
-        101.48
+        101.45,
+        102.102
       ],
-      "note": "101.48 — 달러 강세 구간"
+      "note": "102.10 — 달러 강세 구간"
     },
     "wti": {
-      "value": 90.55,
-      "prev_day": 89.38,
-      "prev_week": 94.61,
-      "prev_month": 90.22,
-      "prev_year": 61.78,
+      "value": 92.88,
+      "prev_day": 92.87,
+      "prev_week": 92.41,
+      "prev_month": 91.01,
+      "prev_year": 60.48,
       "history": [
-        105.83,
-        102.43,
         101.91,
         100.3,
         95.78,
@@ -63,19 +61,19 @@
         92.41,
         92.6,
         89.38,
-        90.55
+        90.42,
+        92.87,
+        92.88
       ],
-      "note": "$90.55 — 정상 범위 상단"
+      "note": "$92.88 — 정상 범위 상단"
     },
     "gold": {
-      "value": 4171.5,
-      "prev_day": 4179.7002,
-      "prev_week": 4298.0,
-      "prev_month": 4396.3999,
-      "prev_year": 3897.5,
+      "value": 4173.8999,
+      "prev_day": 4202.2998,
+      "prev_week": 4321.2002,
+      "prev_month": 4414.6001,
+      "prev_year": 3868.1001,
       "history": [
-        4332.7998,
-        4387.5,
         4399.7002,
         4424.8999,
         4383.8999,
@@ -85,85 +83,87 @@
         4321.2002,
         4168.3999,
         4179.7002,
-        4171.5
+        4186.7002,
+        4202.2998,
+        4173.8999
       ],
-      "note": "$4,172 — US10Y·DXY 하락 시 강세"
+      "note": "$4,174 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
     {
-      "name": "Jobless Claims 4-week Average",
+      "name": "Nonfarm Payrolls Private",
+      "actual": "미발표",
+      "forecast": "85",
+      "previous": "127",
+      "status": "upcoming"
+    },
+    {
+      "name": "U-6 Unemployment Rate",
       "actual": "미발표",
       "forecast": "—",
-      "previous": "202.25",
+      "previous": "7.7",
       "status": "upcoming"
     },
     {
-      "name": "Continuing Jobless Claims",
+      "name": "Unemployment Rate",
       "actual": "미발표",
-      "forecast": "1730",
-      "previous": "1719",
+      "forecast": "4.1",
+      "previous": "4.1",
       "status": "upcoming"
     },
     {
-      "name": "Initial Jobless Claims",
-      "actual": "미발표",
-      "forecast": "200",
-      "previous": "197",
-      "status": "upcoming"
-    },
-    {
-      "name": "Fed Schmid Speech",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "—",
-      "status": "upcoming"
-    },
-    {
-      "name": "Fed Collins Speech",
+      "name": "Fed Logan Speech",
       "actual": "미발표",
       "forecast": "—",
       "previous": "—",
       "status": "upcoming"
     },
     {
-      "name": "Fed Barkin Speech",
+      "name": "NY Fed Bill Purchases 4 to 12 months",
       "actual": "미발표",
-      "forecast": "—",
+      "forecast": "1.946",
       "previous": "—",
       "status": "upcoming"
     },
     {
-      "name": "S&P Global Manufacturing PMI Final",
+      "name": "S&P Global Composite PMI Final",
       "actual": "미발표",
-      "forecast": "57",
-      "previous": "53.9",
+      "forecast": "58.4",
+      "previous": "56",
       "status": "upcoming"
     },
     {
-      "name": "ISM Manufacturing New Orders",
+      "name": "S&P Global Services PMI Final",
+      "actual": "미발표",
+      "forecast": "58.7",
+      "previous": "56.5",
+      "status": "upcoming"
+    },
+    {
+      "name": "ISM Services Business Activity",
       "actual": "미발표",
       "forecast": "—",
-      "previous": "53.7",
+      "previous": "61.7",
       "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "'AI or bust:' Tech trade powered stocks through volatile September",
-      "body": "Wall Street fared better than expected in September, given the month's historical reputation as the worst month for stocks.",
+      "title": "Why Did SanDisk Stock Jump?",
+      "body": "SanDisk (SNDK) stock jumped 11.0% on Friday, September 18, 2026, its last trading day before joining the S&P 100. By the September 30 close of $1,739.89, the shares were about 3% below their September",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "S&P 500, Dow End Lower As Investors Shrug Off Cooler-Than-Expected Inflation Dat",
-      "body": "Dow ended the month lower, its first monthly decline since March this year.",
+      "title": "5 Energy ETFs That Have Soared in 2026",
+      "body": "Freight, gasoline, crude oil and broad-energy ETFs have delivered triple- and even four-digit gains in 2026 as the Iran war has driven energy and shipping prices sharply higher.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Trip.com (TCOM) Ascends While Market Falls: Some Facts to Note",
-      "body": "Trip.com (TCOM) closed at $39.1 in the latest trading session, marking a +1.19% move from the prior day.",
+      "title": "Why Thomson Reuters Stock Topped the Market on Thursday",
+      "body": "It's leaving the past behind, and investors cheered the move.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
