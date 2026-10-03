@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-10-02 10:17 KST",
+  "updated_at": "2026-10-03 09:56 KST",
   "metrics": {
     "us10y": {
-      "value": 5.237,
-      "prev_day": 5.293,
-      "prev_week": 5.162,
+      "value": 5.277,
+      "prev_day": 5.237,
+      "prev_week": 5.184,
       "prev_month": 4.796,
-      "prev_year": 4.106,
+      "prev_year": 4.088,
       "history": [
-        5.006,
         4.947,
         4.998,
         4.963,
@@ -19,18 +18,18 @@
         5.24,
         5.255,
         5.293,
-        5.237
+        5.237,
+        5.277
       ],
-      "note": "5.24% — 고금리 / Gold 불리"
+      "note": "5.28% — 고금리 / Gold 불리"
     },
     "dxy": {
-      "value": 102.102,
-      "prev_day": 101.45,
+      "value": 101.924,
+      "prev_day": 102.1,
       "prev_week": 100.97,
       "prev_month": 99.56,
       "prev_year": 97.85,
       "history": [
-        100.31,
         100.22,
         100.22,
         100.43,
@@ -41,12 +40,13 @@
         101.2,
         101.37,
         101.45,
-        102.102
+        102.1,
+        101.924
       ],
-      "note": "102.10 — 달러 강세 구간"
+      "note": "101.92 — 달러 강세 구간"
     },
     "wti": {
-      "value": 92.88,
+      "value": 91.26,
       "prev_day": 92.87,
       "prev_week": 92.41,
       "prev_month": 91.01,
@@ -63,12 +63,12 @@
         89.38,
         90.42,
         92.87,
-        92.88
+        91.26
       ],
-      "note": "$92.88 — 정상 범위 상단"
+      "note": "$91.26 — 정상 범위 상단"
     },
     "gold": {
-      "value": 4173.8999,
+      "value": 4172.1001,
       "prev_day": 4202.2998,
       "prev_week": 4321.2002,
       "prev_month": 4414.6001,
@@ -85,40 +85,12 @@
         4179.7002,
         4186.7002,
         4202.2998,
-        4173.8999
+        4172.1001
       ],
-      "note": "$4,174 — US10Y·DXY 하락 시 강세"
+      "note": "$4,172 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
-    {
-      "name": "Nonfarm Payrolls Private",
-      "actual": "미발표",
-      "forecast": "85",
-      "previous": "127",
-      "status": "upcoming"
-    },
-    {
-      "name": "U-6 Unemployment Rate",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "7.7",
-      "status": "upcoming"
-    },
-    {
-      "name": "Unemployment Rate",
-      "actual": "미발표",
-      "forecast": "4.1",
-      "previous": "4.1",
-      "status": "upcoming"
-    },
-    {
-      "name": "Fed Logan Speech",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "—",
-      "status": "upcoming"
-    },
     {
       "name": "NY Fed Bill Purchases 4 to 12 months",
       "actual": "미발표",
@@ -146,24 +118,52 @@
       "forecast": "—",
       "previous": "61.7",
       "status": "upcoming"
+    },
+    {
+      "name": "ISM Services Prices",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "72.6",
+      "status": "upcoming"
+    },
+    {
+      "name": "ISM Services Employment",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "47.8",
+      "status": "upcoming"
+    },
+    {
+      "name": "ISM Services New Orders",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "60.9",
+      "status": "upcoming"
+    },
+    {
+      "name": "ISM Services PMI",
+      "actual": "미발표",
+      "forecast": "55.7",
+      "previous": "55.4",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Why Did SanDisk Stock Jump?",
-      "body": "SanDisk (SNDK) stock jumped 11.0% on Friday, September 18, 2026, its last trading day before joining the S&P 100. By the September 30 close of $1,739.89, the shares were about 3% below their September",
+      "title": "U.S. economy adds just 29,000 jobs in September",
+      "body": "ZipRecruiter labor economist Nicole Bachaud reacts to the numbers.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "5 Energy ETFs That Have Soared in 2026",
-      "body": "Freight, gasoline, crude oil and broad-energy ETFs have delivered triple- and even four-digit gains in 2026 as the Iran war has driven energy and shipping prices sharply higher.",
+      "title": "S&P 500, Nasdaq, Dow End Week Higher As Weak Jobs Report Cools Rate Hike Bets — ",
+      "body": "The U.S. economy added 29,000 jobs last month, with unemployment rising to 4.2%, lower than what economists expected.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Why Thomson Reuters Stock Topped the Market on Thursday",
-      "body": "It's leaving the past behind, and investors cheered the move.",
+      "title": "Why Equinix (EQIX) Outpaced the Stock Market Today",
+      "body": "The latest trading day saw Equinix (EQIX) settling at $1, representing a +1.32% change from its previous close.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
