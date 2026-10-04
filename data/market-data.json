@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03 09:56 KST",
+  "updated_at": "2026-10-04 09:21 KST",
   "metrics": {
     "us10y": {
       "value": 5.277,
@@ -24,7 +24,7 @@
       "note": "5.28% — 고금리 / Gold 불리"
     },
     "dxy": {
-      "value": 101.924,
+      "value": 101.93,
       "prev_day": 102.1,
       "prev_week": 100.97,
       "prev_month": 99.56,
@@ -41,12 +41,12 @@
         101.37,
         101.45,
         102.1,
-        101.924
+        101.93
       ],
-      "note": "101.92 — 달러 강세 구간"
+      "note": "101.93 — 달러 강세 구간"
     },
     "wti": {
-      "value": 91.26,
+      "value": 91.11,
       "prev_day": 92.87,
       "prev_week": 92.41,
       "prev_month": 91.01,
@@ -63,12 +63,12 @@
         89.38,
         90.42,
         92.87,
-        91.26
+        91.11
       ],
-      "note": "$91.26 — 정상 범위 상단"
+      "note": "$91.11 — 정상 범위 상단"
     },
     "gold": {
-      "value": 4172.1001,
+      "value": 4162.2998,
       "prev_day": 4202.2998,
       "prev_week": 4321.2002,
       "prev_month": 4414.6001,
@@ -85,9 +85,9 @@
         4179.7002,
         4186.7002,
         4202.2998,
-        4172.1001
+        4162.2998
       ],
-      "note": "$4,172 — US10Y·DXY 하락 시 강세"
+      "note": "$4,162 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
@@ -150,20 +150,20 @@
   ],
   "key_news": [
     {
-      "title": "U.S. economy adds just 29,000 jobs in September",
-      "body": "ZipRecruiter labor economist Nicole Bachaud reacts to the numbers.",
+      "title": "History Says Coca-Cola Stock Holds Up When the S&P 500 Falls",
+      "body": "The drinks giant beat the index in seven of the market's eight losing years since 1980. But is this record worth around 26 times earnings?",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "S&P 500, Nasdaq, Dow End Week Higher As Weak Jobs Report Cools Rate Hike Bets — ",
-      "body": "The U.S. economy added 29,000 jobs last month, with unemployment rising to 4.2%, lower than what economists expected.",
+      "title": "Better Small-Cap ETF: State Street SPSM vs. JPMorgan BBSC",
+      "body": "SPSM costs one-third as much to own and yields more, but BBSC's 851 holdings offer broader diversification and stronger recent performance.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Why Equinix (EQIX) Outpaced the Stock Market Today",
-      "body": "The latest trading day saw Equinix (EQIX) settling at $1, representing a +1.32% change from its previous close.",
+      "title": "Dow Jones Futures: Nasdaq Hits High As Nvidia, SpaceX, Bloom Energy Flash Buy Si",
+      "body": "The Nasdaq is at highs with Nvidia, SpaceX, Bloom Energy in buy areas. But much of the market remains weak. Here's what to do.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
