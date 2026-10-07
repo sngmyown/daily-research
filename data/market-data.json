@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-10-06 11:03 KST",
+  "updated_at": "2026-10-07 10:12 KST",
   "metrics": {
     "us10y": {
-      "value": 5.311,
-      "prev_day": 5.277,
-      "prev_week": 5.24,
+      "value": 5.269,
+      "prev_day": 5.311,
+      "prev_week": 5.255,
       "prev_month": 4.784,
       "prev_year": 4.162,
       "history": [
-        4.998,
         4.963,
         4.968,
         5.114,
@@ -19,18 +18,18 @@
         5.293,
         5.237,
         5.277,
-        5.311
+        5.311,
+        5.269
       ],
-      "note": "5.31% — 고금리 / Gold 불리"
+      "note": "5.27% — 고금리 / Gold 불리"
     },
     "dxy": {
-      "value": 102.123,
-      "prev_day": 102.17,
-      "prev_week": 101.37,
-      "prev_month": 99.16,
-      "prev_year": 98.11,
+      "value": 101.969,
+      "prev_day": 101.83,
+      "prev_week": 101.45,
+      "prev_month": 98.84,
+      "prev_year": 98.58,
       "history": [
-        100.43,
         100.6,
         101.1,
         101.29,
@@ -41,16 +40,17 @@
         102.1,
         101.93,
         102.17,
-        102.123
+        101.83,
+        101.969
       ],
-      "note": "102.12 — 달러 강세 구간"
+      "note": "101.97 — 달러 강세 구간"
     },
     "wti": {
-      "value": 89.59,
+      "value": 90.3,
       "prev_day": 89.43,
-      "prev_week": 89.38,
-      "prev_month": 91.48,
-      "prev_year": 61.69,
+      "prev_week": 90.42,
+      "prev_month": 93.03,
+      "prev_year": 61.73,
       "history": [
         95.78,
         94.59,
@@ -63,16 +63,16 @@
         92.87,
         91.11,
         89.43,
-        89.59
+        90.3
       ],
-      "note": "$89.59 — 정상 범위 상단"
+      "note": "$90.30 — 정상 범위 상단"
     },
     "gold": {
-      "value": 4157.1001,
+      "value": 4180.7002,
       "prev_day": 4156.7998,
-      "prev_week": 4179.7002,
-      "prev_month": 4476.6001,
-      "prev_year": 3976.3,
+      "prev_week": 4186.7002,
+      "prev_month": 4439.0,
+      "prev_year": 4004.3999,
       "history": [
         4383.8999,
         4376.3999,
@@ -85,40 +85,12 @@
         4202.2998,
         4162.2998,
         4156.7998,
-        4157.1001
+        4180.7002
       ],
-      "note": "$4,157 — US10Y·DXY 하락 시 강세"
+      "note": "$4,181 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
-    {
-      "name": "Fed Williams Speech",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "—",
-      "status": "upcoming"
-    },
-    {
-      "name": "RCM/TIPP Economic Optimism Index",
-      "actual": "미발표",
-      "forecast": "44.5",
-      "previous": "45.6",
-      "status": "upcoming"
-    },
-    {
-      "name": "Fed Bowman Speech",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "—",
-      "status": "upcoming"
-    },
-    {
-      "name": "Fed Logan Speech",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "—",
-      "status": "upcoming"
-    },
     {
       "name": "Consumer Inflation Expectations",
       "actual": "미발표",
@@ -146,24 +118,52 @@
       "forecast": "—",
       "previous": "200",
       "status": "upcoming"
+    },
+    {
+      "name": "Initial Jobless Claims",
+      "actual": "미발표",
+      "forecast": "200",
+      "previous": "197",
+      "status": "upcoming"
+    },
+    {
+      "name": "NY Fed Bill Purchases 1 to 4 months",
+      "actual": "미발표",
+      "forecast": "3.891",
+      "previous": "—",
+      "status": "upcoming"
+    },
+    {
+      "name": "Atlanta Fed GDPNow",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "3.7",
+      "status": "upcoming"
+    },
+    {
+      "name": "Fed Musalem Speech",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "—",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Nasdaq 100 Hits Record Highs As Investors Shrug Off Pressure From Soaring Yields",
-      "body": "The ISM report showed that the Purchasing Managers' Index for services came in at 54.9% in September, roughly in line with expectations.",
+      "title": "Dow Jones Futures: S&P 500 Hits High As Astera, GE Vernova, Arista Lead Buys, Bu",
+      "body": "The S&P 500 hit a high as the stock market extended a win streak. Astera Labs, GE Vernova and Arista Networks led AI stock buys.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "S&P 500 Closes In on Record High as Tech Rallies",
-      "body": "A rally in giant technology companies drove stocks higher in the Monday session, overshadowing concerns about still-elevated oil prices and bond yields. The S&P 500 rose to a striking distance of a re",
+      "title": "U.S. stock futures steady after tech rally lifts S&P 500, Nasdaq to records",
+      "body": "Investing.com-- U.S. stock futures were little changed on Tuesday evening after the S&P 500 and Nasdaq hit record closing highs, as investors turned their attention to Federal Reserve meeting minutes ",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "L.B. Foster (FSTR): Buy, Sell, or Hold Post Q2 Earnings?",
-      "body": "Since October 2021, the S&P 500 has delivered a total return of 76.4%. But one standout stock has nearly doubled the market - over the past five years, L.B. Foster has surged 138% to $37.33 per share.",
+      "title": "Curtiss-Wright, Tecnoglass, AAON, Primoris, and Albany Shares Are Soaring, What ",
+      "body": "A number of stocks jumped in the morning session after surging capital spending for artificial intelligence infrastructure and defense bolstered demand across power systems, data center construction, ",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
