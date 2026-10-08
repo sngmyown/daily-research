@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-10-07 10:12 KST",
+  "updated_at": "2026-10-08 10:34 KST",
   "metrics": {
     "us10y": {
-      "value": 5.269,
-      "prev_day": 5.311,
-      "prev_week": 5.255,
-      "prev_month": 4.784,
-      "prev_year": 4.162,
+      "value": 5.277,
+      "prev_day": 5.269,
+      "prev_week": 5.293,
+      "prev_month": 4.806,
+      "prev_year": 4.127,
       "history": [
-        4.963,
         4.968,
         5.114,
         5.162,
@@ -19,16 +18,17 @@
         5.237,
         5.277,
         5.311,
-        5.269
+        5.269,
+        5.277
       ],
-      "note": "5.27% — 고금리 / Gold 불리"
+      "note": "5.28% — 고금리 / Gold 불리"
     },
     "dxy": {
-      "value": 101.969,
+      "value": 102.233,
       "prev_day": 101.83,
-      "prev_week": 101.45,
+      "prev_week": 102.1,
       "prev_month": 98.84,
-      "prev_year": 98.58,
+      "prev_year": 98.85,
       "history": [
         100.6,
         101.1,
@@ -41,18 +41,17 @@
         101.93,
         102.17,
         101.83,
-        101.969
+        102.233
       ],
-      "note": "101.97 — 달러 강세 구간"
+      "note": "102.23 — 달러 강세 구간"
     },
     "wti": {
-      "value": 90.3,
-      "prev_day": 89.43,
-      "prev_week": 90.42,
+      "value": 89.51,
+      "prev_day": 89.44,
+      "prev_week": 92.87,
       "prev_month": 93.03,
-      "prev_year": 61.73,
+      "prev_year": 62.55,
       "history": [
-        95.78,
         94.59,
         92.16,
         94.61,
@@ -63,18 +62,18 @@
         92.87,
         91.11,
         89.43,
-        90.3
+        89.44,
+        89.51
       ],
-      "note": "$90.30 — 정상 범위 상단"
+      "note": "$89.51 — 정상 범위 상단"
     },
     "gold": {
-      "value": 4180.7002,
-      "prev_day": 4156.7998,
-      "prev_week": 4186.7002,
+      "value": 4145.5,
+      "prev_day": 4187.1001,
+      "prev_week": 4202.2998,
       "prev_month": 4439.0,
-      "prev_year": 4004.3999,
+      "prev_year": 4070.5,
       "history": [
-        4383.8999,
         4376.3999,
         4318.3999,
         4298.0,
@@ -85,21 +84,15 @@
         4202.2998,
         4162.2998,
         4156.7998,
-        4180.7002
+        4187.1001,
+        4145.5
       ],
-      "note": "$4,181 — US10Y·DXY 하락 시 강세"
+      "note": "$4,146 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
     {
-      "name": "Consumer Inflation Expectations",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "3.6",
-      "status": "upcoming"
-    },
-    {
-      "name": "FOMC Minutes",
+      "name": "Fed Waller Speech",
       "actual": "미발표",
       "forecast": "—",
       "previous": "—",
@@ -136,7 +129,7 @@
     {
       "name": "Atlanta Fed GDPNow",
       "actual": "미발표",
-      "forecast": "—",
+      "forecast": "3.7",
       "previous": "3.7",
       "status": "upcoming"
     },
@@ -146,24 +139,31 @@
       "forecast": "—",
       "previous": "—",
       "status": "upcoming"
+    },
+    {
+      "name": "Reserve Balances with Fed Banks",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "2.882",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Dow Jones Futures: S&P 500 Hits High As Astera, GE Vernova, Arista Lead Buys, Bu",
-      "body": "The S&P 500 hit a high as the stock market extended a win streak. Astera Labs, GE Vernova and Arista Networks led AI stock buys.",
+      "title": "2 High-Yield Stocks to Buy in October (Hint: Bristol Myers Squibb Is One)",
+      "body": "If you are looking for yield and can think long-term, you'll want to consider Bristol Myers Squibb and Realty Income today.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "U.S. stock futures steady after tech rally lifts S&P 500, Nasdaq to records",
-      "body": "Investing.com-- U.S. stock futures were little changed on Tuesday evening after the S&P 500 and Nasdaq hit record closing highs, as investors turned their attention to Federal Reserve meeting minutes ",
+      "title": "S&P 500 And Nasdaq 100 Slip From Record Highs Amid Pressure From Soaring Treasur",
+      "body": "The 30-year bond yield hit its highest level since May 2002 at 5.732%.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Curtiss-Wright, Tecnoglass, AAON, Primoris, and Albany Shares Are Soaring, What ",
-      "body": "A number of stocks jumped in the morning session after surging capital spending for artificial intelligence infrastructure and defense bolstered demand across power systems, data center construction, ",
+      "title": "The S&P 500 Just Reached a New Record. Here’s What History Says About Buying Sto",
+      "body": "The benchmark closed above 7,800 for the first time.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
