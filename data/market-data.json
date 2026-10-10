@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-10-09 10:44 KST",
+  "updated_at": "2026-10-10 10:31 KST",
   "metrics": {
     "us10y": {
-      "value": 5.231,
-      "prev_day": 5.277,
-      "prev_week": 5.237,
-      "prev_month": 4.806,
-      "prev_year": 4.129,
+      "value": 5.244,
+      "prev_day": 5.231,
+      "prev_week": 5.277,
+      "prev_month": 4.837,
+      "prev_year": 4.148,
       "history": [
-        5.114,
         5.162,
         5.184,
         5.24,
@@ -19,12 +18,13 @@
         5.311,
         5.269,
         5.277,
-        5.231
+        5.231,
+        5.244
       ],
-      "note": "5.23% — 고금리 / Gold 불리"
+      "note": "5.24% — 고금리 / Gold 불리"
     },
     "dxy": {
-      "value": 101.995,
+      "value": 102.231,
       "prev_day": 102.14,
       "prev_week": 101.93,
       "prev_month": 98.77,
@@ -41,18 +41,17 @@
         101.83,
         102.24,
         102.14,
-        101.995
+        102.231
       ],
-      "note": "102.00 — 달러 강세 구간"
+      "note": "102.23 — 달러 강세 구간"
     },
     "wti": {
-      "value": 90.99,
-      "prev_day": 88.28,
+      "value": 91.66,
+      "prev_day": 91.49,
       "prev_week": 91.11,
       "prev_month": 96.05,
       "prev_year": 61.51,
       "history": [
-        92.16,
         94.61,
         92.41,
         92.6,
@@ -63,18 +62,18 @@
         89.43,
         89.44,
         88.28,
-        90.99
+        91.49,
+        91.66
       ],
-      "note": "$90.99 — 정상 범위 상단"
+      "note": "$91.66 — 정상 범위 상단"
     },
     "gold": {
-      "value": 4193.2002,
-      "prev_day": 4140.7002,
+      "value": 4220.2998,
+      "prev_day": 4157.0,
       "prev_week": 4162.2998,
       "prev_month": 4460.7002,
       "prev_year": 3972.6001,
       "history": [
-        4318.3999,
         4298.0,
         4321.2002,
         4168.3999,
@@ -85,24 +84,39 @@
         4156.7998,
         4187.1001,
         4140.7002,
-        4193.2002
+        4157.0,
+        4220.2998
       ],
-      "note": "$4,193 — US10Y·DXY 하락 시 강세"
+      "note": "$4,220 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
     {
-      "name": "Michigan 5 Year Inflation Expectations P",
+      "name": "Fed Hammack Speech",
       "actual": "미발표",
       "forecast": "—",
-      "previous": "3.4",
+      "previous": "—",
       "status": "upcoming"
     },
     {
-      "name": "Michigan Inflation Expectations Prel",
+      "name": "Fed Waller Speech",
       "actual": "미발표",
       "forecast": "—",
-      "previous": "4.6",
+      "previous": "—",
+      "status": "upcoming"
+    },
+    {
+      "name": "NFIB Business Optimism Index",
+      "actual": "미발표",
+      "forecast": "98",
+      "previous": "98.7",
+      "status": "upcoming"
+    },
+    {
+      "name": "Fed Barkin Speech",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "—",
       "status": "upcoming"
     },
     {
@@ -115,20 +129,20 @@
   ],
   "key_news": [
     {
-      "title": "U.S. stock futures steady after Nasdaq slides on OpenAI revenue concerns",
-      "body": "Investing.com-- U.S. stock futures were little changed Thursday night after Wall Street fell for a second straight session, as concerns over OpenAI's revenue outlook weighed on artificial intelligence",
+      "title": "JFrog, Bandwidth, Qualys, Asure Software, and DigitalOcean Stocks Trade Up, What",
+      "body": "A number of stocks jumped in the morning session after technology equities rebounded from a sharp sell-off sparked by concerns over artificial intelligence revenue expansion.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Prediction: This Will Happen to Intel Stock in 2027",
-      "body": "Intel stock has rallied as the market has re-evaluated its growing foundry capabilities. Now, it will have to deliver.",
+      "title": "C3.ai, Dynatrace, Amplitude, and Oracle Shares Skyrocket, What You Need To Know",
+      "body": "A number of stocks jumped in the morning session after technology equities rebounded from a sharp sell-off sparked by concerns over artificial intelligence revenue expansion.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "History Says Every S&P 500 Bull Market That Reached Its 4th Birthday Kept Going",
-      "body": "The current run turns 4 on Monday. Should index fund buyers worry about its age?",
+      "title": "Review & Preview: Panic Retracted",
+      "body": "After a brief AI-related selloff, stocks were back in rally mode on Friday.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
