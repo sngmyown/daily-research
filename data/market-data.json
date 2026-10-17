@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17 09:09 KST",
+  "updated_at": "2026-10-18 08:45 KST",
   "metrics": {
     "us10y": {
       "value": 5.098,
@@ -24,7 +24,7 @@
       "note": "5.10% — 고금리 / Gold 불리"
     },
     "dxy": {
-      "value": 101.779,
+      "value": 101.84,
       "prev_day": 102.0,
       "prev_week": 102.21,
       "prev_month": 100.31,
@@ -41,12 +41,12 @@
         102.18,
         102.55,
         102.0,
-        101.779
+        101.84
       ],
-      "note": "101.78 — 달러 강세 구간"
+      "note": "101.84 — 달러 강세 구간"
     },
     "wti": {
-      "value": 99.04,
+      "value": 101.41,
       "prev_day": 97.97,
       "prev_week": 91.85,
       "prev_month": 102.43,
@@ -63,12 +63,12 @@
         94.14,
         95.09,
         97.97,
-        99.04
+        101.41
       ],
-      "note": "$99.04 — 정상 범위 상단"
+      "note": "$101.41 — 고유가 / 인플레 경계"
     },
     "gold": {
-      "value": 4186.7002,
+      "value": 4181.1001,
       "prev_day": 4170.1001,
       "prev_week": 4216.2998,
       "prev_month": 4387.5,
@@ -85,9 +85,9 @@
         4177.2998,
         4107.8999,
         4170.1001,
-        4186.7002
+        4181.1001
       ],
-      "note": "$4,187 — US10Y·DXY 하락 시 강세"
+      "note": "$4,181 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
@@ -122,20 +122,20 @@
   ],
   "key_news": [
     {
-      "title": "Equinix (EQIX) Stock Moves -1.03%: What You Should Know",
-      "body": "In the most recent trading session, Equinix (EQIX) closed at $985.98, indicating a -1.03% shift from the previous trading day.",
+      "title": "Wall Street's record breakouts unravel as investors dump recent winners: Chart o",
+      "body": "The S&P 500's record breakout has reversed, yet most of its stocks still finished the week higher.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Ralph Lauren (RL) Falls More Steeply Than Broader Market: What Investors Need to",
-      "body": "The latest trading day saw Ralph Lauren (RL) settling at $384.94, representing a -1.57% change from its previous close.",
+      "title": "If a Stock Market Crash Is Coming, These 5 Stocks Have a History of Holding Up",
+      "body": "If you're worried about another crash coming (and you should, since it could come at any time), these five stocks are excellent protective picks.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Why Doximity (DOCS) Dipped More Than Broader Market Today",
-      "body": "Doximity (DOCS) closed the most recent trading day at $30.71, moving 2.51% from the previous trading session.",
+      "title": "Dow Jones Futures: What To Do After S&P 500, Nasdaq Break Support; Will Meta Ear",
+      "body": "The S&P 500, Nasdaq and leading stocks broke key support. Can Meta, Tesla, SpaceX earnings and capex revive the AI sector?",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
