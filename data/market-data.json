@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-10-19 08:55 KST",
+  "updated_at": "2026-10-20 09:54 KST",
   "metrics": {
     "us10y": {
-      "value": 5.098,
-      "prev_day": 5.089,
-      "prev_week": 5.244,
-      "prev_month": 5.006,
-      "prev_year": 3.976,
+      "value": 5.136,
+      "prev_day": 5.098,
+      "prev_week": 5.24,
+      "prev_month": 4.998,
+      "prev_year": 3.986,
       "history": [
-        5.237,
         5.277,
         5.311,
         5.269,
@@ -19,16 +18,17 @@
         5.217,
         5.19,
         5.089,
-        5.098
+        5.098,
+        5.136
       ],
-      "note": "5.10% — 고금리 / Gold 불리"
+      "note": "5.14% — 고금리 / Gold 불리"
     },
     "dxy": {
-      "value": 101.834,
+      "value": 101.92,
       "prev_day": 101.84,
-      "prev_week": 102.58,
-      "prev_month": 100.22,
-      "prev_year": 98.43,
+      "prev_week": 102.18,
+      "prev_month": 100.43,
+      "prev_year": 98.59,
       "history": [
         101.93,
         102.17,
@@ -41,15 +41,15 @@
         102.55,
         102.0,
         101.84,
-        101.834
+        101.92
       ],
-      "note": "101.83 — 달러 강세 구간"
+      "note": "101.92 — 달러 강세 구간"
     },
     "wti": {
-      "value": 97.86,
+      "value": 98.46,
       "prev_day": 101.41,
-      "prev_week": 93.74,
-      "prev_month": 100.3,
+      "prev_week": 94.14,
+      "prev_month": 95.78,
       "prev_year": 57.52,
       "history": [
         91.11,
@@ -63,15 +63,15 @@
         95.09,
         97.97,
         101.41,
-        97.86
+        98.46
       ],
-      "note": "$97.86 — 정상 범위 상단"
+      "note": "$98.46 — 정상 범위 상단"
     },
     "gold": {
-      "value": 4203.0,
+      "value": 4153.8999,
       "prev_day": 4181.1001,
-      "prev_week": 4190.6001,
-      "prev_month": 4424.8999,
+      "prev_week": 4177.2998,
+      "prev_month": 4383.8999,
       "prev_year": 4359.3999,
       "history": [
         4162.2998,
@@ -85,19 +85,12 @@
         4107.8999,
         4170.1001,
         4181.1001,
-        4203.0
+        4153.8999
       ],
-      "note": "$4,203 — US10Y·DXY 하락 시 강세"
+      "note": "$4,154 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
-    {
-      "name": "NAHB Housing Market Index",
-      "actual": "미발표",
-      "forecast": "31",
-      "previous": "32",
-      "status": "upcoming"
-    },
     {
       "name": "Housing Starts MoM",
       "actual": "미발표",
@@ -108,7 +101,7 @@
     {
       "name": "Housing Starts",
       "actual": "미발표",
-      "forecast": "1.3",
+      "forecast": "1.31",
       "previous": "1.275",
       "status": "upcoming"
     },
@@ -146,24 +139,31 @@
       "forecast": "—",
       "previous": "14",
       "status": "upcoming"
+    },
+    {
+      "name": "Kansas Fed Manufacturing Index",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "20",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "'Just another scare': Wall Street sees the AI trade strong despite tech's latest",
-      "body": "Wall Street still sees more gains for stocks heading into the end of the year.",
+      "title": "Worried About the Stock Market? This High-Yielding ETF Can Provide Stability and",
+      "body": "The Schwab U.S. Dividend Equity ETF pays 3.2% and is full of top dividend stocks.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Dow Jones Futures Rebound After AI Sell-Off; Meta, SpaceX, Tesla Earnings Key",
-      "body": "Futures rise after the S&P 500, Nasdaq and leading stocks broke key support. Can Meta, Tesla, SpaceX earnings and capex revive the AI sector?",
+      "title": "Nasdaq Jumps Past 1 Percent as VIX Swings While Dow Dips Below Its 50-Day Line",
+      "body": "Stock Preachers News Commentary - Big tech drove a sharp rebound into the close, with the Nasdaq Composite up 1.11% and the S&P 500 up 0.66% on the session, while the Dow Jones Industrial Average slip",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Hedge fund manager sees a bull market hiding in plain sight",
-      "body": "Thomas Hayes sees AI creating winners far beyond Silicon Valley",
+      "title": "Where Will VTI Be in 20 Years? Here's What History Suggests",
+      "body": "The Vanguard Morningstar Total Stock Market ETF delivered a steady 9.44% annualized return over the past 25 years.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
