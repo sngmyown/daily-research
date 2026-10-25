@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25 09:00 KST",
+  "updated_at": "2026-10-26 08:49 KST",
   "metrics": {
     "us10y": {
       "value": 4.988,
@@ -24,13 +24,12 @@
       "note": "4.99% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 101.81,
-      "prev_day": 101.61,
-      "prev_week": 101.84,
-      "prev_month": 101.1,
-      "prev_year": 98.94,
+      "value": 101.724,
+      "prev_day": 101.81,
+      "prev_week": 101.98,
+      "prev_month": 100.97,
+      "prev_year": 98.95,
       "history": [
-        102.14,
         102.21,
         102.58,
         102.18,
@@ -41,18 +40,18 @@
         101.73,
         101.78,
         101.61,
-        101.81
+        101.81,
+        101.724
       ],
-      "note": "101.81 — 달러 강세 구간"
+      "note": "101.72 — 달러 강세 구간"
     },
     "wti": {
-      "value": 103.27,
-      "prev_day": 99.47,
-      "prev_week": 101.41,
-      "prev_month": 92.16,
-      "prev_year": 61.79,
+      "value": 102.19,
+      "prev_day": 103.27,
+      "prev_week": 103.66,
+      "prev_month": 92.41,
+      "prev_year": 61.31,
       "history": [
-        91.49,
         91.85,
         93.74,
         94.14,
@@ -63,18 +62,18 @@
         101.79,
         97.15,
         99.47,
-        103.27
+        103.27,
+        102.19
       ],
-      "note": "$103.27 — 고유가 / 인플레 경계"
+      "note": "$102.19 — 고유가 / 인플레 경계"
     },
     "gold": {
-      "value": 4007.8999,
-      "prev_day": 4060.3999,
-      "prev_week": 4181.1001,
-      "prev_month": 4318.3999,
-      "prev_year": 4145.6001,
+      "value": 4016.0,
+      "prev_day": 4007.8999,
+      "prev_week": 4160.1001,
+      "prev_month": 4321.2002,
+      "prev_year": 4019.7,
       "history": [
-        4157.0,
         4216.2998,
         4190.6001,
         4177.2998,
@@ -85,9 +84,10 @@
         4142.6001,
         4150.0,
         4060.3999,
-        4007.8999
+        4007.8999,
+        4016.0
       ],
-      "note": "$4,008 — US10Y·DXY 하락 시 강세"
+      "note": "$4,016 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
@@ -150,20 +150,20 @@
   ],
   "key_news": [
     {
-      "title": "Stock-Split Watch: Is Palantir Next?",
-      "body": "Palantir stock has risen more than 700% over the last five years. Is a stock split in the cards?",
+      "title": "3 Dividend ETFs With Over $10 Billion Each Pay Up to 3.31% and Beat the S&P 500 ",
+      "body": "Three giant dividend ETFs each cleared a benchmark most yield-focused funds struggle to touch, yet their five-year records tell a starkly different story about what income investing actually costs ove",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "China’s Stock Market Is Trailing the U.S. by the Widest Margin in History",
-      "body": "The gap between U.S. and Chinese stocks just broke a record stretching back decades, and Beijing's state-backed funds are still sitting on their hands while blue-chip shares slide into bear market ter",
+      "title": "Realty Income Yields More Than Quintuple the S&P 500. Here's What a $10,000 Inve",
+      "body": "This monthly dividend stock has a more than 30-year track record of annual dividend hikes.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Two-Thirds of S&P 500 Stocks Rose on Thursday, but the Index Still Fell — Exposi",
-      "body": "On a day when most S&P 500 stocks climbed, the index still fell, and the reason reveals a hidden risk that index fund investors rarely see coming until a handful of mega-caps decide their fate.",
+      "title": "3 Superior Growth Stocks to Buy Now and Hold for 10 Years",
+      "body": "These leaders in cybersecurity, data analytics, and servers are benefiting from growth in AI spending.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
