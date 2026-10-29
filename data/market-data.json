@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-10-28 09:58 KST",
+  "updated_at": "2026-10-29 10:33 KST",
   "metrics": {
     "us10y": {
-      "value": 4.993,
-      "prev_day": 4.986,
-      "prev_week": 5.117,
+      "value": 5.045,
+      "prev_day": 4.993,
+      "prev_week": 5.146,
       "prev_month": 5.24,
-      "prev_year": 3.997,
+      "prev_year": 3.983,
       "history": [
-        5.24,
         5.217,
         5.19,
         5.089,
@@ -19,19 +18,18 @@
         4.953,
         4.988,
         4.986,
-        4.993
+        4.993,
+        5.045
       ],
-      "note": "4.99% — 금리 부담 구간"
+      "note": "5.04% — 고금리 / Gold 불리"
     },
     "dxy": {
-      "value": 102.369,
-      "prev_day": 101.96,
-      "prev_week": 101.78,
-      "prev_month": 101.2,
-      "prev_year": 98.69,
+      "value": 102.153,
+      "prev_day": 102.19,
+      "prev_week": 101.61,
+      "prev_month": 101.37,
+      "prev_year": 99.22,
       "history": [
-        102.58,
-        102.18,
         102.55,
         102.0,
         101.84,
@@ -41,18 +39,19 @@
         101.61,
         101.81,
         101.96,
-        102.369
+        102.32,
+        102.19,
+        102.153
       ],
-      "note": "102.37 — 달러 강세 구간"
+      "note": "102.15 — 달러 강세 구간"
     },
     "wti": {
-      "value": 100.4,
-      "prev_day": 101.76,
-      "prev_week": 97.15,
-      "prev_month": 92.6,
-      "prev_year": 60.15,
+      "value": 102.14,
+      "prev_day": 99.9,
+      "prev_week": 99.47,
+      "prev_month": 89.38,
+      "prev_year": 60.48,
       "history": [
-        93.74,
         94.14,
         95.09,
         97.97,
@@ -63,18 +62,18 @@
         99.47,
         103.27,
         101.76,
-        100.4
+        99.9,
+        102.14
       ],
-      "note": "$100.40 — 고유가 / 인플레 경계"
+      "note": "$102.14 — 고유가 / 인플레 경계"
     },
     "gold": {
-      "value": 4073.5,
-      "prev_day": 4038.3999,
-      "prev_week": 4150.0,
-      "prev_month": 4168.3999,
-      "prev_year": 3983.1001,
+      "value": 4073.3,
+      "prev_day": 4074.6001,
+      "prev_week": 4060.3999,
+      "prev_month": 4179.7002,
+      "prev_year": 4000.7,
       "history": [
-        4190.6001,
         4177.2998,
         4107.8999,
         4170.1001,
@@ -85,40 +84,13 @@
         4060.3999,
         4007.8999,
         4038.3999,
-        4073.5
+        4074.6001,
+        4073.3
       ],
-      "note": "$4,074 — US10Y·DXY 하락 시 강세"
+      "note": "$4,073 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
-    {
-      "name": "Atlanta Fed GDPNow",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "3.4",
-      "status": "upcoming"
-    },
-    {
-      "name": "FOMC Statement",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "—",
-      "status": "upcoming"
-    },
-    {
-      "name": "Fed Interest Rate Decision",
-      "actual": "미발표",
-      "forecast": "4",
-      "previous": "4",
-      "status": "upcoming"
-    },
-    {
-      "name": "Fed Press Conference",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "—",
-      "status": "upcoming"
-    },
     {
       "name": "PCE Prices QoQ Adv",
       "actual": "미발표",
@@ -146,24 +118,52 @@
       "forecast": "—",
       "previous": "197.75",
       "status": "upcoming"
+    },
+    {
+      "name": "Continuing Jobless Claims",
+      "actual": "미발표",
+      "forecast": "1720",
+      "previous": "1728",
+      "status": "upcoming"
+    },
+    {
+      "name": "Core PCE Price Index YoY",
+      "actual": "미발표",
+      "forecast": "3.1",
+      "previous": "3",
+      "status": "upcoming"
+    },
+    {
+      "name": "GDP Price Index QoQ Adv",
+      "actual": "미발표",
+      "forecast": "3.2",
+      "previous": "6.1",
+      "status": "upcoming"
+    },
+    {
+      "name": "Initial Jobless Claims",
+      "actual": "미발표",
+      "forecast": "199",
+      "previous": "194",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Dow Jones Futures: Growth Stocks Rally, Tesla Clears Buy Point; Fed, Microsoft, ",
-      "body": "The S&P 500 reclaimed a key level as Tesla and growth stocks rallied. The Federal Reserve, Microsoft, Google on deck.",
+      "title": "S&P 500, Nasdaq Futures Dip As Weaker-Than-Expected Alphabet Earnings Reignite A",
+      "body": "The Federal Reserve left interest rates unchanged in its October policy meeting.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "S&P 500, Nasdaq Jump On Chipmaker Strength As Investors Eye October Fed Decision",
-      "body": "The Federal Reserve’s October monetary policy meeting announcement is due on Wednesday.",
+      "title": "3 Reasons PGR has explosive upside potential",
+      "body": "Progressive trades at $225.20 and has moved in lockstep with the market. Its shares have returned 10.9% over the last six months while the S&P 500 has gained 7.5%.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Dropbox (DBX) Stock Falls Amid Market Uptick: What Investors Need to Know",
-      "body": "Dropbox (DBX) concluded the recent trading session at $36.93, signifying a -2.12% move from its prior day's close.",
+      "title": "Perma-Fix (PESI): buy, sell, or hold post Q2 earnings?",
+      "body": "Since April 2026, Perma-Fix has been in a holding pattern, posting a small return of 1.9% while floating around $12.93. The stock also fell short of the S&P 500’s 7.5% gain during that period.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
