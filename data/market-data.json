@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-10-30 10:33 KST",
+  "updated_at": "2026-10-31 10:25 KST",
   "metrics": {
     "us10y": {
-      "value": 4.989,
-      "prev_day": 5.045,
-      "prev_week": 4.953,
-      "prev_month": 5.255,
-      "prev_year": 4.058,
+      "value": 4.929,
+      "prev_day": 4.989,
+      "prev_week": 4.988,
+      "prev_month": 5.293,
+      "prev_year": 4.093,
       "history": [
-        5.19,
         5.089,
         5.098,
         5.136,
@@ -19,12 +18,13 @@
         4.986,
         4.993,
         5.045,
-        4.989
+        4.989,
+        4.929
       ],
-      "note": "4.99% — 금리 부담 구간"
+      "note": "4.93% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 101.641,
+      "value": 101.964,
       "prev_day": 102.04,
       "prev_week": 101.81,
       "prev_month": 101.45,
@@ -41,18 +41,17 @@
         102.32,
         102.19,
         102.04,
-        101.641
+        101.964
       ],
-      "note": "101.64 — 달러 강세 구간"
+      "note": "101.96 — 달러 강세 구간"
     },
     "wti": {
-      "value": 102.71,
-      "prev_day": 102.78,
+      "value": 102.95,
+      "prev_day": 102.0,
       "prev_week": 103.27,
       "prev_month": 90.42,
       "prev_year": 60.57,
       "history": [
-        95.09,
         97.97,
         101.41,
         103.66,
@@ -63,18 +62,18 @@
         101.76,
         99.9,
         102.78,
-        102.71
+        102.0,
+        102.95
       ],
-      "note": "$102.71 — 고유가 / 인플레 경계"
+      "note": "$102.95 — 고유가 / 인플레 경계"
     },
     "gold": {
-      "value": 4017.7,
-      "prev_day": 4051.6001,
+      "value": 3884.8999,
+      "prev_day": 4031.3999,
       "prev_week": 4007.8999,
       "prev_month": 4186.7002,
       "prev_year": 4015.8999,
       "history": [
-        4107.8999,
         4170.1001,
         4181.1001,
         4160.1001,
@@ -85,24 +84,18 @@
         4038.3999,
         4074.6001,
         4051.6001,
-        4017.7
+        4031.3999,
+        3884.8999
       ],
-      "note": "$4,018 — US10Y·DXY 하락 시 강세"
+      "note": "$3,885 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
     {
-      "name": "Chicago PMI",
+      "name": "S&P Global Manufacturing PMI Final",
       "actual": "미발표",
-      "forecast": "56.1",
-      "previous": "58.8",
-      "status": "upcoming"
-    },
-    {
-      "name": "Fed Musalem Speech",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "—",
+      "forecast": "56",
+      "previous": "55.9",
       "status": "upcoming"
     },
     {
@@ -115,7 +108,7 @@
     {
       "name": "ISM Manufacturing Prices",
       "actual": "미발표",
-      "forecast": "—",
+      "forecast": "77.5",
       "previous": "77.9",
       "status": "upcoming"
     },
@@ -129,7 +122,7 @@
     {
       "name": "ISM Manufacturing PMI",
       "actual": "미발표",
-      "forecast": "—",
+      "forecast": "54.7",
       "previous": "54.5",
       "status": "upcoming"
     },
@@ -146,24 +139,31 @@
       "forecast": "—",
       "previous": "—",
       "status": "upcoming"
+    },
+    {
+      "name": "RCM/TIPP Economic Optimism Index",
+      "actual": "미발표",
+      "forecast": "46.2",
+      "previous": "46.8",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Dow Jones Futures Fall, Nasdaq Futures Plunge 2% On Amazon, Intel After Google, ",
-      "body": "Amazon, Intel and Illumina were earnings losers overnight after Google, ServiceNow and Fortinet slammed techs. Much of the market is doing fine.",
+      "title": "Okta Stock Can Find More Buyers as It Joins the S&P 500",
+      "body": "Okta can expect a new pool of buyers for its stock as a member of the S&P 500. Kenvue is being acquired and will therefore depart the index.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "20 Years of S&P 500 History Show: This Simple Strategy Is Only 8.3% Less Than \"P",
-      "body": "Instead of waiting for stocks to go down, just buying the S&P 500 as soon as possible can give you nearly perfect returns.",
+      "title": "Nasdaq suffers worst month in over a year as AI nerves roil markets",
+      "body": "Wall Street suffered a steep day of losses Friday after the latest tech earnings reignited concerns that massive spending on AI may not deliver the returns that investors expect.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Why MongoDB (MDB) Dipped More Than Broader Market Today",
-      "body": "In the closing of the recent trading day, MongoDB (MDB) stood at $384.95, denoting a -2.16% move from the preceding trading day.",
+      "title": "These 3 Big Risks Could Cause the Next Bear Market. I'm Investing Anyway.",
+      "body": "Even if the S&P 500 is about to crash, now can still be a good time to invest.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
