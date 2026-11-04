@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-11-03 12:17 KST",
+  "updated_at": "2026-11-04 10:54 KST",
   "metrics": {
     "us10y": {
-      "value": 4.894,
-      "prev_day": 4.929,
-      "prev_week": 4.986,
-      "prev_month": 5.277,
+      "value": 4.952,
+      "prev_day": 4.894,
+      "prev_week": 4.993,
+      "prev_month": 5.311,
       "prev_year": 4.106,
       "history": [
-        5.098,
         5.136,
         5.117,
         5.146,
@@ -19,16 +18,17 @@
         5.045,
         4.989,
         4.929,
-        4.894
+        4.894,
+        4.952
       ],
-      "note": "4.89% — 금리 부담 구간"
+      "note": "4.95% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 101.821,
+      "value": 101.287,
       "prev_day": 101.75,
-      "prev_week": 102.32,
+      "prev_week": 102.19,
       "prev_month": 102.17,
-      "prev_year": 99.87,
+      "prev_year": 100.22,
       "history": [
         101.98,
         101.73,
@@ -41,16 +41,16 @@
         102.04,
         101.88,
         101.75,
-        101.821
+        101.287
       ],
-      "note": "101.82 — 달러 강세 구간"
+      "note": "101.29 — 달러 강세 구간"
     },
     "wti": {
-      "value": 96.41,
+      "value": 95.63,
       "prev_day": 96.46,
-      "prev_week": 99.9,
+      "prev_week": 102.78,
       "prev_month": 89.43,
-      "prev_year": 61.05,
+      "prev_year": 60.56,
       "history": [
         103.66,
         101.79,
@@ -63,16 +63,16 @@
         102.0,
         104.12,
         96.46,
-        96.41
+        95.63
       ],
-      "note": "$96.41 — 정상 범위 상단"
+      "note": "$95.63 — 정상 범위 상단"
     },
     "gold": {
-      "value": 3952.8999,
+      "value": 3968.3,
       "prev_day": 3969.6001,
-      "prev_week": 4074.6001,
+      "prev_week": 4051.6001,
       "prev_month": 4156.7998,
-      "prev_year": 4014.0,
+      "prev_year": 3960.5,
       "history": [
         4160.1001,
         4142.6001,
@@ -85,52 +85,45 @@
         4031.3999,
         3898.8999,
         3969.6001,
-        3952.8999
+        3968.3
       ],
-      "note": "$3,953 — US10Y·DXY 하락 시 강세"
+      "note": "$3,968 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
     {
-      "name": "Durable Goods Orders ex Defense MoM Fina",
+      "name": "S&P Global Services PMI Final",
       "actual": "미발표",
-      "forecast": "2.2",
-      "previous": "0.3",
-      "status": "upcoming"
-    },
-    {
-      "name": "Durable Goods Orders Ex Transp MoM Final",
-      "actual": "미발표",
-      "forecast": "0.5",
-      "previous": "0.3",
-      "status": "upcoming"
-    },
-    {
-      "name": "RCM/TIPP Economic Optimism Index",
-      "actual": "미발표",
-      "forecast": "46.2",
-      "previous": "46.8",
+      "forecast": "—",
+      "previous": "—",
       "status": "upcoming"
     },
     {
       "name": "S&P Global Composite PMI Final",
       "actual": "미발표",
-      "forecast": "57.6",
-      "previous": "58.4",
+      "forecast": "—",
+      "previous": "—",
       "status": "upcoming"
     },
     {
-      "name": "S&P Global Services PMI Final",
-      "actual": "미발표",
-      "forecast": "57.9",
-      "previous": "58.8",
-      "status": "upcoming"
-    },
-    {
-      "name": "ISM Services Prices",
+      "name": "ISM Services New Orders",
       "actual": "미발표",
       "forecast": "—",
-      "previous": "74",
+      "previous": "59.8",
+      "status": "upcoming"
+    },
+    {
+      "name": "ISM Services Employment",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "50.1",
+      "status": "upcoming"
+    },
+    {
+      "name": "ISM Services PMI",
+      "actual": "미발표",
+      "forecast": "54.8",
+      "previous": "54.9",
       "status": "upcoming"
     },
     {
@@ -141,29 +134,36 @@
       "status": "upcoming"
     },
     {
-      "name": "ISM Services New Orders",
+      "name": "ISM Services Prices",
       "actual": "미발표",
       "forecast": "—",
-      "previous": "59.8",
+      "previous": "74",
+      "status": "upcoming"
+    },
+    {
+      "name": "Nonfarm Productivity QoQ Prel",
+      "actual": "미발표",
+      "forecast": "2.8",
+      "previous": "1.4",
       "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "US Stock Market Fails To Recover as $700 Billion Comeback Collapses",
-      "body": "Jim Cramer called the biggest tech takeout. Stocks added $700 billion, then lost it as AI and chip shares slid.",
+      "title": "US tech stocks recover after selloff spooks investors over AI spending",
+      "body": "Midterms didn’t appear to have huge impact, though predicted wins for Democrats could mean more regulation",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "AeroVironment (AVAV) Sees a More Significant Dip Than Broader Market: Some Facts",
-      "body": "AeroVironment (AVAV) reached $123.08 at the closing of the latest trading day, reflecting a -2.4% change compared to its last close.",
+      "title": "Superior Group (SGC) Stock Declines While Market Improves: Some Information for ",
+      "body": "Superior Group (SGC) closed the most recent trading day at $13.04, moving 1.73% from the previous trading session.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "M-tron Industries, Inc. (MPTI) Declines More Than Market: Some Information for I",
-      "body": "In the closing of the recent trading day, M-tron Industries, Inc. (MPTI) stood at $63.15, denoting a -4.59% move from the preceding trading day.",
+      "title": "PagSeguro Digital Ltd. (PAGS) Stock Falls Amid Market Uptick: What Investors Nee",
+      "body": "In the most recent trading session, PagSeguro Digital Ltd. (PAGS) closed at $7.65, indicating a -3.04% shift from the previous trading day.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
