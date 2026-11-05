@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-11-04 10:54 KST",
+  "updated_at": "2026-11-05 10:59 KST",
   "metrics": {
     "us10y": {
-      "value": 4.952,
-      "prev_day": 4.894,
-      "prev_week": 4.993,
+      "value": 4.894,
+      "prev_day": 4.952,
+      "prev_week": 5.045,
       "prev_month": 5.311,
-      "prev_year": 4.106,
+      "prev_year": 4.089,
       "history": [
-        5.136,
         5.117,
         5.146,
         4.953,
@@ -19,18 +18,18 @@
         4.989,
         4.929,
         4.894,
-        4.952
+        4.952,
+        4.894
       ],
-      "note": "4.95% — 금리 부담 구간"
+      "note": "4.89% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 101.287,
-      "prev_day": 101.75,
-      "prev_week": 102.19,
-      "prev_month": 102.17,
-      "prev_year": 100.22,
+      "value": 101.299,
+      "prev_day": 101.87,
+      "prev_week": 102.04,
+      "prev_month": 101.83,
+      "prev_year": 100.2,
       "history": [
-        101.98,
         101.73,
         101.78,
         101.61,
@@ -41,19 +40,18 @@
         102.04,
         101.88,
         101.75,
-        101.287
+        101.87,
+        101.299
       ],
-      "note": "101.29 — 달러 강세 구간"
+      "note": "101.30 — 달러 강세 구간"
     },
     "wti": {
-      "value": 95.63,
-      "prev_day": 96.46,
-      "prev_week": 102.78,
-      "prev_month": 89.43,
-      "prev_year": 60.56,
+      "value": 87.25,
+      "prev_day": 88.12,
+      "prev_week": 102.0,
+      "prev_month": 89.44,
+      "prev_year": 59.6,
       "history": [
-        103.66,
-        101.79,
         97.15,
         99.47,
         103.27,
@@ -63,19 +61,19 @@
         102.0,
         104.12,
         96.46,
-        95.63
+        96.09,
+        88.12,
+        87.25
       ],
-      "note": "$95.63 — 정상 범위 상단"
+      "note": "$87.25 — 정상 범위 상단"
     },
     "gold": {
-      "value": 3968.3,
-      "prev_day": 3969.6001,
-      "prev_week": 4051.6001,
-      "prev_month": 4156.7998,
-      "prev_year": 3960.5,
+      "value": 4136.3999,
+      "prev_day": 4073.0,
+      "prev_week": 4031.3999,
+      "prev_month": 4187.1001,
+      "prev_year": 3992.8999,
       "history": [
-        4160.1001,
-        4142.6001,
         4150.0,
         4060.3999,
         4007.8999,
@@ -85,85 +83,87 @@
         4031.3999,
         3898.8999,
         3969.6001,
-        3968.3
+        3940.3999,
+        4073.0,
+        4136.3999
       ],
-      "note": "$3,968 — US10Y·DXY 하락 시 강세"
+      "note": "$4,136 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
-    {
-      "name": "S&P Global Services PMI Final",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "—",
-      "status": "upcoming"
-    },
-    {
-      "name": "S&P Global Composite PMI Final",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "—",
-      "status": "upcoming"
-    },
-    {
-      "name": "ISM Services New Orders",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "59.8",
-      "status": "upcoming"
-    },
-    {
-      "name": "ISM Services Employment",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "50.1",
-      "status": "upcoming"
-    },
-    {
-      "name": "ISM Services PMI",
-      "actual": "미발표",
-      "forecast": "54.8",
-      "previous": "54.9",
-      "status": "upcoming"
-    },
-    {
-      "name": "ISM Services Business Activity",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "56.5",
-      "status": "upcoming"
-    },
-    {
-      "name": "ISM Services Prices",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "74",
-      "status": "upcoming"
-    },
     {
       "name": "Nonfarm Productivity QoQ Prel",
       "actual": "미발표",
       "forecast": "2.8",
       "previous": "1.4",
       "status": "upcoming"
+    },
+    {
+      "name": "Jobless Claims 4-week Average",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "196.75",
+      "status": "upcoming"
+    },
+    {
+      "name": "Initial Jobless Claims",
+      "actual": "미발표",
+      "forecast": "196",
+      "previous": "194",
+      "status": "upcoming"
+    },
+    {
+      "name": "Continuing Jobless Claims",
+      "actual": "미발표",
+      "forecast": "1710",
+      "previous": "1701",
+      "status": "upcoming"
+    },
+    {
+      "name": "Fed Balance Sheet",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "6.74564",
+      "status": "upcoming"
+    },
+    {
+      "name": "Nonfarm Payrolls Private",
+      "actual": "미발표",
+      "forecast": "64",
+      "previous": "46",
+      "status": "upcoming"
+    },
+    {
+      "name": "U6 Unemployment Rate",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "7.6",
+      "status": "upcoming"
+    },
+    {
+      "name": "Unemployment Rate",
+      "actual": "미발표",
+      "forecast": "4.2",
+      "previous": "4.2",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "US tech stocks recover after selloff spooks investors over AI spending",
-      "body": "Midterms didn’t appear to have huge impact, though predicted wins for Democrats could mean more regulation",
+      "title": "If You'd Invested $5,000 in VOO 15 Years Ago, Here's What You'd Have Today",
+      "body": "The number is exaggerated by an unusually strong period for stocks, but given enough time, even more normalized gains would lead to surprisingly sizable returns.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Superior Group (SGC) Stock Declines While Market Improves: Some Information for ",
-      "body": "Superior Group (SGC) closed the most recent trading day at $13.04, moving 1.73% from the previous trading session.",
+      "title": "S&P 500, Nasdaq Surge Ahead After Democratic Sweep, Dow Jumps To One-Year High O",
+      "body": "Democrats won the mid-term elections, with analysts looking at the political gridlock as a win for markets.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "PagSeguro Digital Ltd. (PAGS) Stock Falls Amid Market Uptick: What Investors Nee",
-      "body": "In the most recent trading session, PagSeguro Digital Ltd. (PAGS) closed at $7.65, indicating a -3.04% shift from the previous trading day.",
+      "title": "Why Opendoor Stock Jumped 13.8% Today",
+      "body": "Opendoor jumped as a Democratic sweep pushed oil and Treasury yields lower, but this is a rate-sensitive stock with a model I'm still skeptical of.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
