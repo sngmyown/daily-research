@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07 10:37 KST",
+  "updated_at": "2026-11-08 10:05 KST",
   "metrics": {
     "us10y": {
       "value": 4.859,
@@ -24,7 +24,7 @@
       "note": "4.86% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 102.279,
+      "value": 102.3,
       "prev_day": 101.55,
       "prev_week": 101.88,
       "prev_month": 102.24,
@@ -41,12 +41,12 @@
         101.87,
         101.51,
         101.55,
-        102.279
+        102.3
       ],
-      "note": "102.28 — 달러 강세 구간"
+      "note": "102.30 — 달러 강세 구간"
     },
     "wti": {
-      "value": 90.34,
+      "value": 90.83,
       "prev_day": 90.52,
       "prev_week": 104.12,
       "prev_month": 88.28,
@@ -63,12 +63,12 @@
         96.09,
         88.12,
         90.52,
-        90.34
+        90.83
       ],
-      "note": "$90.34 — 정상 범위 상단"
+      "note": "$90.83 — 정상 범위 상단"
     },
     "gold": {
-      "value": 4079.5,
+      "value": 4074.8999,
       "prev_day": 4113.5,
       "prev_week": 3898.8999,
       "prev_month": 4140.7002,
@@ -85,9 +85,9 @@
         3940.3999,
         4073.0,
         4113.5,
-        4079.5
+        4074.8999
       ],
-      "note": "$4,080 — US10Y·DXY 하락 시 강세"
+      "note": "$4,075 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
@@ -150,20 +150,20 @@
   ],
   "key_news": [
     {
-      "title": "Are You Sure You Understand Vertiv Stock's Risk?",
-      "body": "For questions about this article or underlying research, email help@trefis.com.",
+      "title": "Stocks soared on the Democratic sweep. Less than 24 hours later, the AI trade cr",
+      "body": "The extraordinary reversal in stocks marked the latest whipsaw in a year of wild swings.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "RLX Technology (RLX): Overseas Expansion Must Deliver Beyond a Revenue Pull-Forw",
-      "body": "We just published our list of the 10 Best Small-Cap Value Stocks to Invest In Now, and RLX Technology Inc. (NYSE:RLX) ranked 6th on the list. The slide in AI stocks is prompting investors to explore b",
+      "title": "The Yield vs. Weighting Dilemma: How to Choose Between SPSM and SCHA",
+      "body": "State Street's fund holds fewer stocks but delivers higher income and lower volatility, while Schwab offers broader diversification across 1,750 holdings.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Coursera (COUR): A Low Earnings Multiple Meets the Udemy Integration Test",
-      "body": "We just published our list of the 10 Best Small-Cap Value Stocks to Invest In Now, and Coursera, Inc. (NYSE:COUR) ranked 6th on the list. The slide in AI stocks is prompting investors to explore beyon",
+      "title": "Higher Yield vs. Lower Cost: The Critical Differences Between HDV and VIG",
+      "body": "VIG emphasizes dividend growers with lower costs, while HDV targets concentrated high-yielding stocks. One delivered 34.6% returns over the past year; the other offers greater stability.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
