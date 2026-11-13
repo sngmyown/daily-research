@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-11-12 11:41 KST",
+  "updated_at": "2026-11-13 11:23 KST",
   "metrics": {
     "us10y": {
-      "value": 4.998,
-      "prev_day": 4.983,
-      "prev_week": 4.894,
-      "prev_month": 5.24,
-      "prev_year": 4.12,
+      "value": 5.103,
+      "prev_day": 4.998,
+      "prev_week": 4.837,
+      "prev_month": 5.217,
+      "prev_year": 4.065,
       "history": [
-        4.993,
         5.045,
         4.989,
         4.929,
@@ -19,16 +18,17 @@
         4.859,
         4.864,
         4.983,
-        4.998
+        4.998,
+        5.103
       ],
-      "note": "5.00% — 금리 부담 구간"
+      "note": "5.10% — 고금리 / Gold 불리"
     },
     "dxy": {
-      "value": 102.932,
+      "value": 103.147,
       "prev_day": 102.91,
-      "prev_week": 101.55,
-      "prev_month": 102.18,
-      "prev_year": 99.48,
+      "prev_week": 102.3,
+      "prev_month": 102.55,
+      "prev_year": 99.18,
       "history": [
         102.19,
         102.04,
@@ -41,19 +41,17 @@
         101.65,
         102.23,
         102.91,
-        102.932
+        103.147
       ],
-      "note": "102.93 — 달러 강세 구간"
+      "note": "103.15 — 달러 강세 / 신흥국 부담"
     },
     "wti": {
-      "value": 85.92,
-      "prev_day": 86.04,
-      "prev_week": 90.52,
-      "prev_month": 94.14,
-      "prev_year": 58.49,
+      "value": 88.19,
+      "prev_day": 88.74,
+      "prev_week": 90.83,
+      "prev_month": 95.09,
+      "prev_year": 58.69,
       "history": [
-        99.9,
-        102.78,
         102.0,
         104.12,
         96.46,
@@ -63,19 +61,19 @@
         90.83,
         86.85,
         86.04,
-        85.92
+        86.53,
+        88.74,
+        88.19
       ],
-      "note": "$85.92 — 정상 범위 상단"
+      "note": "$88.19 — 정상 범위 상단"
     },
     "gold": {
-      "value": 3992.8,
-      "prev_day": 4030.2,
-      "prev_week": 4113.5,
-      "prev_month": 4177.2998,
-      "prev_year": 4213.6001,
+      "value": 3912.3999,
+      "prev_day": 3885.3,
+      "prev_week": 4074.8999,
+      "prev_month": 4107.8999,
+      "prev_year": 4194.5,
       "history": [
-        4074.6001,
-        4051.6001,
         4031.3999,
         3898.8999,
         3969.6001,
@@ -85,9 +83,11 @@
         4074.8999,
         4114.5,
         4030.2,
-        3992.8
+        4000.5,
+        3885.3,
+        3912.3999
       ],
-      "note": "$3,993 — US10Y·DXY 하락 시 강세"
+      "note": "$3,912 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
@@ -122,20 +122,20 @@
   ],
   "key_news": [
     {
-      "title": "Why Azenta Stock Crushed it on Wednesday",
-      "body": "Its final earnings report for fiscal 2026 was impressive.",
+      "title": "S&P 500, Dow, Nasdaq Futures Recover After Markets End Lower On Jensen Huang’s E",
+      "body": "Nvidia’s CEO Jensen Huang ousted; CFO Colette Kress named interim chief executive officer.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "These 5 Dividend Aristocrats® Have Raised Payouts for Decades",
-      "body": "Investors worried about market turmoil may want to look at reliable dividend stocks, and these five stand out.",
+      "title": "Bank of America’s Matthew O’Neill Is Positive on Block (XYZ) for Early 2027. One",
+      "body": "We just published a list of the 10 Best Growth Stocks for the Next 5 Years and Block (NYSE:XYZ) ranked 10th on this list. Technology stocks went from celebration to rout within two sessions this month",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "What Happened To NuScale Power Stock Over The Past Year?",
-      "body": "For questions about this article or underlying research, email help@trefis.com.",
+      "title": "RBC’s Paul Treiber Held Firm on Shopify (SHOP) After a Slight Miss. Here’s the A",
+      "body": "We just published a list of the 10 Best Growth Stocks for the Next 5 Years and Shopify (NASDAQ:SHOP) ranked 9th on this list. Technology stocks went from celebration to rout within two sessions this m",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
