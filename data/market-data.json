@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-11-13 11:23 KST",
+  "updated_at": "2026-11-14 10:58 KST",
   "metrics": {
     "us10y": {
-      "value": 5.103,
-      "prev_day": 4.998,
-      "prev_week": 4.837,
-      "prev_month": 5.217,
-      "prev_year": 4.065,
+      "value": 5.154,
+      "prev_day": 5.103,
+      "prev_week": 4.859,
+      "prev_month": 5.19,
+      "prev_year": 4.112,
       "history": [
-        5.045,
         4.989,
         4.929,
         4.894,
@@ -19,18 +18,18 @@
         4.864,
         4.983,
         4.998,
-        5.103
+        5.103,
+        5.154
       ],
-      "note": "5.10% — 고금리 / Gold 불리"
+      "note": "5.15% — 고금리 / Gold 불리"
     },
     "dxy": {
-      "value": 103.147,
-      "prev_day": 102.91,
+      "value": 103.411,
+      "prev_day": 103.17,
       "prev_week": 102.3,
       "prev_month": 102.55,
       "prev_year": 99.18,
       "history": [
-        102.19,
         102.04,
         101.88,
         101.75,
@@ -41,12 +40,13 @@
         101.65,
         102.23,
         102.91,
-        103.147
+        103.17,
+        103.411
       ],
-      "note": "103.15 — 달러 강세 / 신흥국 부담"
+      "note": "103.41 — 달러 강세 / 신흥국 부담"
     },
     "wti": {
-      "value": 88.19,
+      "value": 88.92,
       "prev_day": 88.74,
       "prev_week": 90.83,
       "prev_month": 95.09,
@@ -63,12 +63,12 @@
         86.04,
         86.53,
         88.74,
-        88.19
+        88.92
       ],
-      "note": "$88.19 — 정상 범위 상단"
+      "note": "$88.92 — 정상 범위 상단"
     },
     "gold": {
-      "value": 3912.3999,
+      "value": 3887.6001,
       "prev_day": 3885.3,
       "prev_week": 4074.8999,
       "prev_month": 4107.8999,
@@ -85,57 +85,71 @@
         4030.2,
         4000.5,
         3885.3,
-        3912.3999
+        3887.6001
       ],
-      "note": "$3,912 — US10Y·DXY 하락 시 강세"
+      "note": "$3,888 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
     {
-      "name": "Jobless Claims 4-week Average",
+      "name": "Retail Sales Control Group",
+      "actual": "미발표",
+      "forecast": "0.4",
+      "previous": "0.1",
+      "status": "upcoming"
+    },
+    {
+      "name": "Retail Sales Ex Autos MoM",
+      "actual": "미발표",
+      "forecast": "0.4",
+      "previous": "0.9",
+      "status": "upcoming"
+    },
+    {
+      "name": "Retail Sales MoM",
+      "actual": "미발표",
+      "forecast": "0.2",
+      "previous": "0.8",
+      "status": "upcoming"
+    },
+    {
+      "name": "Retail Sales Ex Gas/Autos MoM",
       "actual": "미발표",
       "forecast": "—",
-      "previous": "194.75",
+      "previous": "0.2",
       "status": "upcoming"
     },
     {
-      "name": "Initial Jobless Claims",
-      "actual": "미발표",
-      "forecast": "195",
-      "previous": "189",
-      "status": "upcoming"
-    },
-    {
-      "name": "Continuing Jobless Claims",
-      "actual": "미발표",
-      "forecast": "1710",
-      "previous": "1718",
-      "status": "upcoming"
-    },
-    {
-      "name": "Fed Balance Sheet",
+      "name": "Retail Sales YoY",
       "actual": "미발표",
       "forecast": "—",
-      "previous": "6.74815",
+      "previous": "6.29",
+      "status": "upcoming"
+    },
+    {
+      "name": "NAHB Housing Market Index",
+      "actual": "미발표",
+      "forecast": "29",
+      "previous": "29",
       "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "S&P 500, Dow, Nasdaq Futures Recover After Markets End Lower On Jensen Huang’s E",
-      "body": "Nvidia’s CEO Jensen Huang ousted; CFO Colette Kress named interim chief executive officer.",
+      "title": "The 60/40 Portfolio Is Having a Disappointing Year. Blame Bonds.",
+      "body": "The 60% stock/40% bond portfolio is up just 5% this year, the poorest showing since 2022’s double drubbing. Plus, investment newsletter commentary on business activity, the data-center backlash, and h",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Bank of America’s Matthew O’Neill Is Positive on Block (XYZ) for Early 2027. One",
-      "body": "We just published a list of the 10 Best Growth Stocks for the Next 5 Years and Block (NYSE:XYZ) ranked 10th on this list. Technology stocks went from celebration to rout within two sessions this month",
+      "title": "Is There Any Reason To Invest In Edwards Lifesciences Stock?",
+      "body": "For questions about this article or underlying research, email help@trefis.com.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "RBC’s Paul Treiber Held Firm on Shopify (SHOP) After a Slight Miss. Here’s the A",
-      "body": "We just published a list of the 10 Best Growth Stocks for the Next 5 Years and Shopify (NASDAQ:SHOP) ranked 9th on this list. Technology stocks went from celebration to rout within two sessions this m",
+      "title": "Cathie Wood buys $15 million of popular AI stock",
+      "body": "Here are Cathie Wood’s latest moves.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
