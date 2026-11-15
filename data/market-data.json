@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 10:58 KST",
+  "updated_at": "2026-11-15 10:30 KST",
   "metrics": {
     "us10y": {
       "value": 5.154,
@@ -24,7 +24,7 @@
       "note": "5.15% — 고금리 / Gold 불리"
     },
     "dxy": {
-      "value": 103.411,
+      "value": 103.41,
       "prev_day": 103.17,
       "prev_week": 102.3,
       "prev_month": 102.55,
@@ -41,12 +41,12 @@
         102.23,
         102.91,
         103.17,
-        103.411
+        103.41
       ],
       "note": "103.41 — 달러 강세 / 신흥국 부담"
     },
     "wti": {
-      "value": 88.92,
+      "value": 88.56,
       "prev_day": 88.74,
       "prev_week": 90.83,
       "prev_month": 95.09,
@@ -63,12 +63,12 @@
         86.04,
         86.53,
         88.74,
-        88.92
+        88.56
       ],
-      "note": "$88.92 — 정상 범위 상단"
+      "note": "$88.56 — 정상 범위 상단"
     },
     "gold": {
-      "value": 3887.6001,
+      "value": 3886.3,
       "prev_day": 3885.3,
       "prev_week": 4074.8999,
       "prev_month": 4107.8999,
@@ -85,9 +85,9 @@
         4030.2,
         4000.5,
         3885.3,
-        3887.6001
+        3886.3
       ],
-      "note": "$3,888 — US10Y·DXY 하락 시 강세"
+      "note": "$3,886 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
@@ -132,24 +132,38 @@
       "forecast": "29",
       "previous": "29",
       "status": "upcoming"
+    },
+    {
+      "name": "Housing Starts",
+      "actual": "미발표",
+      "forecast": "1.268",
+      "previous": "1.221",
+      "status": "upcoming"
+    },
+    {
+      "name": "Housing Starts MoM",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "-5.2",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "The 60/40 Portfolio Is Having a Disappointing Year. Blame Bonds.",
-      "body": "The 60% stock/40% bond portfolio is up just 5% this year, the poorest showing since 2022’s double drubbing. Plus, investment newsletter commentary on business activity, the data-center backlash, and h",
+      "title": "History Says This Is the Best Investing Move You Can Make if a Bear Market Is Co",
+      "body": "Should investors wait for stocks to fall before buying?",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Is There Any Reason To Invest In Edwards Lifesciences Stock?",
-      "body": "For questions about this article or underlying research, email help@trefis.com.",
+      "title": "What Citi Expects From Alibaba (BABA) Before November 19",
+      "body": "We just published a list of the 10 Stocks With Insane Upside According to Reddit and Alibaba Group (NYSE:BABA) ranked 8th on this list. US stocks edged lower Thursday, snapping a rebound that had lift",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Cathie Wood buys $15 million of popular AI stock",
-      "body": "Here are Cathie Wood’s latest moves.",
+      "title": "Prediction: This Small-Cap Value ETF Will Beat the S&P 500 Over the Next 10 Year",
+      "body": "Recent stumbles from some of the market's biggest leading growth names suggest a shift may be brewing.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
