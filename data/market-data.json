@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15 10:30 KST",
+  "updated_at": "2026-11-16 10:34 KST",
   "metrics": {
     "us10y": {
       "value": 5.154,
@@ -24,13 +24,12 @@
       "note": "5.15% — 고금리 / Gold 불리"
     },
     "dxy": {
-      "value": 103.41,
-      "prev_day": 103.17,
-      "prev_week": 102.3,
-      "prev_month": 102.55,
-      "prev_year": 99.18,
+      "value": 103.461,
+      "prev_day": 103.41,
+      "prev_week": 101.65,
+      "prev_month": 101.84,
+      "prev_year": 99.59,
       "history": [
-        102.04,
         101.88,
         101.75,
         101.87,
@@ -41,18 +40,18 @@
         102.23,
         102.91,
         103.17,
-        103.41
+        103.41,
+        103.461
       ],
-      "note": "103.41 — 달러 강세 / 신흥국 부담"
+      "note": "103.46 — 달러 강세 / 신흥국 부담"
     },
     "wti": {
-      "value": 88.56,
-      "prev_day": 88.74,
-      "prev_week": 90.83,
-      "prev_month": 95.09,
-      "prev_year": 58.69,
+      "value": 88.26,
+      "prev_day": 88.56,
+      "prev_week": 86.85,
+      "prev_month": 101.41,
+      "prev_year": 59.91,
       "history": [
-        102.0,
         104.12,
         96.46,
         96.09,
@@ -63,18 +62,18 @@
         86.04,
         86.53,
         88.74,
-        88.56
+        88.56,
+        88.26
       ],
-      "note": "$88.56 — 정상 범위 상단"
+      "note": "$88.26 — 정상 범위 상단"
     },
     "gold": {
-      "value": 3886.3,
-      "prev_day": 3885.3,
-      "prev_week": 4074.8999,
-      "prev_month": 4107.8999,
-      "prev_year": 4194.5,
+      "value": 3872.8999,
+      "prev_day": 3886.3,
+      "prev_week": 4114.5,
+      "prev_month": 4181.1001,
+      "prev_year": 4074.5,
       "history": [
-        4031.3999,
         3898.8999,
         3969.6001,
         3940.3999,
@@ -85,9 +84,10 @@
         4030.2,
         4000.5,
         3885.3,
-        3886.3
+        3886.3,
+        3872.8999
       ],
-      "note": "$3,886 — US10Y·DXY 하락 시 강세"
+      "note": "$3,873 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
@@ -150,20 +150,20 @@
   ],
   "key_news": [
     {
-      "title": "History Says This Is the Best Investing Move You Can Make if a Bear Market Is Co",
-      "body": "Should investors wait for stocks to fall before buying?",
+      "title": "The 1 Mistake Investors Make When the Market Stalls, and How to Avoid It",
+      "body": "Investors often focus on what’s happening at the moment.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "What Citi Expects From Alibaba (BABA) Before November 19",
-      "body": "We just published a list of the 10 Stocks With Insane Upside According to Reddit and Alibaba Group (NYSE:BABA) ranked 8th on this list. US stocks edged lower Thursday, snapping a rebound that had lift",
+      "title": "3 Magnificent Stocks to Buy Before 2027 and Hold for a Decade",
+      "body": "These stocks are all down, but they have incredible long-term potential.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Prediction: This Small-Cap Value ETF Will Beat the S&P 500 Over the Next 10 Year",
-      "body": "Recent stumbles from some of the market's biggest leading growth names suggest a shift may be brewing.",
+      "title": "Investors: If a Market Correction Is Coming, This 1 Move Will Make or Break Your",
+      "body": "When investing in individual stocks, one thing matters above all else if you want to minimize the pain of drawdowns.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
