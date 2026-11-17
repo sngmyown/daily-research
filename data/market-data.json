@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-11-16 10:34 KST",
+  "updated_at": "2026-11-17 13:19 KST",
   "metrics": {
     "us10y": {
-      "value": 5.154,
-      "prev_day": 5.103,
-      "prev_week": 4.859,
-      "prev_month": 5.19,
-      "prev_year": 4.112,
+      "value": 5.121,
+      "prev_day": 5.154,
+      "prev_week": 4.864,
+      "prev_month": 5.098,
+      "prev_year": 4.133,
       "history": [
-        4.989,
         4.929,
         4.894,
         4.952,
@@ -19,18 +18,18 @@
         4.983,
         4.998,
         5.103,
-        5.154
+        5.154,
+        5.121
       ],
-      "note": "5.15% — 고금리 / Gold 불리"
+      "note": "5.12% — 고금리 / Gold 불리"
     },
     "dxy": {
-      "value": 103.461,
-      "prev_day": 103.41,
-      "prev_week": 101.65,
-      "prev_month": 101.84,
+      "value": 103.501,
+      "prev_day": 103.55,
+      "prev_week": 102.23,
+      "prev_month": 101.98,
       "prev_year": 99.59,
       "history": [
-        101.88,
         101.75,
         101.87,
         101.51,
@@ -41,18 +40,18 @@
         102.91,
         103.17,
         103.41,
-        103.461
+        103.55,
+        103.501
       ],
-      "note": "103.46 — 달러 강세 / 신흥국 부담"
+      "note": "103.50 — 달러 강세 / 신흥국 부담"
     },
     "wti": {
-      "value": 88.26,
-      "prev_day": 88.56,
-      "prev_week": 86.85,
-      "prev_month": 101.41,
+      "value": 84.96,
+      "prev_day": 85.72,
+      "prev_week": 86.04,
+      "prev_month": 103.66,
       "prev_year": 59.91,
       "history": [
-        104.12,
         96.46,
         96.09,
         88.12,
@@ -63,18 +62,18 @@
         86.53,
         88.74,
         88.56,
-        88.26
+        85.72,
+        84.96
       ],
-      "note": "$88.26 — 정상 범위 상단"
+      "note": "$84.96 — 적정 범위 (70~85)"
     },
     "gold": {
-      "value": 3872.8999,
-      "prev_day": 3886.3,
-      "prev_week": 4114.5,
-      "prev_month": 4181.1001,
+      "value": 3872.8,
+      "prev_day": 3853.0,
+      "prev_week": 4030.2,
+      "prev_month": 4160.1001,
       "prev_year": 4074.5,
       "history": [
-        3898.8999,
         3969.6001,
         3940.3999,
         4073.0,
@@ -85,7 +84,8 @@
         4000.5,
         3885.3,
         3886.3,
-        3872.8999
+        3853.0,
+        3872.8
       ],
       "note": "$3,873 — US10Y·DXY 하락 시 강세"
     }
@@ -136,7 +136,7 @@
     {
       "name": "Housing Starts",
       "actual": "미발표",
-      "forecast": "1.268",
+      "forecast": "1.245",
       "previous": "1.221",
       "status": "upcoming"
     },
@@ -150,20 +150,20 @@
   ],
   "key_news": [
     {
-      "title": "The 1 Mistake Investors Make When the Market Stalls, and How to Avoid It",
-      "body": "Investors often focus on what’s happening at the moment.",
+      "title": "Warren Buffett’s 10-Year Rule for a 68-Year-Old With $650,000 in an IRA and $3,0",
+      "body": "Warren Buffett's 1996 test for owning a stock, applied to a 68-year-old with $650,000 in an IRA and $3,000 a month in Social Security: $300,000 goes into a Treasury ladder paying about 4.9%, $350,000 ",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "3 Magnificent Stocks to Buy Before 2027 and Hold for a Decade",
-      "body": "These stocks are all down, but they have incredible long-term potential.",
+      "title": "Wall Street futures muted as Nvidia earnings loom amid AI jitters",
+      "body": "Investing.com-- U.S. stock futures were little changed on Monday evening after Wall Street fell sharply, with Nvidia dragging the technology sector lower ahead of its quarterly results, while investor",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Investors: If a Market Correction Is Coming, This 1 Move Will Make or Break Your",
-      "body": "When investing in individual stocks, one thing matters above all else if you want to minimize the pain of drawdowns.",
+      "title": "What's Going To Happen With Constellation Energy Stock Soon?",
+      "body": "For questions about this article or underlying research, email help@trefis.com.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
