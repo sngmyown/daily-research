@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21 11:58 KST",
+  "updated_at": "2026-11-22 10:54 KST",
   "metrics": {
     "us10y": {
       "value": 4.912,
@@ -24,7 +24,7 @@
       "note": "4.91% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 103.84,
+      "value": 103.81,
       "prev_day": 103.9,
       "prev_week": 103.41,
       "prev_month": 101.78,
@@ -41,12 +41,12 @@
         103.49,
         103.86,
         103.9,
-        103.84
+        103.81
       ],
-      "note": "103.84 — 달러 강세 / 신흥국 부담"
+      "note": "103.81 — 달러 강세 / 신흥국 부담"
     },
     "wti": {
-      "value": 83.62,
+      "value": 83.98,
       "prev_day": 83.21,
       "prev_week": 88.56,
       "prev_month": 97.15,
@@ -63,12 +63,12 @@
         86.01,
         83.26,
         83.21,
-        83.62
+        83.98
       ],
-      "note": "$83.62 — 적정 범위 (70~85)"
+      "note": "$83.98 — 적정 범위 (70~85)"
     },
     "gold": {
-      "value": 3539.0,
+      "value": 3515.3999,
       "prev_day": 3685.5,
       "prev_week": 3886.3,
       "prev_month": 4150.0,
@@ -85,9 +85,9 @@
         3864.2,
         3741.8999,
         3685.5,
-        3539.0
+        3515.3999
       ],
-      "note": "$3,539 — US10Y·DXY 하락 시 강세"
+      "note": "$3,515 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
@@ -139,24 +139,31 @@
       "forecast": "—",
       "previous": "2",
       "status": "upcoming"
+    },
+    {
+      "name": "PCE Services Prices ex Energy & Housing ",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "0.4",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Stocks enter correction territory, driven by a deepening tech rout",
-      "body": "The tech-heavy Nasdaq tumbled more than 1,200 points, putting it on track for its second-worst day of the year.",
+      "title": "3 Penny Stocks With Value Gaps Up To 81%",
+      "body": "AI linked stocks just came through a historic rough patch, with the Nasdaq 100 logging its worst week since 2020 and the S&P 500 sliding into correction territory after an AI focused selloff. When mar",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Report: Goldman Sachs Predicts the S&P 500 Will Gain 26% in 12 Months",
-      "body": "Despite a rocky few weeks on Wall Street, the next 12 months are looking much more bullish, according to Goldman Sachs.",
+      "title": "If a Stock Market Crash Is Coming, Warren Buffett Says This Is the No. 1 Move Al",
+      "body": "The right strategy can protect your portfolio against even severe market volatility.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "6 reasons stocks are falling, and what you should do about it",
-      "body": "The S&P 500 is on track for a seventh consecutive day of losses, marking its longest losing streak since February 2020. Here's what's taking the shine off stocks.",
+      "title": "In the Last Tech Bust, the S&P 500 Lost Money for a Decade. History Says Stocks ",
+      "body": "The S&P 500 lost money from 2000 to 2009, but the highest-yielding dividend stocks gained 5.4% a year. Here's what the last tech bust says about yield, and what it doesn't.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
