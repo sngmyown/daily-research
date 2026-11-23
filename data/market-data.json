@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22 10:54 KST",
+  "updated_at": "2026-11-23 11:15 KST",
   "metrics": {
     "us10y": {
       "value": 4.912,
@@ -24,13 +24,12 @@
       "note": "4.91% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 103.81,
-      "prev_day": 103.9,
-      "prev_week": 103.41,
-      "prev_month": 101.78,
-      "prev_year": 100.16,
+      "value": 103.742,
+      "prev_day": 103.81,
+      "prev_week": 103.55,
+      "prev_month": 101.81,
+      "prev_year": 100.14,
       "history": [
-        101.55,
         102.3,
         101.65,
         102.23,
@@ -41,18 +40,18 @@
         103.49,
         103.86,
         103.9,
-        103.81
+        103.81,
+        103.742
       ],
-      "note": "103.81 — 달러 강세 / 신흥국 부담"
+      "note": "103.74 — 달러 강세 / 신흥국 부담"
     },
     "wti": {
-      "value": 83.98,
-      "prev_day": 83.21,
-      "prev_week": 88.56,
-      "prev_month": 97.15,
-      "prev_year": 59.14,
+      "value": 83.24,
+      "prev_day": 83.98,
+      "prev_week": 85.72,
+      "prev_month": 103.27,
+      "prev_year": 58.84,
       "history": [
-        90.52,
         90.83,
         86.85,
         86.04,
@@ -63,18 +62,18 @@
         86.01,
         83.26,
         83.21,
-        83.98
+        83.98,
+        83.24
       ],
-      "note": "$83.98 — 적정 범위 (70~85)"
+      "note": "$83.24 — 적정 범위 (70~85)"
     },
     "gold": {
-      "value": 3515.3999,
-      "prev_day": 3685.5,
-      "prev_week": 3886.3,
-      "prev_month": 4150.0,
-      "prev_year": 4060.0,
+      "value": 3594.3,
+      "prev_day": 3515.3999,
+      "prev_week": 3853.0,
+      "prev_month": 4007.8999,
+      "prev_year": 4094.2,
       "history": [
-        4113.5,
         4074.8999,
         4114.5,
         4030.2,
@@ -85,9 +84,10 @@
         3864.2,
         3741.8999,
         3685.5,
-        3515.3999
+        3515.3999,
+        3594.3
       ],
-      "note": "$3,515 — US10Y·DXY 하락 시 강세"
+      "note": "$3,594 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
@@ -150,20 +150,20 @@
   ],
   "key_news": [
     {
-      "title": "3 Penny Stocks With Value Gaps Up To 81%",
-      "body": "AI linked stocks just came through a historic rough patch, with the Nasdaq 100 logging its worst week since 2020 and the S&P 500 sliding into correction territory after an AI focused selloff. When mar",
+      "title": "Dow Jones Futures Rise As Oracle, Korea Try To Ease Market Fears; Look For These",
+      "body": "Futures loom as Oracle and South Korea try to calm market fears after the stock market worst week since Covid.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "If a Stock Market Crash Is Coming, Warren Buffett Says This Is the No. 1 Move Al",
-      "body": "The right strategy can protect your portfolio against even severe market volatility.",
+      "title": "Wall Street futures jump after major indexes enter correction territory",
+      "body": "Investing.com-- U.S. stock futures jumped on Sunday evening following a bruising week on Wall Street that pushed all three major indexes into correction territory, with technology shares likely to rem",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "In the Last Tech Bust, the S&P 500 Lost Money for a Decade. History Says Stocks ",
-      "body": "The S&P 500 lost money from 2000 to 2009, but the highest-yielding dividend stocks gained 5.4% a year. Here's what the last tech bust says about yield, and what it doesn't.",
+      "title": "The Stock Market Just Had Its Worst Week in 19 Months. A Sell-Off This Bad Usual",
+      "body": "The S&P 500 fell 9% last week, its worst week in 19 months. Only 8 weeks in 27 years were worse. After 6 of them stocks dropped at least another 17% within a year, and a year later they were higher 5 ",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
