@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-11-25 13:46 KST",
+  "updated_at": "2026-11-26 12:57 KST",
   "metrics": {
     "us10y": {
-      "value": 4.904,
-      "prev_day": 4.918,
-      "prev_week": 5.103,
+      "value": 4.848,
+      "prev_day": 4.904,
+      "prev_week": 5.066,
       "prev_month": 4.986,
-      "prev_year": 4.038,
+      "prev_year": 4.002,
       "history": [
-        4.864,
         4.983,
         4.998,
         5.103,
@@ -19,18 +18,18 @@
         5.052,
         4.912,
         4.918,
-        4.904
+        4.904,
+        4.848
       ],
-      "note": "4.90% — 금리 부담 구간"
+      "note": "4.85% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 103.963,
-      "prev_day": 103.81,
-      "prev_week": 103.86,
-      "prev_month": 101.96,
-      "prev_year": 99.66,
+      "value": 103.825,
+      "prev_day": 103.67,
+      "prev_week": 103.9,
+      "prev_month": 102.32,
+      "prev_year": 99.6,
       "history": [
-        102.23,
         102.91,
         103.17,
         103.41,
@@ -41,18 +40,18 @@
         103.81,
         104.32,
         103.81,
-        103.963
+        103.67,
+        103.825
       ],
-      "note": "103.96 — 달러 강세 / 신흥국 부담"
+      "note": "103.83 — 달러 강세 / 신흥국 부담"
     },
     "wti": {
-      "value": 80.76,
-      "prev_day": 82.05,
-      "prev_week": 83.26,
-      "prev_month": 101.76,
-      "prev_year": 57.95,
+      "value": 84.39,
+      "prev_day": 83.68,
+      "prev_week": 83.21,
+      "prev_month": 99.9,
+      "prev_year": 58.65,
       "history": [
-        86.04,
         86.53,
         88.74,
         88.56,
@@ -63,18 +62,18 @@
         83.98,
         80.17,
         82.05,
-        80.76
+        83.68,
+        84.39
       ],
-      "note": "$80.76 — 적정 범위 (70~85)"
+      "note": "$84.39 — 적정 범위 (70~85)"
     },
     "gold": {
-      "value": 3548.3999,
-      "prev_day": 3561.8999,
-      "prev_week": 3741.8999,
-      "prev_month": 4038.3999,
-      "prev_year": 4140.0,
+      "value": 3609.0,
+      "prev_day": 3535.8,
+      "prev_week": 3685.5,
+      "prev_month": 4074.6001,
+      "prev_year": 4165.2002,
       "history": [
-        4030.2,
         4000.5,
         3885.3,
         3886.3,
@@ -85,85 +84,37 @@
         3515.3999,
         3651.3999,
         3561.8999,
-        3548.3999
+        3535.8,
+        3609.0
       ],
-      "note": "$3,548 — US10Y·DXY 하락 시 강세"
+      "note": "$3,609 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
     {
-      "name": "PCE Services Prices ex Energy & Housing ",
+      "name": "Fed Balance Sheet",
       "actual": "미발표",
       "forecast": "—",
-      "previous": "0.4",
-      "status": "upcoming"
-    },
-    {
-      "name": "PCE Prices ex Food, Energy & Housing MoM",
-      "actual": "미발표",
-      "forecast": "—",
-      "previous": "0.3",
-      "status": "upcoming"
-    },
-    {
-      "name": "Core PCE Price Index YoY",
-      "actual": "미발표",
-      "forecast": "3.2",
-      "previous": "3.1",
-      "status": "upcoming"
-    },
-    {
-      "name": "PCE Price Index MoM",
-      "actual": "미발표",
-      "forecast": "0.3",
-      "previous": "0.5",
-      "status": "upcoming"
-    },
-    {
-      "name": "Core PCE Price Index MoM",
-      "actual": "미발표",
-      "forecast": "0.3",
-      "previous": "0.3",
-      "status": "upcoming"
-    },
-    {
-      "name": "PCE Price Index YoY",
-      "actual": "미발표",
-      "forecast": "3.8",
-      "previous": "3.6",
-      "status": "upcoming"
-    },
-    {
-      "name": "Core PCE Prices QoQ 2nd Est",
-      "actual": "미발표",
-      "forecast": "2.5",
-      "previous": "3.6",
-      "status": "upcoming"
-    },
-    {
-      "name": "GDP Price Index QoQ 2nd Est",
-      "actual": "미발표",
-      "forecast": "2.3",
-      "previous": "6.4",
+      "previous": "6.74145",
       "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "Asian stocks slide as AI selloff deepens, U.S. tariff threats weigh on sentiment",
-      "body": "Investing.com -- Most Asian stocks fell on Wednesday as renewed selling in technology shares erased much of the previous session's AI-driven rebound, with fresh U.S. tariff threats and concerns over t",
+      "title": "U.S. stock futures turn higher as tech rebound holds after wild swings on Wall S",
+      "body": "Investing.com-- U.S. stock index futures turned higher in aftermarket trade on Wednesday, with technology stocks pushing higher after a slowing artificial intelligence trade and strong inflation drove",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "Another Wall Street analyst revamps stock market outlook as volatility surges",
-      "body": "Here’s what the longtime analyst thinks could happen to stocks next.",
+      "title": "S&P 500, Nasdaq End Lower But Dow Rebounds As Traders Rotate Out Of AI — NVDA, S",
+      "body": "The Nasdaq 100 briefly touched bear market territory on Wednesday before paring some losses.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "S&P 500 Correction Is “Garden Variety,” Says Fidelity, Even as 12% Drop Rattles ",
-      "body": "Fidelity's Jurrien Timmer calls the S&P 500 correction of 12.3% normal, citing the history of drawdowns and bear markets.",
+      "title": "5 Best Healthcare Stocks To Buy for 2027",
+      "body": "The healthcare sector is emerging as an attractive investment opportunity heading into 2027, supported by rising demand for medical services, pharmaceutical innovation, and advances in biotechnology. ",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
