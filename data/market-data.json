@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 12:57 KST",
+  "updated_at": "2026-11-27 12:56 KST",
   "metrics": {
     "us10y": {
       "value": 4.848,
@@ -24,10 +24,10 @@
       "note": "4.85% — 금리 부담 구간"
     },
     "dxy": {
-      "value": 103.825,
+      "value": 103.697,
       "prev_day": 103.67,
-      "prev_week": 103.9,
-      "prev_month": 102.32,
+      "prev_week": 103.81,
+      "prev_month": 102.19,
       "prev_year": 99.6,
       "history": [
         102.91,
@@ -41,15 +41,15 @@
         104.32,
         103.81,
         103.67,
-        103.825
+        103.697
       ],
-      "note": "103.83 — 달러 강세 / 신흥국 부담"
+      "note": "103.70 — 달러 강세 / 신흥국 부담"
     },
     "wti": {
-      "value": 84.39,
+      "value": 85.71,
       "prev_day": 83.68,
-      "prev_week": 83.21,
-      "prev_month": 99.9,
+      "prev_week": 83.98,
+      "prev_month": 102.78,
       "prev_year": 58.65,
       "history": [
         86.53,
@@ -63,15 +63,15 @@
         80.17,
         82.05,
         83.68,
-        84.39
+        85.71
       ],
-      "note": "$84.39 — 적정 범위 (70~85)"
+      "note": "$85.71 — 정상 범위 상단"
     },
     "gold": {
-      "value": 3609.0,
+      "value": 3657.3999,
       "prev_day": 3535.8,
-      "prev_week": 3685.5,
-      "prev_month": 4074.6001,
+      "prev_week": 3515.3999,
+      "prev_month": 4051.6001,
       "prev_year": 4165.2002,
       "history": [
         4000.5,
@@ -85,9 +85,9 @@
         3651.3999,
         3561.8999,
         3535.8,
-        3609.0
+        3657.3999
       ],
-      "note": "$3,609 — US10Y·DXY 하락 시 강세"
+      "note": "$3,657 — US10Y·DXY 하락 시 강세"
     }
   },
   "economic_announcements": [
@@ -97,24 +97,38 @@
       "forecast": "—",
       "previous": "6.74145",
       "status": "upcoming"
+    },
+    {
+      "name": "Chicago PMI",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "55.3",
+      "status": "upcoming"
+    },
+    {
+      "name": "Dallas Fed Manufacturing Index",
+      "actual": "미발표",
+      "forecast": "—",
+      "previous": "13.4",
+      "status": "upcoming"
     }
   ],
   "key_news": [
     {
-      "title": "U.S. stock futures turn higher as tech rebound holds after wild swings on Wall S",
-      "body": "Investing.com-- U.S. stock index futures turned higher in aftermarket trade on Wednesday, with technology stocks pushing higher after a slowing artificial intelligence trade and strong inflation drove",
+      "title": "Stocks Are Plunging Right Now. Here's What History Says Investors Should Do.",
+      "body": "Stocks briefly swung into correction territory in November; here's why staying invested may be a smart choice.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "S&P 500, Nasdaq End Lower But Dow Rebounds As Traders Rotate Out Of AI — NVDA, S",
-      "body": "The Nasdaq 100 briefly touched bear market territory on Wednesday before paring some losses.",
+      "title": "Prediction: These 3 Consumer Stocks Will Beat the S&P 500 Over the Next 10 Years",
+      "body": "I think Ferrari, Hilton, and Amer Sports have the brands, the growth runways, and the discipline to outrun the S&P 500 over the next decade.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     },
     {
-      "title": "5 Best Healthcare Stocks To Buy for 2027",
-      "body": "The healthcare sector is emerging as an attractive investment opportunity heading into 2027, supported by rising demand for medical services, pharmaceutical innovation, and advances in biotechnology. ",
+      "title": "Jim Cramer sends strong words to stock market investors",
+      "body": "Jim Cramer believes Wall Street is refusing to call this market what it is.",
       "tag": "market",
       "impact": "뉴스 원문을 확인하세요."
     }
